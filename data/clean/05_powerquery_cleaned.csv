@@ -1,0 +1,960 @@
+﻿order_id;product_id;product_id_valid;product_name;category;supplier_name;quantity;unit_price;total_amount_corrected;currency;order_date;delivery_date;country;city;postal_code;order_status;payment_method;warehouse_code;lead_time_days;discount_pct;customer_email;customer_rating
+ORD-000010;PRD-0016;t;LED Strip 5m;Apparel;Global Cargo Ltda;7800;16525;1288950;BRL;8/05/2022;;Colombia;Cali;;Unknown;PayPal;WH-LIM-04;3900;1090;sofia.v@company.co;490
+ORD-000041;PRD-0049;t;Industrial Drill;Personal Care;Logistics Pro S.A.;7900;61810;4882990;MXN;6/12/2023;;Peru;Cusco;;Returned;Credit Card;WH-BOG-01;100;930;;370
+ORD-000909;PRD-0048;t;Protein Powder 2kg;Apparel;Global Cargo Ltda;3668000;24936;914652480;COP;21/07/2024;10/08/2024;Peru;Arequipa;;Delivered;PayPal;WH-SCL-05;3200;3820;luis.p@outlook.com;250
+ORD-000943;PRD-0050;t;Solar Panel 250W;Apparel;Pacific Trade Sas;22500;143753;32344425;MXN;18/03/2023;30/04/2023;Brasil;SÃ£o Paulo;;Returned;PayPal;WH-SCL-05;800;3020;john.d@gmail.com;170
+ORD-000944;PRD-0039;t;Solar Panel 250W;Personal Care;Unknown;43200;131405;56766960;USD;7/06/2024;14/07/2024;Brasil;Rio de Janeiro;;Delivered;Credit Card;WH-MED-02;2400;3810;john.d@company.co;470
+ORD-000945;PRD-0010;t;Wireless Headset;Industrial;Global Cargo Ltda;600;214089;1284534;BRL;13/06/2024;18/07/2024;Brasil;Brasil;;Delivered;PayPal;WH-MED-02;3200;2040;;450
+ORD-000946;PRD-0010;t;Coffee Maker 12cup;Apparel;Global Cargo Ltda;4300;93718;4029874;COP;4/03/2023;10/03/2023;Chile;Santiago;;Cancelled;Credit Card;WH-540;800;560;sofia.v@gmail.com;370
+ORD-000947;PRD-0034;t;Wireless Headset;Personal Care;Pacific Trade Sas;40000;36555;14622000;BRL;17/04/2022;24/04/2022;Mexico;Ciudad de MÃ©xico;;Pending;PayPal;WH-SCL-05;1800;970;john.d@outlook.com;300
+ORD-000948;PROD-001;f;Coffee Maker 12cup;Food & Beverage;Logistics Pro S.A.;400;98139;392556;USD;10/11/2022;24/11/2022;Brasil;Calle 644;;Delivered;Cash;WH-456;2400;1710;maria.g@company.co;470
+ORD-000949;PRD-0030;t;Wireless Headset;Apparel;Pacific Trade Sas;25900;195541;50645119;MXN;19/01/2023;30/01/2023;Colombia;Cali;;Cancelled;Bank Transfer;WH-SCL-05;1600;2040;john.d@outlook.com;410
+ORD-000950;PRD-0028;t;Running Shoes M;Food & Beverage;Logistics Pro S.A.;46700;72978;34080726;COP;28/03/2024;29/04/2024;Brasil;Rio de Janeiro;;In Transit;Bank Transfer;WH-BOG-01;2500;3390;sofia.v@company.co;310
+ORD-000951;PRD-0035;t;Laptop Pro 15;Food & Beverage;Andean Freight Co.;5900;41382;2441538;MXN;21/09/2023;11/11/2023;Mexico;Ciudad de MÃ©xico;;Delivered;PayPal;WH-LIM-04;2300;3790;john.d@yahoo.com;380
+ORD-000952;PRD-0034;t;Protein Powder 2kg;Apparel;Andean Freight Co.;30200;126943;38336786;COP;5/11/2023;14/12/2023;Brasil;BrasÃ­lia;;Pending;Bank Transfer;WH-CAL-03;2300;350;sofia.v@company.co;230
+ORD-000953;PRD-0023;t;Wireless Headset;Electronics;Logistics Pro S.A.;24300;129668;31509324;USD;3/10/2024;;Peru;Arequipa;;Pending;Cash;WH-CAL-03;3500;2200;luis.p@company.co;120
+ORD-000954;PRD-0034;t;Office Chair Ergonomic;Industrial;Logistics Pro S.A.;25900;85426;22125334;USD;13/02/2024;30/03/2024;Chile;ConcepciÃ³n;;In Transit;Credit Card;WH-LIM-04;3000;1980;john.d@gmail.com;250
+ORD-000955;PRD-0017;t;Protein Powder 2kg;Apparel;Global Cargo Ltda;17700;222212;39331524;USD;3/02/2023;15/03/2023;Brasil;SÃ£o Paulo;;Returned;PayPal;WH-BOG-01;4200;3410;luis.p@gmail.com;390
+ORD-000956;PRD-0011;t;Mechanical Keyboard;Industrial;Fastship Colombia;9400;212809;20004046;MXN;8/09/2023;15/10/2023;Brasil;Rio de Janeiro;;Returned;Cash;WH-MED-02;3300;1330;ana.m@company.co;180
+ORD-000957;PRD-0009;t;LED Strip 5m;Personal Care;Global Cargo Ltda;40600;188753;76633718;COP;20/05/2024;25/06/2024;Brasil;Rio de Janeiro;;In Transit;Bank Transfer;WH-BOG-01;4400;1680;ana.m@yahoo.com;240
+ORD-000958;PRD-0007;t;Laptop Pro 15;Apparel;Logistics Pro S.A.;9200;56503;5198276;MXN;22/07/2022;2/08/2022;Mexico;Monterrey;;Pending;PayPal;WH-CAL-03;2600;1970;carlos.r@gmail.com;170
+ORD-000959;PRD-0012;t;Mechanical Keyboard;Food & Beverage;Fastship Colombia;4500;21175;952875;USD;27/12/2023;26/01/2024;Peru;Lima;;Unknown;Bank Transfer;WH-SCL-05;4000;3910;ana.m@company.co;330
+ORD-000001;PROD-001;f;Safety Gloves L;Personal Care;Fastship Colombia;30900;132305;40882245;COP;8/07/2024;7/09/2024;Peru;Lima;;Delivered;Credit Card;WH-CAL-03;3500;320;john.d@yahoo.com;220
+ORD-000002;PRD-0007;t;Running Shoes M;Food & Beverage;Logistics Pro S.A.;19500;55294;10782330;USD;15/04/2023;11/05/2023;Mexico;Monterrey;;Cancelled;PayPal;WH-SCL-05;2800;880;carlos.r@gmail.com;370
+ORD-000003;PRD-0039;t;Protein Powder 2kg;Electronics;Pacific Trade Sas;8100;66216;5363496;USD;4/09/2023;17/09/2023;Mexico;Monterrey;;Cancelled;Unknown;WH-CAL-03;3700;1940;maria.g@yahoo.com;310
+ORD-000004;PRD-0035;t;Mechanical Keyboard;Food & Beverage;Logistics Pro S.A.;30200;57621;17401542;USD;18/11/2024;2/12/2024;Chile;Santiago;;In Transit;PayPal;WH-BOG-01;700;3200;luis.p@company.co;450
+ORD-000005;PRD-0036;t;Office Chair Ergonomic;Electronics;Fastship Colombia;8500;196126;16670710;BRL;14/11/2022;18/11/2022;Chile;ValparaÃ­so;;Returned;Credit Card;WH-BOG-01;800;2320;;260
+ORD-000006;PRD-0021;t;Office Chair Ergonomic;Electronics;Andean Freight Co.;3600;208519;7506684;USD;6/09/2023;2/11/2023;Colombia;Cali;;Returned;Cash;WH-CAL-03;400;1110;;480
+ORD-000007;PRD-0003;t;Industrial Drill;Food & Beverage;Logistics Pro S.A.;40000;187495;74998000;COP;29/12/2022;;Brasil;Rio de Janeiro;;In Transit;Credit Card;WH-LIM-04;3000;3490;ana.m@outlook.com;240
+ORD-000008;PRD-0035;t;Industrial Drill;Apparel;Logistics Pro S.A.;31100;47925;14904675;COP;16/01/2024;15/03/2024;Brasil;SÃ£o Paulo;;Pending;Cash;WH-MED-02;2500;2460;carlos.r@outlook.com;360
+ORD-000009;PRD-0014;t;Solar Panel 250W;Apparel;Pacific Trade Sas;11600;245992;28535072;BRL;28/04/2024;13/06/2024;Peru;Lima;;Unknown;Credit Card;WH-SCL-05;800;2670;ana.m@company.co;400
+ORD-000011;PRD-0038;t;Bluetooth Speaker;Industrial;Global Cargo Ltda;38600;117842;45487012;MXN;5/04/2023;17/05/2023;Mexico;Ciudad de MÃ©xico;;Cancelled;Bank Transfer;WH-CAL-03;800;1240;luis.p@company.co;380
+ORD-000012;PRD-0050;t;Coffee Maker 12cup;Personal Care;Andean Freight Co.;25900;90866;23534294;BRL;10/11/2022;22/12/2022;Chile;ValparaÃ­so;;Pending;Bank Transfer;WH-LIM-04;4000;1980;john.d@outlook.com;210
+ORD-000013;PRD-0004;t;Coffee Maker 12cup;Industrial;Logistics Pro S.A.;12800;197790;25317120;BRL;25/06/2024;23/07/2024;Chile;ConcepciÃ³n;;Delivered;Bank Transfer;WH-LIM-04;1900;1130;maria.g@outlook.com;470
+ORD-000014;PRD-0042;t;Wireless Headset;Apparel;Pacific Trade Sas;20700;20570;4257990;MXN;22/02/2022;17/04/2022;Colombia;Cali;;In Transit;PayPal;WH-SCL-05;600;1280;ana.m@company.co;320
+ORD-000015;PRD-0021;t;Office Chair Ergonomic;Electronics;Andean Freight Co.;22700;231954;52653558;USD;3/01/2022;17/03/2022;Brasil;BrasÃ­lia;;Delivered;Credit Card;WH-CAL-03;3100;2210;luis.p@yahoo.com;270
+ORD-000016;PRD-0001;t;Coffee Maker 12cup;Industrial;Andean Freight Co.;16500;96051;15848415;MXN;26/08/2024;20/09/2024;Mexico;Ciudad de MÃ©xico;;Pending;PayPal;WH-BOG-01;4200;3130;ana.m@gmail.com;250
+ORD-000017;PRD-0049;t;Protein Powder 2kg;Electronics;Global Cargo Ltda;32500;75217;24445525;MXN;7/02/2024;3/05/2024;Mexico;Ciudad de MÃ©xico;;In Transit;Bank Transfer;WH-LIM-04;2300;2710;john.d@outlook.com;440
+ORD-000018;PRD-0031;t;Office Chair Ergonomic;Food & Beverage;Fastship Colombia;38200;208293;79567926;COP;23/12/2023;1/09/2024;Mexico;Monterrey;;Cancelled;Cash;WH-CAL-03;1300;3890;maria.g@outlook.com;220
+ORD-000019;PRD-0030;t;Office Chair Ergonomic;Industrial;Global Cargo Ltda;18900;205693;38875977;COP;23/08/2024;;Chile;Santiago;;Pending;Credit Card;WH-CAL-03;1600;1810;luis.p@company.co;360
+ORD-000020;PRD-0018;t;Laptop Pro 15;Apparel;Global Cargo Ltda;9800;23373;2290554;USD;14/04/2022;23/04/2022;Colombia;Cali;;In Transit;Bank Transfer;WH-CAL-03;900;440;john.d@yahoo.com;300
+ORD-000021;PRD-0008;t;Mechanical Keyboard;Personal Care;Pacific Trade Sas;23500;211901;49796735;BRL;31/05/2022;10/06/2022;Brasil;BrasÃ­lia;;Returned;PayPal;WH-BOG-01;3600;1810;ana.m@company.co;370
+ORD-000022;PRD-0031;t;Office Chair Ergonomic;Food & Beverage;Pacific Trade Sas;44800;180405;80821440;MXN;1/08/2022;13/09/2022;Colombia;Cali;;Returned;PayPal;WH-SCL-05;200;2770;;130
+ORD-000023;PRD-0006;t;Mechanical Keyboard;Apparel;Pacific Trade Sas;2600;121673;3163498;USD;8/12/2023;21/01/2024;Chile;Santiago;;Delivered;Unknown;WH-MED-02;800;2040;sofia.v@yahoo.com;130
+ORD-000024;PRD-9999;t;Protein Powder 2kg;Personal Care;Global Cargo Ltda;25900;172558;44692522;BRL;5/08/2022;8/09/2022;Brasil;SÃ£o Paulo;;Returned;Bank Transfer;WH-MED-02;1300;3040;sofia.v@company.co;370
+ORD-000025;PRD-0040;t;Industrial Drill;Electronics;Global Cargo Ltda;2000;216130;4322600;BRL;5/08/2024;22/09/2024;Chile;ValparaÃ­so;;Delivered;Cash;WH-MED-02;2900;1460;john.d@gmail.com;140
+ORD-000026;PRD-0047;t;LED Strip 5m;Electronics;Global Cargo Ltda;36300;198020;71881260;USD;17/05/2024;;Mexico;Guadalajara;;In Transit;Bank Transfer;WH-BOG-01;3400;3070;maria.g@yahoo.com;170
+ORD-000027;PRD-0044;t;Mechanical Keyboard;Industrial;Andean Freight Co.;22600;132101;29854826;COP;28/05/2023;21/06/2023;Chile;ValparaÃ­so;;Cancelled;Bank Transfer;WH-MED-02;200;1500;maria.g@gmail.com;230
+ORD-000028;P-123;f;Mechanical Keyboard;Personal Care;Fastship Colombia;25900;132179;34234361;MXN;5/02/2023;29/05/2023;Peru;Peru;;Returned;Bank Transfer;Unknown;1200;3900;luis.p@gmail.com;490
+ORD-000029;PRD-9999;t;Industrial Drill;Personal Care;Logistics Pro S.A.;35100;202969;71242119;BRL;17/03/2022;30/03/2022;Brasil;BrasÃ­lia;;In Transit;Credit Card;WH-BOG-01;2600;1550;ana.m@outlook.com;390
+ORD-000030;PRD-0012;t;Solar Panel 250W;Food & Beverage;Andean Freight Co.;46700;245017;114422939;BRL;15/01/2024;26/01/2024;Chile;ValparaÃ­so;;Delivered;Cash;WH-BOG-01;2400;2300;sofia.v@outlook.com;300
+ORD-000031;PRD-0017;t;Coffee Maker 12cup;Industrial;Logistics Pro S.A.;35000;177530;62135500;MXN;19/11/2022;30/12/2022;Chile;Santiago;;Cancelled;Unknown;WH-SCL-05;500;2880;luis.p@gmail.com;290
+ORD-000032;PRD-0050;t;Solar Panel 250W;Industrial;Logistics Pro S.A.;11600;211560;24540960;MXN;14/09/2022;20/09/2022;Mexico;Monterrey;;Returned;Credit Card;WH-BOG-01;1700;1670;sofia.v@outlook.com;420
+ORD-000033;PRD-0045;t;Laptop Pro 15;Food & Beverage;Global Cargo Ltda;19000;31069;5903110;USD;18/08/2023;14/09/2023;Brasil;BrasÃ­lia;;Cancelled;PayPal;WH-BOG-01;3000;1410;sofia.v@company.co;300
+ORD-000034;PRD-0047;t;Solar Panel 250W;Industrial;Logistics Pro S.A.;45600;132305;60331080;USD;17/05/2023;1/06/2023;Colombia;Colombia;;Pending;Bank Transfer;WH-LIM-04;3800;2500;john.d@company.co;160
+ORD-000035;P-123;f;Coffee Maker 12cup;Personal Care;Andean Freight Co.;7600;175280;13321280;BRL;7/11/2022;10/12/2022;Colombia;Cali;;Cancelled;Cash;WH-SCL-05;4400;2440;luis.p@outlook.com;220
+ORD-000036;PRD-0021;t;Protein Powder 2kg;Food & Beverage;Pacific Trade Sas;41200;20218;8329816;BRL;15/03/2023;14/05/2023;Brasil;Brasil;;Returned;Bank Transfer;WH-LIM-04;100;630;ana.m@company.co;210
+ORD-000037;PRD-0042;t;Bluetooth Speaker;Electronics;Fastship Colombia;9600;219247;21047712;MXN;6/08/2023;9/09/2023;Chile;Santiago;;Cancelled;Bank Transfer;WH-444;1300;3590;carlos.r@company.co;230
+ORD-000038;PRD-0016;t;Protein Powder 2kg;Personal Care;Logistics Pro S.A.;15800;222006;35076948;MXN;23/01/2024;1/02/2024;Peru;Cusco;;Cancelled;Bank Transfer;WH-SCL-05;2900;3670;luis.p@yahoo.com;310
+ORD-000039;PRD-0038;t;Protein Powder 2kg;Industrial;Pacific Trade Sas;20300;29611096;6011052488;USD;4/05/2022;3/07/2022;Brasil;SÃ£o Paulo;;Cancelled;PayPal;WH-LIM-04;4300;3440;ana.m@yahoo.com;300
+ORD-000040;PRD-0031;t;Safety Gloves L;Industrial;Andean Freight Co.;33200;134141;44534812;BRL;22/03/2022;5/10/2022;Chile;Santiago;;Delivered;Bank Transfer;WH-LIM-04;1400;1290;sofia.v@outlook.com;290
+ORD-000042;PRD-0032;t;Laptop Pro 15;Unknown;Global Cargo Ltda;46600;60622;28249852;MXN;2/07/2023;28/07/2023;Mexico;Ciudad de MÃ©xico;;Delivered;Credit Card;WH-SCL-05;4500;1740;carlos.r@gmail.com;330
+ORD-000043;PRD-0044;t;Coffee Maker 12cup;Food & Beverage;Andean Freight Co.;20400;141891;28945764;MXN;26/02/2024;11/04/2024;Chile;ValparaÃ­so;;Cancelled;Credit Card;WH-SCL-05;200;1800;ana.m@company.co;410
+ORD-000044;PRD-0005;t;Office Chair Ergonomic;Apparel;Logistics Pro S.A.;5300;138908;7362124;USD;10/07/2022;4/09/2022;Brasil;SÃ£o Paulo;;In Transit;Bank Transfer;WH-CAL-03;500;1200;maria.g@company.co;220
+ORD-000045;PRD-0040;t;Running Shoes M;Personal Care;Fastship Colombia;37700;60985;22991345;BRL;18/01/2024;25/02/2024;Chile;ConcepciÃ³n;;Delivered;PayPal;WH-CAL-03;2800;3960;luis.p@company.co;460
+ORD-000046;PRD-0006;t;Office Chair Ergonomic;Personal Care;Fastship Colombia;5500;132305;7276775;COP;1/07/2024;14/08/2024;Chile;Santiago;;Delivered;Bank Transfer;WH-MED-02;700;1280;carlos.r@gmail.com;170
+ORD-000047;PRD-0012;t;Solar Panel 250W;Apparel;Fastship Colombia;10200;132305;13495110;MXN;9/05/2022;13/06/2022;Brasil;SÃ£o Paulo;;Returned;Cash;WH-SCL-05;3000;2820;carlos.r@yahoo.com;250
+ORD-000048;PRD-0039;t;Wireless Headset;Personal Care;Fastship Colombia;23100;121410;28045710;BRL;17/04/2024;10/06/2024;Mexico;Ciudad de MÃ©xico;;Returned;PayPal;WH-LIM-04;800;3960;sofia.v@company.co;430
+ORD-000049;PRD-0003;t;Protein Powder 2kg;Electronics;Pacific Trade Sas;31600;15310;4837960;COP;25/10/2023;1/12/2023;Colombia;MedellÃ­n;;In Transit;Bank Transfer;WH-MED-02;3200;2510;carlos.r@company.co;250
+ORD-000050;PRD-0001;t;Mechanical Keyboard;Food & Beverage;Andean Freight Co.;42500;213179;90601075;USD;5/04/2022;5/05/2022;Mexico;Ciudad de MÃ©xico;;In Transit;Cash;WH-CAL-03;600;660;sofia.v@yahoo.com;190
+ORD-000051;PRD-0034;t;LED Strip 5m;Food & Beverage;Andean Freight Co.;41300;34714;14336882;COP;20/10/2022;29/11/2022;Peru;Lima;;Cancelled;PayPal;WH-BOG-01;2500;3160;maria.g@outlook.com;360
+ORD-000052;PRD-0033;t;Safety Gloves L;Apparel;Andean Freight Co.;25900;209824;54344416;COP;22/08/2024;24/08/2024;Colombia;BogotÃ¡;;Cancelled;PayPal;WH-SCL-05;600;810;ana.m@gmail.com;200
+ORD-000053;PRD-0008;t;Protein Powder 2kg;Electronics;Logistics Pro S.A.;7506400;180331;13536366184;MXN;30/08/2022;;Brasil;Rio de Janeiro;;Delivered;Cash;WH-MED-02;700;460;;300
+ORD-000054;PRD-0012;t;Laptop Pro 15;Industrial;Global Cargo Ltda;46200;11959;5525058;MXN;29/09/2023;30/09/2023;Brasil;Rio de Janeiro;;Pending;PayPal;WH-SCL-05;100;2170;carlos.r@outlook.com;300
+ORD-000055;PRD-0007;t;Safety Gloves L;Electronics;Global Cargo Ltda;35900;145402;52199318;BRL;3/06/2022;16/07/2022;Brasil;Rio de Janeiro;;Pending;Cash;WH-MED-02;1000;1260;maria.g@company.co;160
+ORD-000056;PRD-0045;t;Bluetooth Speaker;Electronics;Andean Freight Co.;1600;137755;2204080;COP;6/09/2022;;Mexico;Guadalajara;;Delivered;Cash;WH-BOG-01;900;3240;carlos.r@yahoo.com;300
+ORD-000057;PRD-0023;t;Safety Gloves L;Apparel;Andean Freight Co.;24600;50265;12365190;USD;23/02/2024;29/03/2024;Chile;ValparaÃ­so;;Returned;Cash;WH-SCL-05;1500;2630;sofia.v@gmail.com;490
+ORD-000058;PRD-0012;t;Wireless Headset;Food & Beverage;Unknown;28900;242612;70114868;USD;4/07/2022;6/07/2022;Colombia;Cali;;In Transit;Cash;WH-MED-02;2400;3770;john.d@outlook.com;420
+ORD-000059;PRD-0012;t;Mechanical Keyboard;Food & Beverage;Fastship Colombia;100;248574;248574;MXN;29/03/2023;30/04/2023;Colombia;MedellÃ­n;;Delivered;Cash;WH-MED-02;700;1750;ana.m@company.co;430
+ORD-000060;PRD-0049;t;LED Strip 5m;Electronics;Logistics Pro S.A.;28100;246326;69217606;BRL;4/12/2022;8/12/2022;Mexico;Guadalajara;;Returned;Cash;WH-LIM-04;1000;2040;sofia.v@company.co;220
+ORD-000061;PRD-0020;t;Running Shoes M;Personal Care;Andean Freight Co.;11600;174270;20215320;BRL;11/04/2023;3/06/2023;Chile;ValparaÃ­so;;Pending;Credit Card;WH-SCL-05;800;3800;maria.g@yahoo.com;180
+ORD-000062;PRD-0039;t;Coffee Maker 12cup;Electronics;Global Cargo Ltda;25900;28573;7400407;USD;5/08/2022;24/08/2022;Peru;Cusco;;Delivered;PayPal;WH-LIM-04;2200;1900;john.d@outlook.com;370
+ORD-000063;PRD-0020;t;Mechanical Keyboard;Industrial;Andean Freight Co.;44500;16871;7507595;USD;22/12/2022;14/02/2023;Colombia;MedellÃ­n;;Cancelled;Credit Card;WH-LIM-04;3100;650;sofia.v@gmail.com;330
+ORD-000064;PRD-0042;t;Safety Gloves L;Electronics;Logistics Pro S.A.;11500;241773;27803895;BRL;16/12/2023;5/01/2024;Chile;Santiago;;Delivered;Cash;WH-CAL-03;500;1300;sofia.v@outlook.com;120
+ORD-000065;PRD-0026;t;LED Strip 5m;Unknown;Andean Freight Co.;41800;133891;55966438;MXN;4/11/2024;17/12/2024;Brasil;Calle 759;;In Transit;Cash;WH-MED-02;2200;1860;sofia.v@gmail.com;370
+ORD-000066;PRD-0010;t;Wireless Headset;Industrial;Fastship Colombia;32500;193499;62887175;USD;23/09/2022;19/10/2022;Peru;Calle 205;;Returned;Credit Card;WH-CAL-03;3300;3300;sofia.v@outlook.com;500
+ORD-000067;PRD-0011;t;Running Shoes M;Apparel;Fastship Colombia;32800;248673;81564744;USD;9/04/2022;4/05/2022;Brasil;SÃ£o Paulo;;Delivered;Credit Card;WH-SCL-05;700;1130;luis.p@yahoo.com;240
+ORD-000068;PRD-0036;t;Protein Powder 2kg;Apparel;Fastship Colombia;7700;181032;13939464;BRL;30/08/2023;22/10/2023;Brasil;BrasÃ­lia;;Delivered;Credit Card;WH-240;2300;1070;john.d@yahoo.com;430
+ORD-000069;PRD-0027;t;LED Strip 5m;Electronics;Logistics Pro S.A.;9300;215713;20061309;COP;16/09/2024;13/10/2024;Colombia;MedellÃ­n;;In Transit;Bank Transfer;WH-CAL-03;4000;990;ana.m@yahoo.com;120
+ORD-000070;PRD-0031;t;Protein Powder 2kg;Industrial;Global Cargo Ltda;12100;22461;2717781;BRL;6/02/2022;14/03/2022;Colombia;Cali;;Returned;PayPal;WH-BOG-01;2200;1890;carlos.r@gmail.com;430
+ORD-000071;PRD-0034;t;Industrial Drill;Apparel;Andean Freight Co.;20200;84814;17132428;USD;11/07/2024;13/08/2024;Colombia;BogotÃ¡;;Returned;Bank Transfer;WH-MED-02;3900;1540;maria.g@outlook.com;420
+ORD-000072;PRD-0048;t;Solar Panel 250W;Personal Care;Pacific Trade Sas;36400;173731;63238084;MXN;10/09/2024;26/10/2024;Chile;ValparaÃ­so;;Delivered;Credit Card;WH-MED-02;1000;1180;ana.m@gmail.com;190
+ORD-000073;PRD-0033;t;Mechanical Keyboard;Industrial;Global Cargo Ltda;44500;227916;101422620;COP;1/02/2023;17/03/2023;Mexico;Ciudad de MÃ©xico;;Returned;Bank Transfer;WH-CAL-03;300;200;sofia.v@outlook.com;410
+ORD-000074;PRD-0012;t;Solar Panel 250W;Personal Care;Fastship Colombia;31700;245293;77757881;COP;23/03/2022;21/05/2022;Brasil;Rio de Janeiro;;Returned;Cash;WH-LIM-04;1300;380;luis.p@gmail.com;190
+ORD-000075;PRD-0014;t;Solar Panel 250W;Industrial;Fastship Colombia;9200;57298;5271416;BRL;5/06/2024;13/06/2024;Chile;ConcepciÃ³n;;Returned;Cash;WH-LIM-04;200;550;luis.p@outlook.com;470
+ORD-000076;PRD-0024;t;Laptop Pro 15;Electronics;Pacific Trade Sas;17700;36043;6379611;MXN;2/02/2023;11/03/2023;Peru;Lima;;Delivered;PayPal;WH-MED-02;1300;2470;luis.p@outlook.com;230
+ORD-000077;PRD-0042;t;Running Shoes M;Food & Beverage;Global Cargo Ltda;4200;134885;5665170;USD;4/06/2022;15/07/2022;Chile;ConcepciÃ³n;;Pending;PayPal;WH-LIM-04;1900;360;;370
+ORD-000078;PRD-0011;t;Wireless Headset;Apparel;Global Cargo Ltda;12000;90632;10875840;USD;23/03/2022;5/08/2022;Brasil;Rio de Janeiro;;Cancelled;Cash;WH-BOG-01;1500;3470;luis.p@gmail.com;130
+ORD-000079;PRD-0012;t;Wireless Headset;Apparel;Logistics Pro S.A.;42700;148291;63320257;COP;25/04/2022;29/05/2022;Chile;ConcepciÃ³n;;Delivered;PayPal;WH-LIM-04;1200;670;luis.p@gmail.com;180
+ORD-000080;PRD-0027;t;Wireless Headset;Personal Care;Andean Freight Co.;6700;132305;8864435;BRL;5/12/2024;19/01/2025;Mexico;Guadalajara;;Returned;Credit Card;WH-MED-02;3900;760;luis.p@gmail.com;420
+ORD-000081;PRD-0028;t;LED Strip 5m;Personal Care;Andean Freight Co.;19000;144624;27478560;COP;1/09/2022;16/10/2022;Mexico;Guadalajara;;Delivered;Credit Card;WH-LIM-04;500;2440;ana.m@outlook.com;430
+ORD-000082;PRD-0013;t;LED Strip 5m;Personal Care;Pacific Trade Sas;25900;88605;22948695;COP;26/11/2024;;Chile;ConcepciÃ³n;;Pending;Bank Transfer;WH-BOG-01;700;1360;john.d@outlook.com;410
+ORD-000083;PRD-0030;t;LED Strip 5m;Unknown;Fastship Colombia;26500;72179;19127435;MXN;5/06/2022;26/06/2022;Chile;ConcepciÃ³n;;Cancelled;Bank Transfer;WH-MED-02;4000;480;ana.m@gmail.com;290
+ORD-000084;PRD-0037;t;Coffee Maker 12cup;Food & Beverage;Fastship Colombia;25800;114570;29559060;MXN;18/01/2022;;Colombia;Cali;;Pending;PayPal;WH-MED-02;4500;1600;luis.p@yahoo.com;320
+ORD-000085;PRD-0048;t;Wireless Headset;Industrial;Pacific Trade Sas;44000;15479;6810760;USD;10/07/2024;3/08/2024;Brasil;Rio de Janeiro;;Returned;Bank Transfer;WH-CAL-03;2900;1150;maria.g@outlook.com;460
+ORD-000086;PRD-0021;t;Industrial Drill;Industrial;Global Cargo Ltda;43800;132305;57949590;USD;8/03/2023;13/03/2023;Colombia;MedellÃ­n;;Delivered;PayPal;WH-CAL-03;3400;2650;ana.m@company.co;280
+ORD-000087;PRD-0012;t;Bluetooth Speaker;Personal Care;Pacific Trade Sas;22700;3134;711418;COP;6/12/2023;20/01/2024;Brasil;Calle 818;;Returned;PayPal;WH-MED-02;2500;320;luis.p@outlook.com;270
+ORD-000088;PRD-0019;t;Office Chair Ergonomic;Personal Care;Fastship Colombia;13800;132305;18258090;USD;7/10/2024;27/11/2024;Peru;Lima;;In Transit;PayPal;WH-MED-02;2500;3070;ana.m@yahoo.com;410
+ORD-000089;PRD-0031;t;Running Shoes M;Electronics;Logistics Pro S.A.;44300;108823;48208589;BRL;13/05/2023;5/11/2023;Peru;Lima;;In Transit;Cash;WH-BOG-01;4500;1950;sofia.v@outlook.com;380
+ORD-000090;PRD-0003;t;Protein Powder 2kg;Industrial;Global Cargo Ltda;44100;74270;32753070;USD;2/11/2024;4/11/2024;Chile;ConcepciÃ³n;;Returned;Bank Transfer;WH-SCL-05;2700;2090;maria.g@yahoo.com;140
+ORD-000091;PRD-0043;t;Protein Powder 2kg;Food & Beverage;Logistics Pro S.A.;4100;185998;7625918;USD;29/06/2023;22/08/2023;Mexico;Ciudad de MÃ©xico;;Cancelled;Bank Transfer;WH-SCL-05;700;2700;carlos.r@yahoo.com;360
+ORD-000092;PRD-0023;t;Industrial Drill;Industrial;Global Cargo Ltda;47500;239976;113988600;USD;26/11/2024;27/11/2024;Mexico;Ciudad de MÃ©xico;;Pending;Bank Transfer;WH-MED-02;3800;1200;maria.g@gmail.com;430
+ORD-000093;PRD-0007;t;Bluetooth Speaker;Apparel;Logistics Pro S.A.;47700;163368;77926536;USD;21/04/2022;26/05/2022;Brasil;SÃ£o Paulo;;Cancelled;Credit Card;WH-LIM-04;3100;1600;sofia.v@yahoo.com;260
+ORD-000094;PRD-0048;t;Solar Panel 250W;Apparel;Pacific Trade Sas;16500;42729;7050285;BRL;26/10/2022;;Brasil;BrasÃ­lia;;Delivered;Bank Transfer;WH-BOG-01;2000;840;luis.p@outlook.com;380
+ORD-000095;PRD-0043;t;Solar Panel 250W;Personal Care;Logistics Pro S.A.;18500;88066853;16292367805;BRL;7/11/2024;28/11/2024;Chile;Santiago;;Delivered;Cash;WH-MED-02;-500;3980;carlos.r@outlook.com;110
+ORD-000096;PRD-0010;t;Industrial Drill;Industrial;Fastship Colombia;31000;35075;10873250;COP;25/09/2023;23/11/2023;Mexico;Monterrey;;Returned;Credit Card;WH-MED-02;2700;2980;sofia.v@outlook.com;110
+ORD-000097;PRD-0039;t;Bluetooth Speaker;Electronics;Andean Freight Co.;9500;48718;4628210;USD;25/04/2024;8/05/2024;Mexico;Guadalajara;;Pending;Bank Transfer;WH-SCL-05;2100;2290;sofia.v@gmail.com;120
+ORD-000098;PRD-0026;t;Mechanical Keyboard;Electronics;Global Cargo Ltda;47100;207558;97759818;USD;4/01/2023;18/02/2023;Peru;Arequipa;;Cancelled;Bank Transfer;WH-CAL-03;1100;460;luis.p@company.co;160
+ORD-000099;PRD-0000;t;Industrial Drill;Apparel;Andean Freight Co.;9300;155829;14492097;BRL;12/01/2022;26/01/2022;Peru;Arequipa;;Returned;Unknown;WH-SCL-05;1200;150;luis.p@outlook.com;500
+ORD-000100;PRD-0043;t;Mechanical Keyboard;Industrial;Logistics Pro S.A.;3500;117969;4128915;MXN;15/12/2024;29/12/2024;Colombia;Cali;;Returned;Cash;WH-CAL-03;2300;1990;maria.g@yahoo.com;300
+ORD-000101;PRD-0048;t;Safety Gloves L;Food & Beverage;Fastship Colombia;15800;28902;4566516;USD;26/12/2022;24/02/2023;Peru;Cusco;;Cancelled;Cash;WH-BOG-01;4400;830;john.d@gmail.com;490
+ORD-000102;PROD-001;f;LED Strip 5m;Food & Beverage;Logistics Pro S.A.;28700;79962;22949094;MXN;17/05/2023;14/07/2023;Peru;Lima;;Cancelled;PayPal;WH-MED-02;3500;3060;sofia.v@company.co;410
+ORD-000103;PRD-0010;t;Bluetooth Speaker;Food & Beverage;Andean Freight Co.;43400;32285;14011690;USD;30/10/2023;19/11/2023;Peru;Lima;;Cancelled;Cash;WH-LIM-04;2200;2650;luis.p@company.co;140
+ORD-000104;PRD-0026;t;Office Chair Ergonomic;Industrial;Logistics Pro S.A.;32600;113517;37006542;BRL;5/02/2023;25/02/2023;Brasil;Rio de Janeiro;;Delivered;PayPal;WH-BOG-01;400;2040;john.d@gmail.com;230
+ORD-000105;PRD-0035;t;Safety Gloves L;Industrial;Andean Freight Co.;3700;164653;6092161;COP;1/05/2024;15/06/2024;Chile;ConcepciÃ³n;;Cancelled;Bank Transfer;Unknown;3300;2310;;390
+ORD-000106;PRD-0049;t;Coffee Maker 12cup;Personal Care;Global Cargo Ltda;35100;13667;4797117;BRL;18/07/2024;3/09/2024;Brasil;Rio de Janeiro;;Returned;Cash;WH-MED-02;1900;1150;john.d@outlook.com;110
+ORD-000107;PRD-0038;t;Mechanical Keyboard;Food & Beverage;Fastship Colombia;7500;188314;14123550;BRL;9/12/2022;1/01/2023;Brasil;SÃ£o Paulo;;Cancelled;Cash;WH-SCL-05;2500;3480;;350
+ORD-000108;PRD-0042;t;Coffee Maker 12cup;Personal Care;Fastship Colombia;35400;132305;46835970;USD;25/01/2022;10/03/2022;Mexico;Guadalajara;;Delivered;Bank Transfer;WH-BOG-01;2500;2260;sofia.v@yahoo.com;360
+ORD-000109;PRD-0028;t;Mechanical Keyboard;Apparel;Logistics Pro S.A.;13600;50567;6877112;USD;22/10/2022;1/12/2022;Peru;Lima;;Delivered;Cash;Unknown;100;1070;luis.p@gmail.com;270
+ORD-000110;PRD-0005;t;Solar Panel 250W;Industrial;Global Cargo Ltda;33200;20574;6830568;COP;28/12/2022;9/02/2023;Peru;Cusco;;Cancelled;Bank Transfer;WH-SCL-05;3500;3860;carlos.r@gmail.com;260
+ORD-000111;PRD-0034;t;Protein Powder 2kg;Personal Care;Fastship Colombia;25900;43476;11260284;MXN;19/07/2022;26/08/2022;Colombia;Cali;;Cancelled;PayPal;WH-SCL-05;1400;1340;ana.m@yahoo.com;470
+ORD-000112;PRD-0041;t;Bluetooth Speaker;Electronics;Global Cargo Ltda;14600;173243;25293478;BRL;23/04/2024;7/06/2024;Mexico;Monterrey;;Pending;Credit Card;WH-SCL-05;3500;2510;carlos.r@yahoo.com;170
+ORD-000113;PRD_0045;f;Industrial Drill;Industrial;Logistics Pro S.A.;24900;111483;27759267;MXN;17/04/2023;24/04/2023;Peru;Arequipa;;Returned;PayPal;WH-LIM-04;3000;3900;sofia.v@gmail.com;270
+ORD-000114;PRD-0019;t;Bluetooth Speaker;Apparel;Fastship Colombia;30300;132305;40088415;COP;23/05/2023;20/07/2023;Chile;ValparaÃ­so;;Cancelled;Credit Card;WH-BOG-01;3600;1630;maria.g@gmail.com;300
+ORD-000115;PRD-0037;t;Mechanical Keyboard;Apparel;Global Cargo Ltda;9222100;8662;798818302;COP;15/06/2022;14/08/2022;Brasil;SÃ£o Paulo;;Delivered;Bank Transfer;WH-SCL-05;2200;1910;sofia.v@yahoo.com;460
+ORD-000116;PRD-0004;t;Office Chair Ergonomic;Electronics;Pacific Trade Sas;35500;223030;79175650;COP;14/08/2023;25/08/2023;Mexico;Ciudad de MÃ©xico;;Pending;Bank Transfer;WH-BOG-01;1500;1340;john.d@company.co;280
+ORD-000117;PRD-0020;t;Wireless Headset;Food & Beverage;Global Cargo Ltda;27500;173368;47676200;COP;28/08/2022;6/09/2022;Brasil;BrasÃ­lia;;Pending;PayPal;WH-CAL-03;3200;3710;luis.p@outlook.com;490
+ORD-000118;PRD-0043;t;Wireless Headset;Food & Beverage;Logistics Pro S.A.;43100;152234;65612854;MXN;5/02/2023;;Colombia;MedellÃ­n;;Returned;Credit Card;WH-MED-02;2500;1410;carlos.r@yahoo.com;420
+ORD-000119;PRD-0028;t;Mechanical Keyboard;Electronics;Pacific Trade Sas;4600;132305;6086030;BRL;8/10/2022;27/10/2022;Colombia;MedellÃ­n;;Returned;Bank Transfer;WH-101;4100;2620;ana.m@yahoo.com;300
+ORD-000120;PRD-0039;t;Mechanical Keyboard;Food & Beverage;Logistics Pro S.A.;4401700;219640;9667893880;MXN;10/01/2024;2/02/2024;Brasil;SÃ£o Paulo;;In Transit;Bank Transfer;WH-CAL-03;2400;3290;;160
+ORD-000121;PRD-0036;t;Bluetooth Speaker;Personal Care;Andean Freight Co.;24600;110764;27247944;MXN;19/12/2022;;Mexico;Monterrey;;Delivered;Credit Card;WH-LIM-04;4300;480;sofia.v@gmail.com;180
+ORD-000122;PRD-0023;t;Laptop Pro 15;Personal Care;Pacific Trade Sas;42000;29529805;12402518100;USD;22/07/2022;15/09/2022;Brasil;SÃ£o Paulo;;In Transit;PayPal;WH-LIM-04;800;1980;sofia.v@gmail.com;280
+ORD-000123;PRD-0029;t;Safety Gloves L;Apparel;Andean Freight Co.;9836200;164808;16210844496;BRL;28/07/2022;8/08/2022;Mexico;Monterrey;;In Transit;PayPal;WH-SCL-05;4200;2670;luis.p@outlook.com;300
+ORD-000124;PRD-0002;t;Office Chair Ergonomic;Electronics;Global Cargo Ltda;38500;73744;28391440;MXN;6/02/2022;6/03/2022;Peru;Arequipa;;In Transit;Cash;WH-LIM-04;3200;1960;ana.m@company.co;210
+ORD-000125;PRD-0044;t;Industrial Drill;Personal Care;Logistics Pro S.A.;45700;247990;113331430;COP;23/05/2023;29/05/2023;Brasil;Brasil;;Cancelled;PayPal;WH-SCL-05;-500;2290;sofia.v@yahoo.com;240
+ORD-000126;PRD-0028;t;Safety Gloves L;Personal Care;Global Cargo Ltda;4800;68705;3297840;BRL;6/03/2023;28/04/2023;Brasil;BrasÃ­lia;;Pending;PayPal;WH-BOG-01;1200;3850;sofia.v@company.co;180
+ORD-000127;PRD-0048;t;LED Strip 5m;Electronics;Global Cargo Ltda;20800;199363;41467504;BRL;14/05/2024;25/05/2024;Colombia;MedellÃ­n;;Delivered;PayPal;WH-BOG-01;500;1450;sofia.v@yahoo.com;150
+ORD-000128;PRD-0050;t;Solar Panel 250W;Electronics;Pacific Trade Sas;11200;110149;12336688;BRL;28/12/2024;18/01/2025;Peru;Arequipa;;Pending;Cash;WH-SCL-05;400;960;sofia.v@outlook.com;190
+ORD-000129;P-123;f;Coffee Maker 12cup;Food & Beverage;Andean Freight Co.;1800;123177;2217186;MXN;15/05/2024;7/07/2024;Brasil;Rio de Janeiro;;Returned;PayPal;WH-MED-02;900;2040;carlos.r@yahoo.com;360
+ORD-000130;PRD-0027;t;Industrial Drill;Apparel;Global Cargo Ltda;48400;6231;3015804;COP;2/07/2022;16/08/2022;Peru;Cusco;;Pending;Credit Card;WH-637;3000;900;john.d@outlook.com;180
+ORD-000131;PRD-0047;t;LED Strip 5m;Electronics;Pacific Trade Sas;4400;132305;5821420;COP;25/02/2024;13/03/2024;Chile;ValparaÃ­so;;Returned;Credit Card;WH-615;2600;3570;;310
+ORD-000132;PRD-0003;t;Wireless Headset;Food & Beverage;Global Cargo Ltda;45800;237538;108792404;BRL;19/04/2022;1/05/2022;Brasil;Rio de Janeiro;;Cancelled;Cash;WH-LIM-04;1000;3470;luis.p@outlook.com;500
+ORD-000133;PRD-0009;t;Industrial Drill;Industrial;Global Cargo Ltda;31500;128579;40502385;COP;11/10/2024;17/10/2024;Peru;Arequipa;;Pending;PayPal;WH-BOG-01;3300;2640;john.d@gmail.com;300
+ORD-000134;PRD-0026;t;Laptop Pro 15;Personal Care;Andean Freight Co.;9600;65200;6259200;USD;1/12/2022;;Peru;Arequipa;;Returned;Cash;WH-CAL-03;4400;500;;270
+ORD-000135;PRD-0013;t;Office Chair Ergonomic;Electronics;Andean Freight Co.;10400;83796;8714784;BRL;5/01/2024;9/06/2024;Brasil;Brasil;;Cancelled;Credit Card;WH-CAL-03;4200;1980;sofia.v@company.co;300
+ORD-000136;PRD-0015;t;Solar Panel 250W;Personal Care;Andean Freight Co.;42700;118345;50533315;COP;2/08/2023;2/09/2023;Mexico;Guadalajara;;Cancelled;Bank Transfer;WH-CAL-03;1100;2010;carlos.r@yahoo.com;240
+ORD-000137;prd-0012;f;Coffee Maker 12cup;Personal Care;Andean Freight Co.;40100;205991;82602391;COP;11/01/2024;9/02/2024;Colombia;MedellÃ­n;;In Transit;PayPal;Unknown;1900;1490;sofia.v@yahoo.com;190
+ORD-000138;PRD-0027;t;Protein Powder 2kg;Electronics;Pacific Trade Sas;8500;230668;19606780;MXN;8/05/2024;13/06/2024;Brasil;SÃ£o Paulo;;Returned;PayPal;WH-SCL-05;2900;3130;john.d@gmail.com;400
+ORD-000139;PRD-0019;t;Safety Gloves L;Apparel;Andean Freight Co.;37200;210475;78296700;USD;8/04/2022;7/05/2022;Colombia;BogotÃ¡;;Returned;Bank Transfer;WH-SCL-05;3400;2070;ana.m@gmail.com;140
+ORD-000140;PRD-0014;t;Protein Powder 2kg;Personal Care;Global Cargo Ltda;48600;36514;17745804;COP;17/11/2024;1/12/2024;Colombia;Cali;;Returned;Credit Card;WH-BOG-01;2000;1940;luis.p@company.co;190
+ORD-000141;PRD-0008;t;Solar Panel 250W;Personal Care;Global Cargo Ltda;39100;166972;65286052;USD;18/04/2024;10/05/2024;Peru;Cusco;;Delivered;Cash;WH-SCL-05;3500;2280;carlos.r@gmail.com;210
+ORD-000142;PRD-0038;t;Protein Powder 2kg;Personal Care;Logistics Pro S.A.;27100;25284;6851964;MXN;3/07/2022;16/08/2022;Chile;Santiago;;Delivered;Credit Card;WH-CAL-03;800;2390;luis.p@company.co;320
+ORD-000143;PRD_0045;f;Safety Gloves L;Personal Care;Fastship Colombia;22900;241994;55416626;COP;17/05/2024;20/05/2024;Chile;Santiago;;Cancelled;Cash;WH-CAL-03;3300;2140;sofia.v@gmail.com;450
+ORD-000144;PRD-0021;t;LED Strip 5m;Industrial;Global Cargo Ltda;25900;132305;34266995;USD;22/12/2022;6/02/2023;Chile;ConcepciÃ³n;;Cancelled;Cash;WH-SCL-05;4500;1480;;380
+ORD-000145;PRD-0041;t;Coffee Maker 12cup;Food & Beverage;Global Cargo Ltda;10100;69698;7039498;COP;26/12/2022;31/12/2022;Chile;ConcepciÃ³n;;Delivered;Cash;WH-BOG-01;4200;1730;sofia.v@company.co;390
+ORD-000146;PRD-0035;t;Protein Powder 2kg;Personal Care;Fastship Colombia;8500;7454;633590;USD;28/05/2023;19/06/2023;Chile;Santiago;;Delivered;Credit Card;WH-BOG-01;4500;3680;sofia.v@company.co;220
+ORD-000147;PRD-0049;t;Running Shoes M;Electronics;Andean Freight Co.;40100;132305;53054305;USD;19/05/2022;16/07/2022;Chile;ValparaÃ­so;;In Transit;Credit Card;WH-LIM-04;2300;3100;john.d@outlook.com;300
+ORD-000148;prd-0012;f;Solar Panel 250W;Apparel;Logistics Pro S.A.;30800;84247;25948076;USD;19/07/2024;20/08/2024;Mexico;Guadalajara;;Pending;PayPal;WH-BOG-01;200;1760;john.d@gmail.com;190
+ORD-000149;PRD-0036;t;Safety Gloves L;Apparel;Fastship Colombia;15700;43254;6790878;BRL;14/05/2022;23/05/2022;Chile;ValparaÃ­so;;In Transit;Bank Transfer;WH-MED-02;1800;3870;carlos.r@company.co;260
+ORD-000150;PRD-0024;t;Protein Powder 2kg;Personal Care;Andean Freight Co.;33300;215860;71881380;BRL;18/11/2022;24/12/2022;Colombia;Cali;;Cancelled;Cash;WH-LIM-04;1800;940;carlos.r@outlook.com;410
+ORD-000151;PRD-0005;t;Industrial Drill;Food & Beverage;Global Cargo Ltda;36700;132305;48555935;MXN;4/07/2024;;Peru;Lima;;In Transit;PayPal;WH-BOG-01;4500;3410;;270
+ORD-000152;PRD-0050;t;Mechanical Keyboard;Unknown;Fastship Colombia;46800;51449;24078132;COP;30/08/2024;28/09/2024;Colombia;Cali;;Returned;Bank Transfer;WH-LIM-04;4300;1470;;260
+ORD-000153;PRD-0014;t;Coffee Maker 12cup;Personal Care;Fastship Colombia;25900;201988;52314892;BRL;31/07/2024;;Peru;Cusco;;In Transit;Bank Transfer;WH-LIM-04;4500;3780;john.d@outlook.com;460
+ORD-000154;PRD-0049;t;Solar Panel 250W;Personal Care;Andean Freight Co.;32800;186616;61210048;USD;29/05/2023;19/06/2023;Peru;Lima;;Cancelled;Cash;WH-BOG-01;800;310;maria.g@company.co;370
+ORD-000155;PRD-0041;t;Solar Panel 250W;Industrial;Pacific Trade Sas;19200;132305;25402560;USD;22/11/2023;27/11/2023;Mexico;Ciudad de MÃ©xico;;Pending;Bank Transfer;WH-LIM-04;1400;60;;210
+ORD-000156;PRD-0000;t;Running Shoes M;Electronics;Pacific Trade Sas;35700;33666;12018762;MXN;14/09/2024;;Peru;Cusco;;Delivered;Credit Card;WH-MED-02;2400;1500;sofia.v@company.co;360
+ORD-000157;PRD-0027;t;LED Strip 5m;Food & Beverage;Logistics Pro S.A.;36900;46295;17082855;BRL;24/05/2022;3/06/2022;Colombia;Cali;;In Transit;PayPal;WH-MED-02;1600;3870;ana.m@gmail.com;290
+ORD-000158;PRD-0028;t;Wireless Headset;Unknown;Global Cargo Ltda;23800;120471;28672098;COP;13/11/2022;;Brasil;Rio de Janeiro;;Pending;Cash;WH-LIM-04;800;780;sofia.v@outlook.com;380
+ORD-000159;PRD-0048;t;Safety Gloves L;Apparel;Logistics Pro S.A.;34900;165820;57871180;USD;27/02/2024;25/04/2024;Mexico;Ciudad de MÃ©xico;;Pending;PayPal;WH-BOG-01;2300;840;carlos.r@yahoo.com;300
+ORD-000160;PRD-0042;t;Coffee Maker 12cup;Apparel;Logistics Pro S.A.;9400;217968;20488992;USD;7/12/2022;15/12/2022;Brasil;SÃ£o Paulo;;Delivered;Credit Card;WH-BOG-01;100;3850;john.d@company.co;230
+ORD-000161;PRD-0026;t;Running Shoes M;Electronics;Fastship Colombia;30900;187984;58087056;BRL;20/11/2024;31/12/2024;Brasil;BrasÃ­lia;;Returned;Credit Card;WH-LIM-04;700;780;luis.p@gmail.com;370
+ORD-000162;PRD-0011;t;Protein Powder 2kg;Apparel;Logistics Pro S.A.;16800;64778;10882704;USD;6/10/2022;;Brasil;BrasÃ­lia;;Pending;PayPal;WH-LIM-04;800;1360;carlos.r@outlook.com;390
+ORD-000163;PRD-0013;t;Running Shoes M;Apparel;Fastship Colombia;25900;55117;14275303;COP;8/04/2023;25/09/2023;Chile;ConcepciÃ³n;;Returned;Bank Transfer;WH-LIM-04;1000;2930;carlos.r@yahoo.com;430
+ORD-000164;PRD-0002;t;Solar Panel 250W;Food & Beverage;Pacific Trade Sas;28100;145306;40830986;MXN;26/07/2024;24/08/2024;Brasil;SÃ£o Paulo;;Delivered;Credit Card;WH-MED-02;4400;380;carlos.r@gmail.com;490
+ORD-000165;PRD-0003;t;Office Chair Ergonomic;Apparel;Logistics Pro S.A.;33500;20496475;6866319125;COP;17/02/2022;20/03/2022;Colombia;BogotÃ¡;;Cancelled;Bank Transfer;WH-SCL-05;200;3130;luis.p@gmail.com;150
+ORD-000166;PRD-0001;t;Solar Panel 250W;Personal Care;Pacific Trade Sas;15300;236335;36159255;MXN;29/12/2024;12/02/2025;Brasil;BrasÃ­lia;;Delivered;Bank Transfer;WH-MED-02;1400;2920;john.d@company.co;480
+ORD-000167;PRD-0010;t;Solar Panel 250W;Apparel;Pacific Trade Sas;22300;67896;15140808;BRL;16/05/2022;14/07/2022;Mexico;Ciudad de MÃ©xico;;In Transit;Credit Card;WH-SCL-05;3200;2290;carlos.r@gmail.com;240
+ORD-000168;PRD-0035;t;Solar Panel 250W;Apparel;Fastship Colombia;47100;62653;29509563;COP;17/06/2024;20/07/2024;Peru;Cusco;;Pending;Credit Card;WH-CAL-03;500;660;luis.p@company.co;300
+ORD-000169;PRD-0009;t;Protein Powder 2kg;Personal Care;Pacific Trade Sas;6570100;184876;12146538076;USD;7/07/2024;2/09/2024;Mexico;Calle 527;;Cancelled;Credit Card;WH-SCL-05;1900;850;maria.g@outlook.com;460
+ORD-000170;PRD-0032;t;Laptop Pro 15;Food & Beverage;Fastship Colombia;25900;38851;10062409;BRL;15/01/2022;30/01/2022;Brasil;Rio de Janeiro;;Pending;PayPal;WH-MED-02;2300;440;ana.m@outlook.com;290
+ORD-000171;PRD-0027;t;Protein Powder 2kg;Food & Beverage;Andean Freight Co.;5700;86358;4922406;MXN;29/05/2024;26/06/2024;Brasil;Rio de Janeiro;;Returned;Cash;WH-MED-02;3100;2800;luis.p@yahoo.com;500
+ORD-000172;PRD-0040;t;Safety Gloves L;Industrial;Fastship Colombia;2700;88081;2378187;USD;8/01/2023;25/02/2023;Brasil;BrasÃ­lia;;Cancelled;Cash;WH-SCL-05;2400;3120;sofia.v@outlook.com;150
+ORD-000173;PRD-0038;t;LED Strip 5m;Electronics;Andean Freight Co.;39000;48331;18849090;MXN;20/01/2024;19/03/2024;Peru;Cusco;;Pending;Bank Transfer;WH-BOG-01;2600;2050;luis.p@company.co;180
+ORD-000174;PRD-0014;t;Protein Powder 2kg;Industrial;Andean Freight Co.;9500;235867;22407365;MXN;30/11/2022;13/01/2023;Colombia;MedellÃ­n;;Delivered;Bank Transfer;WH-SCL-05;800;2580;;300
+ORD-000175;PRD-0048;t;Industrial Drill;Personal Care;Global Cargo Ltda;32200;136388;43916936;BRL;18/10/2022;;Peru;Arequipa;;Cancelled;Credit Card;WH-MED-02;2300;1440;carlos.r@yahoo.com;370
+ORD-000176;PRD-0020;t;Bluetooth Speaker;Industrial;Logistics Pro S.A.;7600;196494;14933544;BRL;25/07/2023;3/08/2023;Brasil;Rio de Janeiro;;Returned;Cash;WH-MED-02;3500;3290;ana.m@yahoo.com;300
+ORD-000177;prd-0012;f;Protein Powder 2kg;Food & Beverage;Fastship Colombia;46800;186875;87457500;COP;13/02/2024;12/03/2024;Colombia;BogotÃ¡;;In Transit;Cash;WH-BOG-01;1000;560;ana.m@company.co;110
+ORD-000178;PRD-0042;t;Laptop Pro 15;Industrial;Andean Freight Co.;36400;23438;8531432;COP;31/03/2024;12/04/2024;Chile;ConcepciÃ³n;;Cancelled;Bank Transfer;WH-LIM-04;500;1340;carlos.r@gmail.com;300
+ORD-000179;PRD-0003;t;Safety Gloves L;Personal Care;Logistics Pro S.A.;5674500;78961;4480641945;COP;19/07/2022;21/08/2022;Mexico;Mexico;;In Transit;PayPal;WH-MED-02;4200;3970;luis.p@outlook.com;350
+ORD-000180;PRD_0045;f;LED Strip 5m;Electronics;Andean Freight Co.;25900;195471;50626989;USD;20/07/2024;31/07/2024;Chile;Santiago;;Delivered;Cash;WH-LIM-04;800;1450;luis.p@yahoo.com;230
+ORD-000181;PRD-0029;t;Coffee Maker 12cup;Electronics;Pacific Trade Sas;20500;167453;34327865;BRL;12/08/2022;10/10/2022;Mexico;Ciudad de MÃ©xico;;Cancelled;PayPal;WH-SCL-05;4100;3950;john.d@company.co;110
+ORD-000182;PRD-0017;t;LED Strip 5m;Electronics;Andean Freight Co.;4800;74578;3579744;BRL;31/08/2024;15/10/2024;Chile;Santiago;;In Transit;Bank Transfer;WH-CAL-03;-300;1270;john.d@gmail.com;350
+ORD-000183;PRD-0003;t;Safety Gloves L;Apparel;Fastship Colombia;25900;90698853;23491002927;USD;19/10/2024;15/11/2024;Chile;ValparaÃ­so;;Cancelled;Bank Transfer;WH-LIM-04;700;420;ana.m@gmail.com;140
+ORD-000184;PRD-0003;t;LED Strip 5m;Industrial;Andean Freight Co.;46500;2397;1114605;MXN;3/07/2023;26/08/2023;Mexico;Guadalajara;;In Transit;Cash;WH-LIM-04;1300;210;sofia.v@company.co;310
+ORD-000185;PRD-0009;t;Solar Panel 250W;Food & Beverage;Global Cargo Ltda;30400;243114;73906656;USD;18/07/2024;30/07/2024;Mexico;Monterrey;;Cancelled;Credit Card;WH-BOG-01;700;490;maria.g@gmail.com;180
+ORD-000186;PRD-0027;t;Office Chair Ergonomic;Industrial;Andean Freight Co.;3341800;29743;993951574;USD;21/11/2022;29/11/2022;Colombia;Cali;;Pending;Bank Transfer;WH-240;900;3810;john.d@company.co;260
+ORD-000187;PRD-0044;t;Mechanical Keyboard;Personal Care;Andean Freight Co.;16400;142002;23288328;USD;9/07/2024;11/08/2024;Peru;Cusco;;Cancelled;Unknown;WH-MED-02;4300;1260;;320
+ORD-000188;PRD-0034;t;Safety Gloves L;Electronics;Andean Freight Co.;25600;113470;29048320;COP;13/02/2022;9/04/2022;Peru;Arequipa;;Returned;Credit Card;Unknown;2700;3010;john.d@company.co;280
+ORD-000189;PRD-0008;t;Industrial Drill;Electronics;Andean Freight Co.;41800;217070;90735260;USD;4/09/2022;;Peru;Lima;;Delivered;Bank Transfer;WH-LIM-04;3400;2650;sofia.v@company.co;130
+ORD-000190;PRD-0043;t;LED Strip 5m;Industrial;Logistics Pro S.A.;25000;132147;33036750;MXN;18/07/2024;25/07/2024;Brasil;Rio de Janeiro;;Cancelled;Cash;WH-SCL-05;700;3580;sofia.v@company.co;240
+ORD-000191;PRD-0028;t;Solar Panel 250W;Electronics;Andean Freight Co.;31200;161763;50470056;USD;15/03/2022;19/04/2022;Mexico;Monterrey;;Delivered;Cash;WH-MED-02;3900;2040;luis.p@company.co;170
+ORD-000192;PRD-0022;t;Protein Powder 2kg;Industrial;Unknown;39000;145998;56939220;USD;3/04/2022;22/04/2022;Chile;Santiago;;Pending;Cash;WH-LIM-04;2300;2070;luis.p@company.co;110
+ORD-000193;PRD-0043;t;Wireless Headset;Personal Care;Global Cargo Ltda;5600;224856;12591936;COP;28/06/2023;20/07/2023;Peru;Arequipa;;Returned;Credit Card;WH-CAL-03;3200;2720;luis.p@yahoo.com;110
+ORD-000194;PRD-0038;t;Office Chair Ergonomic;Electronics;Global Cargo Ltda;34100;178443;60849063;BRL;15/06/2022;14/08/2022;Peru;Lima;;Returned;PayPal;WH-SCL-05;1700;1200;sofia.v@company.co;270
+ORD-000195;PRD-0021;t;Solar Panel 250W;Industrial;Andean Freight Co.;38700;145290;56227230;MXN;20/04/2022;16/05/2022;Peru;Cusco;;Delivered;Credit Card;WH-CAL-03;400;2040;luis.p@yahoo.com;460
+ORD-000196;PRD-0041;t;Coffee Maker 12cup;Personal Care;Logistics Pro S.A.;5400;14385;776790;COP;27/04/2023;19/06/2023;Peru;Cusco;;Delivered;Bank Transfer;WH-SCL-05;1900;1970;sofia.v@gmail.com;210
+ORD-000197;PRD-0038;t;Coffee Maker 12cup;Industrial;Logistics Pro S.A.;14200;132305;18787310;COP;16/12/2023;18/01/2024;Mexico;Monterrey;;In Transit;Cash;WH-LIM-04;4300;2030;sofia.v@outlook.com;430
+ORD-000198;PRD_0045;f;Wireless Headset;Industrial;Fastship Colombia;49900;29061;14501439;MXN;2/03/2022;16/04/2022;Mexico;Monterrey;;Cancelled;Cash;WH-LIM-04;1300;3840;maria.g@gmail.com;130
+ORD-000199;PRD-0047;t;LED Strip 5m;Industrial;Pacific Trade Sas;44800;74908;33558784;MXN;16/02/2022;17/04/2022;Brasil;Calle 992;;Returned;Cash;WH-BOG-01;1700;1690;carlos.r@yahoo.com;400
+ORD-000200;PRD-0032;t;Office Chair Ergonomic;Electronics;Andean Freight Co.;48500;124401;60334485;BRL;14/09/2023;29/09/2023;Colombia;BogotÃ¡;;Delivered;Credit Card;WH-MED-02;900;2460;john.d@company.co;100
+ORD-000201;PRD-0035;t;Bluetooth Speaker;Apparel;Fastship Colombia;45600;119936;54690816;MXN;26/02/2023;21/03/2023;Brasil;BrasÃ­lia;;Returned;Cash;WH-BOG-01;4000;3650;john.d@yahoo.com;110
+ORD-000202;PRD-0049;t;Protein Powder 2kg;Apparel;Pacific Trade Sas;3100;215762;6688622;COP;16/02/2024;20/02/2024;Colombia;MedellÃ­n;;Pending;Cash;WH-BOG-01;2800;3710;luis.p@company.co;500
+ORD-000203;PRD-0047;t;Bluetooth Speaker;Industrial;Fastship Colombia;12800;10132;1296896;MXN;26/01/2022;16/02/2022;Peru;Arequipa;;Delivered;PayPal;WH-LIM-04;1800;3810;john.d@outlook.com;160
+ORD-000204;PRD-9999;t;LED Strip 5m;Personal Care;Fastship Colombia;34800;11661;4058028;BRL;20/08/2022;10/09/2022;Peru;Calle 897;;Pending;PayPal;WH-CAL-03;300;2360;john.d@outlook.com;360
+ORD-000205;PRD-0042;t;Office Chair Ergonomic;Personal Care;Pacific Trade Sas;40900;110534;45208406;MXN;15/05/2023;8/06/2023;Brasil;SÃ£o Paulo;;Cancelled;Cash;WH-CAL-03;2900;3310;maria.g@company.co;420
+ORD-000206;PRD-0027;t;Running Shoes M;Apparel;Logistics Pro S.A.;24100;108139;26061499;COP;20/11/2024;17/01/2025;Mexico;Monterrey;;Pending;Cash;WH-BOG-01;2900;2960;sofia.v@yahoo.com;430
+ORD-000207;PRD-0001;t;Bluetooth Speaker;Food & Beverage;Pacific Trade Sas;2500;211094;5277350;MXN;1/01/2023;18/02/2023;Peru;Cusco;;Pending;Credit Card;WH-MED-02;1700;3700;maria.g@yahoo.com;300
+ORD-000208;PRD-0013;t;Laptop Pro 15;Food & Beverage;Andean Freight Co.;36200;123567;44731254;MXN;27/08/2022;14/10/2022;Colombia;Cali;;Returned;Credit Card;WH-BOG-01;3400;2640;sofia.v@gmail.com;190
+ORD-000209;PRD-0032;t;Wireless Headset;Electronics;Fastship Colombia;9200;157941;14530572;COP;7/09/2023;20/10/2023;Peru;Cusco;;Delivered;Cash;WH-MED-02;3000;1390;ana.m@company.co;300
+ORD-000210;PRD-0027;t;Laptop Pro 15;Industrial;Andean Freight Co.;32600;143340;46728840;USD;7/11/2023;24/12/2023;Colombia;MedellÃ­n;;Returned;Credit Card;WH-MED-02;2600;3210;maria.g@yahoo.com;300
+ORD-000211;PRD-0026;t;Protein Powder 2kg;Unknown;Logistics Pro S.A.;6800;19594;1332392;BRL;11/02/2022;;Mexico;Monterrey;;Pending;PayPal;WH-CAL-03;4200;1720;john.d@company.co;250
+ORD-000212;PRD-0024;t;Solar Panel 250W;Electronics;Global Cargo Ltda;32300;216275;69856825;COP;5/04/2024;22/05/2024;Colombia;MedellÃ­n;;In Transit;PayPal;WH-MED-02;3500;940;luis.p@gmail.com;150
+ORD-000213;PRD-0015;t;Industrial Drill;Industrial;Pacific Trade Sas;10400;70356;7317024;BRL;8/11/2023;17/12/2023;Chile;ValparaÃ­so;;Unknown;Bank Transfer;WH-MED-02;100;210;sofia.v@company.co;320
+ORD-000214;PRD-0031;t;Industrial Drill;Personal Care;Global Cargo Ltda;40400;163197;65931588;BRL;10/12/2023;15/01/2024;Brasil;BrasÃ­lia;;Pending;Credit Card;WH-CAL-03;100;1100;sofia.v@outlook.com;110
+ORD-000215;PRD-0039;t;LED Strip 5m;Personal Care;Logistics Pro S.A.;43600;14484;6315024;USD;23/07/2023;1/09/2023;Brasil;Rio de Janeiro;;Returned;Cash;WH-LIM-04;400;2010;ana.m@gmail.com;170
+ORD-000216;PRD-0001;t;Coffee Maker 12cup;Personal Care;Andean Freight Co.;16300;197290;32158270;USD;21/05/2023;18/07/2023;Mexico;Guadalajara;;In Transit;PayPal;WH-MED-02;4500;1420;luis.p@company.co;480
+ORD-000217;PRD-0037;t;Safety Gloves L;Food & Beverage;Pacific Trade Sas;10800;29267;3160836;COP;14/08/2024;8/09/2024;Colombia;BogotÃ¡;;Delivered;PayPal;WH-BOG-01;1100;90;luis.p@company.co;390
+ORD-000218;PRD-0026;t;Coffee Maker 12cup;Personal Care;Global Cargo Ltda;47300;131259;62085507;COP;24/09/2022;28/09/2022;Mexico;Guadalajara;;In Transit;Bank Transfer;WH-MED-02;1600;3100;;370
+ORD-000219;PRD-0049;t;Office Chair Ergonomic;Industrial;Andean Freight Co.;49700;192077;95462269;USD;26/03/2024;4/04/2024;Colombia;MedellÃ­n;;In Transit;Cash;WH-LIM-04;2700;2070;john.d@gmail.com;160
+ORD-000220;PRD-0044;t;Protein Powder 2kg;Industrial;Global Cargo Ltda;25800;133989;34569162;BRL;24/12/2024;30/12/2024;Brasil;BrasÃ­lia;;Returned;PayPal;WH-BOG-01;2400;1480;carlos.r@outlook.com;300
+ORD-000221;PRD-0039;t;Office Chair Ergonomic;Electronics;Pacific Trade Sas;14100;229734;32392494;BRL;25/03/2022;4/04/2022;Colombia;Cali;;Delivered;PayPal;WH-CAL-03;600;470;john.d@yahoo.com;190
+ORD-000222;PRD-0045;t;Wireless Headset;Apparel;Andean Freight Co.;23700;55720;13205640;MXN;1/08/2024;23/08/2024;Peru;Lima;;Cancelled;PayPal;WH-LIM-04;3700;2250;luis.p@outlook.com;290
+ORD-000223;PRD-0040;t;Industrial Drill;Food & Beverage;Fastship Colombia;6400;142901;9145664;BRL;16/04/2024;13/06/2024;Brasil;BrasÃ­lia;;Pending;PayPal;WH-LIM-04;1100;1150;ana.m@yahoo.com;270
+ORD-000224;PRD-0002;t;Bluetooth Speaker;Electronics;Logistics Pro S.A.;4700;197575;9286025;COP;27/11/2022;13/12/2022;Mexico;Guadalajara;;Delivered;PayPal;WH-LIM-04;3000;2420;maria.g@yahoo.com;300
+ORD-000225;PRD-0034;t;Protein Powder 2kg;Industrial;Pacific Trade Sas;1300;203010;2639130;USD;15/01/2024;25/02/2024;Peru;Lima;;Returned;Credit Card;WH-CAL-03;3100;2570;ana.m@yahoo.com;230
+ORD-000226;PRD-0015;t;Wireless Headset;Apparel;Logistics Pro S.A.;11700;156787;18344079;MXN;31/12/2024;6/01/2025;Chile;Santiago;;In Transit;PayPal;WH-CAL-03;1300;3620;maria.g@yahoo.com;140
+ORD-000227;PRD_0045;f;Office Chair Ergonomic;Apparel;Andean Freight Co.;25900;110939;28733201;BRL;2/01/2022;20/01/2022;Mexico;Guadalajara;;Pending;Bank Transfer;WH-SCL-05;1200;3900;carlos.r@company.co;240
+ORD-000228;PRD-0013;t;Office Chair Ergonomic;Food & Beverage;Global Cargo Ltda;9900;152726;15119874;BRL;3/05/2024;2/07/2024;Brasil;Rio de Janeiro;;Pending;PayPal;WH-BOG-01;2700;3900;;220
+ORD-000229;PRD-0025;t;Industrial Drill;Personal Care;Logistics Pro S.A.;30400;165025;50167600;BRL;27/05/2023;21/06/2023;Colombia;MedellÃ­n;;Pending;Bank Transfer;WH-LIM-04;3800;350;sofia.v@outlook.com;160
+ORD-000230;PRD-0045;t;Mechanical Keyboard;Industrial;Global Cargo Ltda;36100;35497;12814417;BRL;9/04/2022;12/05/2022;Chile;Santiago;;Pending;PayPal;WH-BOG-01;3600;3190;ana.m@yahoo.com;210
+ORD-000231;PRD-0048;t;Wireless Headset;Electronics;Andean Freight Co.;20000;132305;26461000;COP;31/10/2023;13/11/2023;Chile;Santiago;;Delivered;Credit Card;WH-BOG-01;1500;650;maria.g@outlook.com;300
+ORD-000232;PRD-0025;t;Laptop Pro 15;Industrial;Global Cargo Ltda;41800;144787;60520966;COP;9/04/2022;27/09/2022;Peru;Lima;;Pending;PayPal;WH-488;700;3350;john.d@yahoo.com;260
+ORD-000233;PRD-0018;t;Mechanical Keyboard;Apparel;Unknown;2000;165408;3308160;COP;5/08/2024;;Mexico;Ciudad de MÃ©xico;;In Transit;Cash;WH-CAL-03;-1000;140;carlos.r@company.co;140
+ORD-000234;PRD-0027;t;Office Chair Ergonomic;Personal Care;Logistics Pro S.A.;33700;24551;8273687;COP;15/09/2022;25/09/2022;Colombia;Cali;;Delivered;Cash;WH-CAL-03;3800;3530;ana.m@outlook.com;110
+ORD-000235;PRD-0004;t;Safety Gloves L;Electronics;Andean Freight Co.;24800;242710;60192080;BRL;23/06/2023;11/07/2023;Brasil;SÃ£o Paulo;;Cancelled;PayPal;WH-CAL-03;2400;2170;carlos.r@gmail.com;220
+ORD-000236;PRD-0006;t;Solar Panel 250W;Personal Care;Fastship Colombia;40000;200165;80066000;COP;2/06/2024;;Mexico;Monterrey;;Returned;Bank Transfer;WH-LIM-04;2700;540;;470
+ORD-000237;PRD-0004;t;Running Shoes M;Apparel;Andean Freight Co.;49400;181632;89726208;COP;27/06/2024;18/07/2024;Colombia;Cali;;Cancelled;PayPal;WH-SCL-05;2200;160;sofia.v@company.co;450
+ORD-000238;PRD-0034;t;Office Chair Ergonomic;Food & Beverage;Andean Freight Co.;44300;226230;100219890;MXN;1/01/2024;22/02/2024;Chile;ConcepciÃ³n;;Cancelled;PayPal;WH-LIM-04;4200;470;sofia.v@company.co;360
+ORD-000239;PRD-0034;t;Laptop Pro 15;Industrial;Unknown;5100;114427;5835777;MXN;23/12/2023;21/01/2024;Peru;Cusco;;In Transit;Cash;WH-MED-02;2200;3220;john.d@gmail.com;350
+ORD-000240;PRD-0013;t;Coffee Maker 12cup;Industrial;Fastship Colombia;35900;44888;16114792;USD;5/07/2022;17/08/2022;Mexico;Monterrey;;Cancelled;Cash;WH-CAL-03;300;3970;;300
+ORD-000241;prd-0012;f;Protein Powder 2kg;Personal Care;Pacific Trade Sas;38300;200530;76802990;COP;18/10/2023;2/12/2023;Mexico;Monterrey;;Returned;Cash;WH-MED-02;4200;900;ana.m@company.co;170
+ORD-000242;PRD-0004;t;Industrial Drill;Food & Beverage;Pacific Trade Sas;36600;33773;12360918;MXN;16/09/2023;12/11/2023;Mexico;Monterrey;;Returned;Cash;WH-BOG-01;1100;2410;maria.g@gmail.com;140
+ORD-000243;PRD-0044;t;Running Shoes M;Food & Beverage;Fastship Colombia;20600;20851;4295306;MXN;11/02/2022;19/03/2022;Brasil;Brasil;;Pending;Credit Card;WH-CAL-03;1300;2140;sofia.v@yahoo.com;380
+ORD-000244;PRD-0010;t;Protein Powder 2kg;Personal Care;Logistics Pro S.A.;9300;48693;4528449;MXN;20/07/2024;14/08/2024;Chile;Santiago;;In Transit;Credit Card;WH-LIM-04;3800;2650;luis.p@company.co;150
+ORD-000245;PRD-0041;t;Running Shoes M;Industrial;Pacific Trade Sas;35100;236722;83089422;COP;5/10/2023;9/10/2023;Mexico;Monterrey;;In Transit;PayPal;WH-MED-02;300;3800;carlos.r@yahoo.com;120
+ORD-000246;PRD-0008;t;Coffee Maker 12cup;Food & Beverage;Fastship Colombia;12700;170259;21622893;MXN;24/02/2023;24/04/2023;Colombia;MedellÃ­n;;In Transit;PayPal;Unknown;2900;280;ana.m@gmail.com;200
+ORD-000247;PRD-0026;t;Coffee Maker 12cup;Electronics;Fastship Colombia;1900;208357;3958783;USD;11/05/2023;28/06/2023;Chile;ConcepciÃ³n;;In Transit;Cash;Unknown;1700;800;maria.g@outlook.com;230
+ORD-000248;P-123;f;Office Chair Ergonomic;Apparel;Logistics Pro S.A.;25900;10088;2612792;COP;13/01/2022;7/03/2022;Colombia;Cali;;Returned;PayPal;WH-CAL-03;1600;1380;maria.g@company.co;350
+ORD-000249;PRD-0017;t;Wireless Headset;Apparel;Andean Freight Co.;43100;220964;95235484;BRL;7/08/2024;;Chile;Santiago;;Returned;PayPal;WH-LIM-04;2600;2610;luis.p@company.co;160
+ORD-000250;PRD-0012;t;Protein Powder 2kg;Apparel;Pacific Trade Sas;7800;33073;2579694;USD;18/07/2022;19/07/2022;Colombia;MedellÃ­n;;In Transit;Credit Card;WH-SCL-05;2200;410;maria.g@yahoo.com;160
+ORD-000251;PRD-0018;t;Mechanical Keyboard;Apparel;Logistics Pro S.A.;1100;110514;1215654;USD;4/10/2024;30/11/2024;Brasil;Calle 640;;Delivered;Bank Transfer;WH-BOG-01;3200;2040;john.d@yahoo.com;110
+ORD-000252;PRD-0042;t;Safety Gloves L;Food & Beverage;Global Cargo Ltda;44700;5293;2365971;BRL;6/03/2024;;Peru;Cusco;;Cancelled;Bank Transfer;WH-SCL-05;600;340;luis.p@gmail.com;300
+ORD-000253;PRD-0012;t;Industrial Drill;Electronics;Unknown;25900;156719;40590221;BRL;9/11/2023;17/11/2023;Mexico;Monterrey;;Delivered;Unknown;WH-BOG-01;4100;790;maria.g@company.co;120
+ORD-000254;PRD-0000;t;Safety Gloves L;Apparel;Logistics Pro S.A.;20300;126910;25762730;MXN;9/05/2023;22/06/2023;Mexico;Calle 506;;Cancelled;PayPal;WH-861;2400;3840;john.d@company.co;220
+ORD-000255;PRD-0048;t;Safety Gloves L;Industrial;Andean Freight Co.;38500;197172;75911220;COP;29/03/2024;21/05/2024;Mexico;Ciudad de MÃ©xico;;Unknown;Cash;WH-LIM-04;3600;2430;maria.g@company.co;130
+ORD-000256;PRD-0019;t;Wireless Headset;Industrial;Fastship Colombia;30700;201878;61976546;BRL;10/05/2022;;Mexico;Monterrey;;Pending;PayPal;WH-SCL-05;900;2290;luis.p@yahoo.com;460
+ORD-000257;PRD-0025;t;Wireless Headset;Personal Care;Global Cargo Ltda;36500;62023;22638395;BRL;27/10/2022;28/11/2022;Chile;ConcepciÃ³n;;Returned;Credit Card;WH-SCL-05;2800;1190;carlos.r@company.co;160
+ORD-000258;PRD-0039;t;Protein Powder 2kg;Food & Beverage;Global Cargo Ltda;44500;208035;92575575;USD;26/10/2023;19/12/2023;Brasil;BrasÃ­lia;;Returned;Bank Transfer;WH-MED-02;1600;1430;carlos.r@company.co;420
+ORD-000259;PRD-0006;t;Safety Gloves L;Food & Beverage;Pacific Trade Sas;2200;217686;4789092;BRL;2/09/2022;2/11/2022;Peru;Lima;;In Transit;Credit Card;WH-CAL-03;2600;3660;luis.p@outlook.com;340
+ORD-000260;PRD-0017;t;Running Shoes M;Unknown;Pacific Trade Sas;5500;142767;7852185;COP;14/09/2023;25/10/2023;Brasil;SÃ£o Paulo;;In Transit;Bank Transfer;WH-CAL-03;1100;2390;maria.g@gmail.com;350
+ORD-000261;PRD-0001;t;Coffee Maker 12cup;Electronics;Andean Freight Co.;19100;192726;36810666;MXN;24/07/2024;14/09/2024;Colombia;MedellÃ­n;;In Transit;Cash;WH-LIM-04;1400;120;ana.m@yahoo.com;130
+ORD-000262;PRD-0019;t;Mechanical Keyboard;Unknown;Fastship Colombia;28900;122388;35370132;USD;10/08/2023;9/09/2023;Mexico;Guadalajara;;Pending;Cash;WH-CAL-03;1900;3560;ana.m@gmail.com;240
+ORD-000263;PRD-0044;t;Wireless Headset;Apparel;Fastship Colombia;42300;28414;12019122;USD;1/09/2022;;Brasil;Rio de Janeiro;;Returned;PayPal;WH-LIM-04;1500;3340;carlos.r@gmail.com;220
+ORD-000264;PRD-0014;t;Solar Panel 250W;Electronics;Fastship Colombia;3500;89700;3139500;MXN;4/12/2023;1/01/2024;Peru;Cusco;;Cancelled;PayPal;WH-LIM-04;3500;2350;sofia.v@company.co;400
+ORD-000265;PRD-0005;t;Office Chair Ergonomic;Personal Care;Global Cargo Ltda;500;203420;1017100;BRL;4/10/2022;28/11/2022;Chile;ConcepciÃ³n;;Cancelled;Credit Card;WH-SCL-05;2500;2120;luis.p@company.co;310
+ORD-000266;PRD-0022;t;LED Strip 5m;Electronics;Pacific Trade Sas;1100;136099;1497089;BRL;14/05/2024;10/07/2024;Peru;Lima;;Delivered;Unknown;WH-MED-02;2400;3880;carlos.r@gmail.com;380
+ORD-000267;PRD-0016;t;Bluetooth Speaker;Personal Care;Fastship Colombia;39600;116395;46092420;MXN;1/11/2023;2/12/2023;Peru;Cusco;;Returned;Bank Transfer;WH-LIM-04;4000;1070;luis.p@yahoo.com;330
+ORD-000268;PRD-0022;t;Solar Panel 250W;Apparel;Fastship Colombia;36500;145646;53160790;MXN;21/05/2023;14/07/2023;Peru;Arequipa;;Returned;Cash;WH-CAL-03;3600;2040;ana.m@company.co;300
+ORD-000269;PRD-0028;t;LED Strip 5m;Industrial;Logistics Pro S.A.;14300;24425;3492775;USD;3/05/2022;;Brasil;SÃ£o Paulo;;Returned;Cash;WH-SCL-05;1100;810;carlos.r@outlook.com;260
+ORD-000270;PRD-0012;t;Safety Gloves L;Electronics;Pacific Trade Sas;21000;96427;20249670;MXN;25/02/2023;17/04/2023;Brasil;BrasÃ­lia;;Pending;Credit Card;WH-LIM-04;1400;1000;luis.p@company.co;360
+ORD-000271;PRD-0002;t;Running Shoes M;Unknown;Andean Freight Co.;13400;161430;21631620;USD;21/02/2024;27/02/2024;Colombia;Cali;;Delivered;Cash;WH-LIM-04;1500;270;luis.p@yahoo.com;170
+ORD-000272;PRD-0048;t;Running Shoes M;Personal Care;Logistics Pro S.A.;31000;6457;2001670;COP;10/06/2024;7/09/2024;Mexico;Guadalajara;;In Transit;Cash;WH-LIM-04;900;3790;john.d@outlook.com;360
+ORD-000273;PRD-0023;t;Solar Panel 250W;Apparel;Global Cargo Ltda;7500;127622;9571650;BRL;6/04/2024;29/04/2024;Brasil;BrasÃ­lia;;Cancelled;Credit Card;WH-SCL-05;1000;2640;john.d@yahoo.com;250
+ORD-000274;PROD-001;f;Laptop Pro 15;Industrial;Andean Freight Co.;25900;120925;31319575;BRL;12/06/2022;12/12/2022;Brasil;Rio de Janeiro;;Pending;Cash;WH-MED-02;3800;2380;carlos.r@company.co;300
+ORD-000275;PRD-0038;t;Coffee Maker 12cup;Personal Care;Fastship Colombia;18600;75122;13972692;USD;5/10/2023;31/10/2023;Peru;Lima;;Pending;PayPal;WH-MED-02;1900;1340;carlos.r@gmail.com;300
+ORD-000276;PRD-0006;t;Mechanical Keyboard;Unknown;Global Cargo Ltda;4500;10216;459720;USD;29/01/2023;23/03/2023;Brasil;BrasÃ­lia;;Returned;Credit Card;WH-MED-02;700;1130;maria.g@company.co;220
+ORD-000277;PRD-0016;t;Coffee Maker 12cup;Apparel;Logistics Pro S.A.;23000;83516;19208680;BRL;6/10/2024;;Chile;ConcepciÃ³n;;Delivered;PayPal;WH-BOG-01;2500;2630;john.d@company.co;270
+ORD-000278;PRD-0037;t;Mechanical Keyboard;Food & Beverage;Global Cargo Ltda;49100;10093;4955663;MXN;22/11/2023;;Mexico;Mexico;;Returned;Bank Transfer;WH-BOG-01;3600;1830;;430
+ORD-000279;PRD-0039;t;Bluetooth Speaker;Industrial;Logistics Pro S.A.;300;112588;337764;USD;15/07/2023;11/08/2023;Brasil;BrasÃ­lia;;Returned;Cash;WH-LIM-04;3500;2040;maria.g@company.co;300
+ORD-000280;PRD-0043;t;Coffee Maker 12cup;Apparel;Global Cargo Ltda;8000;132305;10584400;MXN;2/01/2023;10/01/2023;Peru;Arequipa;;Delivered;Credit Card;WH-MED-02;200;3880;maria.g@yahoo.com;180
+ORD-000281;PRD-0023;t;Laptop Pro 15;Electronics;Andean Freight Co.;38300;208711;79936313;BRL;4/03/2024;1/05/2024;Peru;Cusco;;Pending;PayPal;Unknown;900;2250;ana.m@outlook.com;360
+ORD-000282;PRD-0028;t;Coffee Maker 12cup;Apparel;Fastship Colombia;18700;6172;1154164;USD;9/10/2022;3/12/2022;Colombia;Calle 787;;Returned;Credit Card;WH-SCL-05;600;2310;luis.p@outlook.com;220
+ORD-000283;PRD-0022;t;Coffee Maker 12cup;Personal Care;Global Cargo Ltda;5500;198630;10924650;USD;4/02/2022;13/02/2022;Chile;ValparaÃ­so;;Returned;Bank Transfer;WH-LIM-04;1300;540;luis.p@outlook.com;380
+ORD-000284;PRD-0001;t;Office Chair Ergonomic;Apparel;Pacific Trade Sas;12800;33674;4310272;USD;7/03/2023;8/03/2023;Brasil;SÃ£o Paulo;;Delivered;Cash;WH-SCL-05;1300;1560;sofia.v@yahoo.com;200
+ORD-000285;PRD-0004;t;Mechanical Keyboard;Food & Beverage;Andean Freight Co.;23300;172264;40137512;BRL;7/07/2023;3/09/2023;Mexico;Guadalajara;;Returned;Bank Transfer;WH-SCL-05;4300;1610;carlos.r@yahoo.com;480
+ORD-000286;PRD-0037;t;Solar Panel 250W;Electronics;Unknown;17500;132305;23153375;BRL;30/05/2023;12/06/2023;Chile;ValparaÃ­so;;In Transit;Cash;WH-LIM-04;3200;70;maria.g@yahoo.com;310
+ORD-000287;PRD-0036;t;Protein Powder 2kg;Food & Beverage;Pacific Trade Sas;25900;222505;57628795;USD;29/11/2023;5/12/2023;Chile;Santiago;;Delivered;Bank Transfer;WH-BOG-01;1400;400;luis.p@outlook.com;300
+ORD-000288;PRD-0036;t;Mechanical Keyboard;Personal Care;Pacific Trade Sas;2400;33591;806184;COP;10/03/2022;9/09/2022;Brasil;Rio de Janeiro;;Delivered;Bank Transfer;Unknown;4400;340;ana.m@gmail.com;390
+ORD-000289;PRD-0034;t;Bluetooth Speaker;Industrial;Pacific Trade Sas;42900;53930;23135970;USD;6/02/2023;13/03/2023;Chile;ConcepciÃ³n;;Delivered;PayPal;WH-MED-02;1500;200;carlos.r@yahoo.com;140
+ORD-000290;PRD-0012;t;Laptop Pro 15;Apparel;Fastship Colombia;37800;248192;93816576;USD;25/02/2022;22/04/2022;Colombia;Cali;;Delivered;PayPal;WH-SCL-05;4100;2880;sofia.v@gmail.com;220
+ORD-000291;PRD-0010;t;Bluetooth Speaker;Personal Care;Fastship Colombia;19500;11515;2245425;BRL;9/12/2023;25/01/2024;Chile;ValparaÃ­so;;Pending;Cash;WH-CAL-03;2500;160;maria.g@company.co;240
+ORD-000292;PRD-0050;t;LED Strip 5m;Apparel;Pacific Trade Sas;13000;132558;17232540;COP;28/08/2024;1/10/2024;Mexico;Ciudad de MÃ©xico;;Delivered;PayPal;WH-MED-02;4300;630;sofia.v@yahoo.com;190
+ORD-000293;PRD-0006;t;Protein Powder 2kg;Industrial;Global Cargo Ltda;11800;47145;5563110;USD;23/06/2022;13/08/2022;Chile;ConcepciÃ³n;;In Transit;Cash;WH-SCL-05;2200;2440;john.d@gmail.com;220
+ORD-000294;PRD-0049;t;Industrial Drill;Electronics;Fastship Colombia;23900;151811;36282829;COP;5/10/2024;26/10/2024;Peru;Cusco;;Delivered;PayPal;WH-LIM-04;2700;2100;;150
+ORD-000295;PRD-0016;t;Mechanical Keyboard;Food & Beverage;Pacific Trade Sas;25900;198125;51314375;USD;6/06/2022;14/06/2022;Chile;ConcepciÃ³n;;Returned;Credit Card;WH-LIM-04;1100;2020;john.d@outlook.com;380
+ORD-000296;PRD-0034;t;Solar Panel 250W;Electronics;Andean Freight Co.;26600;195187;51919742;USD;1/12/2024;27/12/2024;Colombia;Cali;;In Transit;Bank Transfer;WH-CAL-03;3300;440;luis.p@yahoo.com;220
+ORD-000297;PRD-0020;t;Solar Panel 250W;Apparel;Pacific Trade Sas;33100;166923;55251513;USD;5/11/2024;21/12/2024;Brasil;SÃ£o Paulo;;Pending;Bank Transfer;WH-SCL-05;4000;3120;luis.p@company.co;410
+ORD-000298;PRD-0037;t;Safety Gloves L;Personal Care;Fastship Colombia;41400;242293;100309302;USD;15/04/2024;;Peru;Cusco;;Delivered;Bank Transfer;WH-MED-02;4300;2600;sofia.v@gmail.com;460
+ORD-000299;PRD-0008;t;Wireless Headset;Electronics;Fastship Colombia;33900;94885;32166015;COP;31/01/2022;2/07/2022;Mexico;Monterrey;;Delivered;Bank Transfer;WH-MED-02;2000;3600;maria.g@company.co;300
+ORD-000300;PRD-0025;t;Office Chair Ergonomic;Industrial;Fastship Colombia;2500;162247;4056175;USD;21/10/2023;2/11/2023;Mexico;Guadalajara;;Delivered;Bank Transfer;WH-LIM-04;2600;1800;ana.m@yahoo.com;140
+ORD-000301;PRD-0031;t;Running Shoes M;Personal Care;Pacific Trade Sas;25900;50011;12952849;USD;29/09/2022;14/11/2022;Brasil;Rio de Janeiro;;Delivered;Bank Transfer;WH-MED-02;1100;2040;luis.p@outlook.com;240
+ORD-000302;PRD-0005;t;LED Strip 5m;Apparel;Fastship Colombia;22100;51620;11408020;BRL;30/12/2024;29/01/2025;Chile;Santiago;;In Transit;Credit Card;WH-SCL-05;4100;3890;sofia.v@company.co;400
+ORD-000303;PRD-0035;t;Safety Gloves L;Food & Beverage;Pacific Trade Sas;30200;231813;70007526;USD;4/04/2024;1/06/2024;Mexico;Ciudad de MÃ©xico;;Unknown;Credit Card;WH-MED-02;1100;3490;luis.p@company.co;160
+ORD-000304;PRD-0012;t;Office Chair Ergonomic;Industrial;Pacific Trade Sas;31200;238295;74348040;MXN;3/11/2022;;Peru;Cusco;;Pending;Cash;WH-SCL-05;4200;2500;carlos.r@company.co;320
+ORD-000305;PRD-0035;t;LED Strip 5m;Industrial;Logistics Pro S.A.;25300;228872;57904616;COP;23/09/2022;25/10/2022;Chile;ConcepciÃ³n;;Delivered;Bank Transfer;WH-BOG-01;2500;2740;carlos.r@yahoo.com;240
+ORD-000306;PRD-0034;t;Running Shoes M;Personal Care;Fastship Colombia;42600;240138;102298788;MXN;9/04/2024;23/05/2024;Chile;ConcepciÃ³n;;Pending;Bank Transfer;WH-MED-02;4400;3970;ana.m@outlook.com;210
+ORD-000307;PRD-0021;t;Laptop Pro 15;Food & Beverage;Fastship Colombia;42300;120564;50998572;MXN;29/04/2023;22/06/2023;Peru;Arequipa;;Pending;Bank Transfer;WH-MED-02;3400;1790;;450
+ORD-000308;PRD-0050;t;Office Chair Ergonomic;Personal Care;Pacific Trade Sas;38800;211253;81966164;MXN;3/04/2024;25/04/2024;Peru;Peru;;Cancelled;Cash;WH-LIM-04;4300;2930;john.d@outlook.com;460
+ORD-000309;PRD-0028;t;Industrial Drill;Unknown;Global Cargo Ltda;33200;160841;53399212;USD;30/10/2023;31/10/2023;Peru;Lima;;Delivered;Cash;WH-LIM-04;3200;2760;sofia.v@company.co;400
+ORD-000310;PRD-0048;t;Mechanical Keyboard;Electronics;Fastship Colombia;42900;210371;90249159;BRL;17/01/2022;13/02/2022;Mexico;Monterrey;;In Transit;PayPal;WH-LIM-04;2300;2990;ana.m@yahoo.com;230
+ORD-000311;PRD-0050;t;LED Strip 5m;Apparel;Pacific Trade Sas;9000;196909;17721810;COP;1/03/2022;7/04/2022;Mexico;Ciudad de MÃ©xico;;Pending;Credit Card;WH-SCL-05;2100;980;maria.g@outlook.com;300
+ORD-000312;PRD-0032;t;Safety Gloves L;Electronics;Global Cargo Ltda;6000;215223;12913380;COP;20/06/2024;6/07/2024;Peru;Arequipa;;Pending;Bank Transfer;WH-BOG-01;400;3530;luis.p@company.co;240
+ORD-000313;PRD-0046;t;Industrial Drill;Personal Care;Logistics Pro S.A.;33100;80523;26653113;COP;7/03/2023;6/05/2023;Mexico;Ciudad de MÃ©xico;;Returned;Credit Card;WH-CAL-03;1300;3650;carlos.r@yahoo.com;150
+ORD-000314;PRD-0028;t;LED Strip 5m;Industrial;Fastship Colombia;33800;132305;44719090;USD;27/04/2023;6/06/2023;Chile;ConcepciÃ³n;;Delivered;PayPal;WH-SCL-05;1900;3260;ana.m@outlook.com;280
+ORD-000315;PRD_0045;f;Industrial Drill;Apparel;Andean Freight Co.;37000;184128;68127360;MXN;20/09/2022;12/11/2022;Mexico;Ciudad de MÃ©xico;;Pending;Cash;WH-MED-02;500;100;ana.m@gmail.com;300
+ORD-000316;PRD-0004;t;Protein Powder 2kg;Personal Care;Andean Freight Co.;48400;216082;104583688;USD;31/03/2023;3/04/2023;Colombia;MedellÃ­n;;Cancelled;Cash;WH-SCL-05;2400;3780;maria.g@outlook.com;300
+ORD-000317;PRD-0033;t;Office Chair Ergonomic;Electronics;Logistics Pro S.A.;21700;203178;44089626;COP;3/04/2022;;Peru;Cusco;;Cancelled;Cash;WH-CAL-03;1800;1600;carlos.r@company.co;240
+ORD-000318;PRD-0017;t;Protein Powder 2kg;Unknown;Fastship Colombia;47300;205887;97384551;COP;11/10/2022;14/10/2022;Peru;Lima;;Returned;Unknown;WH-LIM-04;800;3000;luis.p@gmail.com;380
+ORD-000319;PRD-0021;t;Safety Gloves L;Apparel;Andean Freight Co.;30700;151724;46579268;USD;11/02/2023;19/02/2023;Chile;ValparaÃ­so;;Delivered;PayPal;WH-LIM-04;1200;840;luis.p@outlook.com;280
+ORD-000320;PRD-0033;t;Mechanical Keyboard;Personal Care;Pacific Trade Sas;24300;45368;11024424;MXN;5/04/2024;11/04/2024;Peru;Cusco;;Cancelled;Bank Transfer;WH-SCL-05;3100;170;john.d@gmail.com;120
+ORD-000321;PRD-0012;t;Protein Powder 2kg;Personal Care;Global Cargo Ltda;33800;11769;3977922;MXN;10/02/2024;27/02/2024;Colombia;Cali;;Delivered;Cash;WH-CAL-03;4100;500;maria.g@outlook.com;350
+ORD-000322;PRD-0017;t;Running Shoes M;Industrial;Logistics Pro S.A.;42500;62447;26539975;COP;23/02/2023;3/09/2023;Peru;Arequipa;;Pending;Credit Card;WH-BOG-01;1800;1050;sofia.v@gmail.com;420
+ORD-000323;PRD-0031;t;Mechanical Keyboard;Personal Care;Pacific Trade Sas;46500;138013;64176045;MXN;27/04/2024;17/06/2024;Chile;ValparaÃ­so;;Returned;Bank Transfer;WH-SCL-05;3300;3570;john.d@outlook.com;150
+ORD-000324;PRD-0044;t;Protein Powder 2kg;Electronics;Logistics Pro S.A.;38600;78940;30470840;COP;24/07/2022;17/08/2022;Peru;Lima;;Delivered;Cash;WH-SCL-05;2500;1100;luis.p@company.co;270
+ORD-000325;PRD-0020;t;Industrial Drill;Food & Beverage;Unknown;49400;7708;3807752;MXN;13/06/2023;;Mexico;Guadalajara;;Cancelled;Cash;WH-LIM-04;1200;3050;ana.m@company.co;130
+ORD-000326;PRD-0025;t;Solar Panel 250W;Apparel;Pacific Trade Sas;12000;188229;22587480;BRL;6/06/2023;18/07/2023;Mexico;Ciudad de MÃ©xico;;In Transit;PayPal;WH-LIM-04;600;1590;sofia.v@yahoo.com;320
+ORD-000327;PRD-0005;t;Protein Powder 2kg;Personal Care;Fastship Colombia;2200;96960;2133120;MXN;27/10/2024;24/12/2024;Mexico;Ciudad de MÃ©xico;;In Transit;Credit Card;WH-LIM-04;3300;1380;sofia.v@outlook.com;180
+ORD-000328;PRD-0005;t;Protein Powder 2kg;Personal Care;Global Cargo Ltda;25800;96806;24975948;COP;5/05/2022;6/05/2022;Mexico;Ciudad de MÃ©xico;;In Transit;Bank Transfer;WH-SCL-05;1700;810;ana.m@yahoo.com;160
+ORD-000329;PRD-0001;t;Office Chair Ergonomic;Apparel;Logistics Pro S.A.;33900;197425;66927075;USD;2/01/2022;4/02/2022;Colombia;BogotÃ¡;;Returned;Cash;WH-BOG-01;1500;30;ana.m@outlook.com;490
+ORD-000330;PRD-0049;t;Solar Panel 250W;Personal Care;Logistics Pro S.A.;25900;92830;24042970;MXN;16/02/2024;18/02/2024;Peru;Cusco;;Delivered;Unknown;WH-CAL-03;1500;2040;ana.m@outlook.com;110
+ORD-000331;PRD-0028;t;Running Shoes M;Personal Care;Andean Freight Co.;27700;141655;39238435;BRL;29/05/2022;6/07/2022;Brasil;SÃ£o Paulo;;Delivered;Bank Transfer;WH-MED-02;2300;2090;ana.m@gmail.com;400
+ORD-000332;PRD-0009;t;Office Chair Ergonomic;Electronics;Logistics Pro S.A.;40200;161423;64892046;BRL;10/10/2022;20/10/2022;Brasil;SÃ£o Paulo;;Pending;Cash;WH-SCL-05;3200;1740;;300
+ORD-000333;PRD-0006;t;Mechanical Keyboard;Industrial;Global Cargo Ltda;22100;132305;29239405;USD;29/10/2024;14/12/2024;Brasil;BrasÃ­lia;;Cancelled;Bank Transfer;WH-MED-02;3100;2930;luis.p@yahoo.com;320
+ORD-000334;PRD-0050;t;Office Chair Ergonomic;Personal Care;Fastship Colombia;40500;220387;89256735;COP;11/05/2024;29/05/2024;Colombia;MedellÃ­n;;Pending;Bank Transfer;WH-CAL-03;4100;3660;carlos.r@company.co;260
+ORD-000335;PRD-0006;t;Industrial Drill;Electronics;Global Cargo Ltda;15900;222426;35365734;USD;5/08/2024;8/12/2024;Colombia;MedellÃ­n;;In Transit;Credit Card;WH-MED-02;1800;710;;480
+ORD-000336;PRD-0007;t;Safety Gloves L;Apparel;Fastship Colombia;19900;142564;28370236;BRL;27/05/2024;2/07/2024;Chile;ValparaÃ­so;;In Transit;Cash;WH-MED-02;1900;3950;ana.m@company.co;230
+ORD-000337;PRD-0012;t;Office Chair Ergonomic;Food & Beverage;Fastship Colombia;25900;47041;12183619;BRL;20/02/2022;20/04/2022;Colombia;BogotÃ¡;;Delivered;PayPal;WH-SCL-05;2300;500;carlos.r@outlook.com;300
+ORD-000338;PRD-0036;t;Solar Panel 250W;Industrial;Logistics Pro S.A.;39600;202170;80059320;BRL;13/11/2022;10/01/2023;Brasil;Rio de Janeiro;;Returned;PayPal;WH-SCL-05;900;910;john.d@gmail.com;180
+ORD-000339;PRD-0034;t;Mechanical Keyboard;Food & Beverage;Logistics Pro S.A.;32500;174122;56589650;BRL;16/10/2024;30/11/2024;Brasil;SÃ£o Paulo;;Returned;Cash;WH-LIM-04;400;920;john.d@company.co;150
+ORD-000340;PRD-0000;t;Bluetooth Speaker;Electronics;Pacific Trade Sas;11200;210616;23588992;USD;3/03/2024;9/03/2024;Peru;Cusco;;Cancelled;Cash;WH-LIM-04;300;3720;ana.m@outlook.com;410
+ORD-000341;PRD-0029;t;Running Shoes M;Apparel;Global Cargo Ltda;6700;208589;13975463;MXN;20/03/2023;18/05/2023;Chile;ValparaÃ­so;;Returned;Credit Card;WH-SCL-05;4000;960;carlos.r@company.co;200
+ORD-000342;PRD-0019;t;Protein Powder 2kg;Electronics;Fastship Colombia;12400;167281;20742844;USD;28/01/2024;22/02/2024;Brasil;Rio de Janeiro;;Pending;Cash;WH-MED-02;1800;2380;carlos.r@company.co;240
+ORD-000343;PRD-0001;t;Bluetooth Speaker;Food & Beverage;Fastship Colombia;29500;28654;8452930;USD;7/10/2022;14/11/2022;Mexico;Guadalajara;;Delivered;Bank Transfer;WH-LIM-04;2100;3240;sofia.v@company.co;110
+ORD-000344;PRD-0045;t;Safety Gloves L;Electronics;Andean Freight Co.;32600;95349;31083774;MXN;12/08/2024;4/09/2024;Chile;ValparaÃ­so;;In Transit;Cash;WH-SCL-05;2200;1130;john.d@outlook.com;190
+ORD-000345;PRD-0010;t;Protein Powder 2kg;Food & Beverage;Logistics Pro S.A.;37400;165811;62013314;USD;9/09/2023;30/10/2023;Peru;Cusco;;In Transit;Bank Transfer;WH-CAL-03;2600;2400;ana.m@yahoo.com;240
+ORD-000346;PRD-0014;t;Safety Gloves L;Industrial;Pacific Trade Sas;35400;195574;69233196;BRL;28/06/2022;29/07/2022;Colombia;MedellÃ­n;;In Transit;PayPal;WH-SCL-05;1300;1970;sofia.v@yahoo.com;480
+ORD-000347;PRD-0032;t;LED Strip 5m;Food & Beverage;Andean Freight Co.;10800;245627;26527716;USD;6/08/2022;16/08/2022;Chile;ConcepciÃ³n;;In Transit;Cash;WH-SCL-05;2400;970;ana.m@yahoo.com;210
+ORD-000348;PRD-0007;t;Safety Gloves L;Personal Care;Pacific Trade Sas;25900;165444;42849996;MXN;28/03/2024;28/04/2024;Peru;Cusco;;Pending;Credit Card;WH-BOG-01;1800;3670;carlos.r@gmail.com;340
+ORD-000349;PRD-0012;t;Laptop Pro 15;Apparel;Global Cargo Ltda;25900;182377;47235643;MXN;31/05/2022;19/07/2022;Chile;ConcepciÃ³n;;Delivered;PayPal;WH-LIM-04;3900;1750;ana.m@outlook.com;290
+ORD-000350;PRD-0041;t;Safety Gloves L;Food & Beverage;Andean Freight Co.;40300;36611;14754233;MXN;18/02/2022;15/03/2022;Chile;ValparaÃ­so;;Delivered;PayPal;WH-LIM-04;2900;3540;ana.m@outlook.com;230
+ORD-000351;PRD-0020;t;Bluetooth Speaker;Apparel;Global Cargo Ltda;45000;78316267;35242320150;COP;27/10/2022;29/11/2022;Chile;ConcepciÃ³n;;Returned;Cash;WH-BOG-01;2900;460;john.d@outlook.com;350
+ORD-000352;PRD-0031;t;Bluetooth Speaker;Electronics;Pacific Trade Sas;3300;205829;6792357;MXN;7/08/2022;23/09/2022;Peru;Cusco;;Pending;PayPal;WH-LIM-04;3700;1040;john.d@outlook.com;470
+ORD-000353;PRD-0000;t;Coffee Maker 12cup;Apparel;Andean Freight Co.;20900;165990;34691910;BRL;27/02/2022;;Mexico;Guadalajara;;Delivered;Credit Card;WH-LIM-04;1700;830;luis.p@outlook.com;340
+ORD-000354;PRD-0012;t;Protein Powder 2kg;Apparel;Fastship Colombia;20600;2985;614910;BRL;19/05/2022;16/07/2022;Brasil;SÃ£o Paulo;;Cancelled;Cash;WH-BOG-01;1400;690;john.d@company.co;470
+ORD-000355;prd-0012;f;Coffee Maker 12cup;Electronics;Global Cargo Ltda;2700;180692;4878684;BRL;28/07/2022;7/09/2022;Brasil;Rio de Janeiro;;Returned;Bank Transfer;WH-CAL-03;2900;2520;carlos.r@yahoo.com;330
+ORD-000356;PRD-0049;t;Solar Panel 250W;Apparel;Fastship Colombia;6700;114743;7687781;MXN;5/01/2024;5/05/2024;Peru;Arequipa;;In Transit;Cash;WH-SCL-05;3900;3060;maria.g@company.co;320
+ORD-000357;PROD-001;f;Wireless Headset;Food & Beverage;Andean Freight Co.;35500;73960;26255800;USD;17/09/2023;20/10/2023;Brasil;Rio de Janeiro;;Pending;PayPal;WH-BOG-01;1300;1030;ana.m@yahoo.com;270
+ORD-000358;PRD-0032;t;Protein Powder 2kg;Personal Care;Andean Freight Co.;33500;148336;49692560;BRL;24/03/2023;14/04/2023;Chile;ValparaÃ­so;;In Transit;Bank Transfer;WH-MED-02;2200;110;maria.g@yahoo.com;440
+ORD-000359;PRD-0015;t;Mechanical Keyboard;Electronics;Global Cargo Ltda;19100;28607;5463937;BRL;4/05/2024;24/05/2024;Chile;Chile;;Pending;Credit Card;WH-SCL-05;3200;980;sofia.v@company.co;400
+ORD-000360;PRD-0028;t;Mechanical Keyboard;Personal Care;Fastship Colombia;1838200;54631;1004227042;BRL;11/12/2024;7/01/2025;Colombia;Cali;;Cancelled;Cash;WH-MED-02;3600;2040;sofia.v@yahoo.com;180
+ORD-000361;PRD-0035;t;Running Shoes M;Electronics;Fastship Colombia;25900;210692;54569228;USD;3/05/2022;31/05/2022;Peru;Lima;;In Transit;PayPal;WH-MED-02;600;3530;ana.m@yahoo.com;220
+ORD-000362;PRD-9999;t;Safety Gloves L;Apparel;Pacific Trade Sas;23700;119479;28316523;USD;11/04/2024;5/06/2024;Colombia;Cali;;In Transit;Unknown;WH-BOG-01;1600;1870;ana.m@gmail.com;310
+ORD-000363;PRD-0013;t;LED Strip 5m;Personal Care;Andean Freight Co.;21300;240053;51131289;USD;2/01/2022;18/02/2022;Peru;Cusco;;Pending;Credit Card;WH-MED-02;4300;1730;ana.m@gmail.com;450
+ORD-000364;PRD-0026;t;Coffee Maker 12cup;Personal Care;Andean Freight Co.;10600;27151;2878006;USD;28/06/2023;;Mexico;Monterrey;;Pending;Credit Card;WH-MED-02;300;2410;maria.g@outlook.com;410
+ORD-000365;PRD_0045;f;Safety Gloves L;Apparel;Global Cargo Ltda;34100;100517;34276297;USD;13/02/2024;21/02/2024;Chile;ValparaÃ­so;;In Transit;Bank Transfer;Unknown;4200;120;ana.m@outlook.com;340
+ORD-000366;PRD-0007;t;Safety Gloves L;Electronics;Global Cargo Ltda;2900;132305;3836845;USD;20/05/2022;5/06/2022;Peru;Arequipa;;Returned;Cash;WH-CAL-03;3800;3370;carlos.r@company.co;350
+ORD-000367;PRD-9999;t;Solar Panel 250W;Food & Beverage;Andean Freight Co.;18300;183084;33504372;BRL;1/09/2022;23/10/2022;Mexico;Monterrey;;Cancelled;Credit Card;WH-MED-02;500;2580;ana.m@gmail.com;420
+ORD-000368;PRD-0012;t;Protein Powder 2kg;Personal Care;Logistics Pro S.A.;42600;120916;51510216;USD;14/11/2024;12/12/2024;Mexico;Guadalajara;;Cancelled;Bank Transfer;WH-BOG-01;2600;1030;john.d@outlook.com;110
+ORD-000369;PRD-0001;t;LED Strip 5m;Electronics;Pacific Trade Sas;29400;79130;23264220;USD;1/05/2022;5/06/2022;Colombia;MedellÃ­n;;In Transit;Cash;WH-SCL-05;2600;870;ana.m@yahoo.com;380
+ORD-000370;PRD-0049;t;Running Shoes M;Apparel;Logistics Pro S.A.;25000;29365;7341250;USD;2/10/2022;2/11/2022;Peru;Peru;;Cancelled;Cash;WH-SCL-05;1700;1650;;260
+ORD-000371;PRD-0008;t;Laptop Pro 15;Unknown;Global Cargo Ltda;26100;68012;17751132;COP;12/10/2023;18/11/2023;Colombia;MedellÃ­n;;Returned;Credit Card;WH-SCL-05;4000;3480;sofia.v@yahoo.com;460
+ORD-000372;PRD-0030;t;Coffee Maker 12cup;Industrial;Logistics Pro S.A.;39800;236804;94247992;USD;11/04/2024;;Brasil;SÃ£o Paulo;;Pending;PayPal;WH-356;3900;2040;luis.p@company.co;150
+ORD-000373;PRD-0003;t;Coffee Maker 12cup;Apparel;Global Cargo Ltda;1100;209797;2307767;COP;9/07/2023;;Colombia;Colombia;;In Transit;Cash;WH-SCL-05;1000;3460;maria.g@outlook.com;160
+ORD-000374;PRD-0045;t;LED Strip 5m;Personal Care;Fastship Colombia;2600;173767;4517942;COP;13/03/2022;;Peru;Lima;;Returned;Credit Card;WH-CAL-03;1600;2250;;170
+ORD-000375;PRD-0025;t;Bluetooth Speaker;Industrial;Logistics Pro S.A.;14400;28184;4058496;USD;28/08/2024;17/09/2024;Colombia;BogotÃ¡;;Pending;Bank Transfer;WH-LIM-04;-500;1080;sofia.v@gmail.com;420
+ORD-000376;PRD-0040;t;Laptop Pro 15;Food & Beverage;Fastship Colombia;36900;67952;25074288;MXN;18/08/2022;25/08/2022;Colombia;Cali;;In Transit;PayPal;WH-SCL-05;1700;3520;maria.g@yahoo.com;300
+ORD-000377;PRD-0002;t;Solar Panel 250W;Electronics;Logistics Pro S.A.;15400;191141;29435714;COP;15/03/2024;24/03/2024;Mexico;Guadalajara;;Delivered;Credit Card;WH-LIM-04;1000;2040;sofia.v@company.co;240
+ORD-000378;PRD-0049;t;Safety Gloves L;Personal Care;Global Cargo Ltda;31400;132305;41543770;USD;6/09/2022;7/09/2022;Colombia;Cali;;In Transit;Bank Transfer;WH-SCL-05;3700;2470;sofia.v@outlook.com;480
+ORD-000379;PRD-0031;t;Coffee Maker 12cup;Electronics;Pacific Trade Sas;5000;232427;11621350;USD;27/01/2024;6/02/2024;Mexico;Ciudad de MÃ©xico;;Delivered;Bank Transfer;WH-LIM-04;2500;1000;ana.m@company.co;320
+ORD-000380;PRD-0002;t;Wireless Headset;Personal Care;Fastship Colombia;7700;86989;6698153;MXN;10/06/2022;29/10/2022;Peru;Lima;;Delivered;Bank Transfer;WH-SCL-05;2200;1670;sofia.v@outlook.com;300
+ORD-000381;PRD-0003;t;Laptop Pro 15;Industrial;Fastship Colombia;37100;226068;83871228;BRL;21/05/2022;2/07/2022;Brasil;BrasÃ­lia;;Pending;Credit Card;WH-MED-02;2700;1200;luis.p@gmail.com;300
+ORD-000382;PRD-0014;t;Mechanical Keyboard;Food & Beverage;Andean Freight Co.;5200;238202;12386504;BRL;5/06/2024;;Mexico;Guadalajara;;Returned;PayPal;WH-CAL-03;3000;2310;carlos.r@company.co;300
+ORD-000383;PRD-0010;t;Wireless Headset;Food & Beverage;Fastship Colombia;48600;108489;52725654;MXN;2/12/2022;14/12/2022;Brasil;BrasÃ­lia;;Delivered;PayPal;WH-BOG-01;100;1230;john.d@yahoo.com;420
+ORD-000384;PRD-0026;t;Coffee Maker 12cup;Apparel;Fastship Colombia;45000;21024;9460800;USD;31/08/2022;10/10/2022;Peru;Lima;;Returned;Credit Card;WH-MED-02;3800;200;carlos.r@yahoo.com;200
+ORD-000385;PRD-0007;t;Bluetooth Speaker;Electronics;Andean Freight Co.;36700;127078;46637626;BRL;12/08/2024;9/12/2024;Colombia;MedellÃ­n;;In Transit;Credit Card;WH-SCL-05;3400;3120;maria.g@company.co;320
+ORD-000386;PRD-0031;t;Wireless Headset;Personal Care;Andean Freight Co.;11700;26958;3154086;MXN;31/01/2022;24/02/2022;Chile;Calle 667;;In Transit;PayPal;WH-BOG-01;2500;2210;sofia.v@company.co;300
+ORD-000387;PRD-0028;t;Bluetooth Speaker;Food & Beverage;Fastship Colombia;15300;132305;20242665;COP;2/09/2023;;Brasil;SÃ£o Paulo;;Delivered;Bank Transfer;WH-CAL-03;100;1700;carlos.r@outlook.com;460
+ORD-000388;PRD-0049;t;Mechanical Keyboard;Apparel;Pacific Trade Sas;16700;132305;22094935;BRL;16/06/2023;19/07/2023;Colombia;BogotÃ¡;;Delivered;Credit Card;WH-CAL-03;3800;2030;ana.m@gmail.com;190
+ORD-000389;PRD-0019;t;Running Shoes M;Food & Beverage;Fastship Colombia;3200;201474;6447168;COP;12/09/2024;19/09/2024;Brasil;BrasÃ­lia;;In Transit;Cash;WH-SCL-05;4300;2250;ana.m@company.co;310
+ORD-000390;P-123;f;Running Shoes M;Electronics;Fastship Colombia;17400;119234;20746716;COP;23/03/2023;25/04/2023;Colombia;Cali;;Returned;PayPal;WH-BOG-01;1600;100;maria.g@company.co;460
+ORD-000391;PRD-0017;t;Laptop Pro 15;Industrial;Pacific Trade Sas;8200;7392;606144;COP;6/01/2023;23/02/2023;Mexico;Monterrey;;In Transit;Credit Card;WH-CAL-03;3900;1690;luis.p@outlook.com;330
+ORD-000392;PRD-0007;t;Running Shoes M;Personal Care;Logistics Pro S.A.;40700;66902;27229114;USD;5/05/2022;;Peru;Lima;;Delivered;Bank Transfer;WH-CAL-03;1900;1650;john.d@company.co;280
+ORD-000393;PRD-0028;t;Safety Gloves L;Apparel;Andean Freight Co.;31600;27627;8730132;COP;18/09/2022;6/11/2022;Chile;Santiago;;Cancelled;Credit Card;WH-LIM-04;2700;3300;sofia.v@outlook.com;350
+ORD-000394;PRD-0029;t;Mechanical Keyboard;Electronics;Global Cargo Ltda;600;210680;1264080;COP;9/06/2022;29/06/2022;Colombia;Cali;;In Transit;Bank Transfer;WH-MED-02;1600;3240;john.d@gmail.com;240
+ORD-000395;PRD-0003;t;Safety Gloves L;Personal Care;Pacific Trade Sas;43600;33500;14606000;USD;8/09/2022;26/09/2022;Mexico;Ciudad de MÃ©xico;;Returned;Bank Transfer;WH-MED-02;500;1490;ana.m@yahoo.com;330
+ORD-000396;PRD-0007;t;Bluetooth Speaker;Apparel;Logistics Pro S.A.;43800;213335;93440730;BRL;30/07/2022;1/08/2022;Colombia;BogotÃ¡;;Returned;Cash;WH-BOG-01;500;1330;;440
+ORD-000397;PRD-0038;t;Protein Powder 2kg;Apparel;Fastship Colombia;13100;135155;17705305;USD;12/09/2023;15/09/2023;Peru;Lima;;In Transit;PayPal;WH-SCL-05;3000;3840;john.d@outlook.com;320
+ORD-000398;PRD-0028;t;Mechanical Keyboard;Electronics;Andean Freight Co.;11100;93621;10391931;COP;20/12/2022;7/02/2023;Mexico;Monterrey;;Pending;PayPal;WH-MED-02;1100;1090;luis.p@gmail.com;260
+ORD-000399;PRD-0009;t;Running Shoes M;Food & Beverage;Pacific Trade Sas;33200;12951;4299732;COP;30/01/2024;11/02/2024;Brasil;SÃ£o Paulo;;Cancelled;Credit Card;WH-SCL-05;300;440;carlos.r@company.co;190
+ORD-000400;PRD-0001;t;Laptop Pro 15;Food & Beverage;Andean Freight Co.;44500;160907;71603615;USD;10/06/2024;26/07/2024;Brasil;Rio de Janeiro;;Cancelled;PayPal;WH-CAL-03;300;3160;carlos.r@outlook.com;440
+ORD-000401;PRD-0003;t;Mechanical Keyboard;Electronics;Andean Freight Co.;36200;127544;46170928;BRL;9/03/2023;;Colombia;BogotÃ¡;;Cancelled;PayPal;WH-BOG-01;2900;1320;luis.p@gmail.com;180
+ORD-000402;PRD-0038;t;Bluetooth Speaker;Apparel;Andean Freight Co.;4900;130876;6412924;BRL;2/08/2024;;Peru;Arequipa;;Cancelled;PayPal;WH-BOG-01;4500;2070;carlos.r@yahoo.com;440
+ORD-000403;PRD-0033;t;Mechanical Keyboard;Industrial;Logistics Pro S.A.;43300;207195;89715435;BRL;9/06/2022;26/07/2022;Peru;Lima;;Cancelled;Credit Card;WH-SCL-05;3300;3980;ana.m@gmail.com;450
+ORD-000404;PRD-0030;t;Office Chair Ergonomic;Unknown;Pacific Trade Sas;36800;58987;21707216;COP;11/01/2023;10/12/2023;Colombia;Cali;;Delivered;Bank Transfer;WH-SCL-05;2300;650;luis.p@outlook.com;160
+ORD-000405;PRD-0048;t;Office Chair Ergonomic;Personal Care;Unknown;11400;145185;16551090;USD;30/07/2022;25/09/2022;Mexico;Monterrey;;In Transit;Credit Card;WH-SCL-05;2000;810;luis.p@gmail.com;340
+ORD-000406;PRD-0050;t;Coffee Maker 12cup;Electronics;Unknown;17400;158021;27495654;USD;16/05/2024;2/07/2024;Colombia;MedellÃ­n;;Returned;Bank Transfer;WH-BOG-01;1200;2690;maria.g@outlook.com;360
+ORD-000407;PRD-0032;t;Laptop Pro 15;Electronics;Fastship Colombia;1000;56096;560960;USD;13/07/2024;28/08/2024;Chile;ValparaÃ­so;;In Transit;PayPal;WH-CAL-03;4500;3020;john.d@outlook.com;430
+ORD-000408;PRD-0033;t;Solar Panel 250W;Industrial;Global Cargo Ltda;49200;201796;99283632;BRL;5/08/2023;12/09/2023;Peru;Cusco;;Delivered;Bank Transfer;WH-MED-02;900;2040;luis.p@company.co;490
+ORD-000409;PRD-0043;t;Wireless Headset;Personal Care;Pacific Trade Sas;36400;195357;71109948;COP;11/04/2022;28/04/2022;Colombia;Cali;;Returned;Bank Transfer;WH-BOG-01;4300;590;carlos.r@outlook.com;450
+ORD-000410;PRD-0014;t;Coffee Maker 12cup;Industrial;Pacific Trade Sas;16800;196583;33025944;USD;6/11/2023;16/11/2023;Mexico;Ciudad de MÃ©xico;;Cancelled;PayPal;WH-SCL-05;4000;2270;carlos.r@outlook.com;300
+ORD-000411;PRD-0041;t;Laptop Pro 15;Personal Care;Andean Freight Co.;39500;198953;78586435;COP;14/10/2023;27/10/2023;Chile;ValparaÃ­so;;Cancelled;Bank Transfer;WH-CAL-03;3700;180;sofia.v@gmail.com;280
+ORD-000412;PRD-0019;t;Coffee Maker 12cup;Electronics;Logistics Pro S.A.;11600;1782;206712;USD;27/05/2022;25/07/2022;Brasil;BrasÃ­lia;;Delivered;PayPal;WH-SCL-05;2300;2180;carlos.r@outlook.com;420
+ORD-000413;PRD-0039;t;LED Strip 5m;Industrial;Pacific Trade Sas;25900;80074;20739166;MXN;2/07/2022;;Mexico;Monterrey;;In Transit;PayPal;WH-BOG-01;3500;1110;sofia.v@company.co;300
+ORD-000414;PRD-0006;t;Running Shoes M;Apparel;Andean Freight Co.;15400;225051;34657854;BRL;29/03/2022;4/05/2022;Chile;ConcepciÃ³n;;Returned;Cash;WH-MED-02;2500;2150;john.d@yahoo.com;140
+ORD-000415;P-123;f;LED Strip 5m;Unknown;Logistics Pro S.A.;24600;133190;32764740;COP;13/06/2022;8/07/2022;Chile;ConcepciÃ³n;;Cancelled;PayPal;WH-MED-02;2500;3900;sofia.v@outlook.com;300
+ORD-000416;PRD-0001;t;Safety Gloves L;Electronics;Andean Freight Co.;27200;66862;18186464;COP;31/03/2022;4/04/2022;Colombia;Colombia;;In Transit;PayPal;WH-SCL-05;3700;1570;;220
+ORD-000417;PRD-0041;t;Bluetooth Speaker;Food & Beverage;Global Cargo Ltda;28600;132305;37839230;MXN;19/12/2023;11/02/2024;Peru;Lima;;Pending;PayPal;WH-LIM-04;2700;560;carlos.r@outlook.com;460
+ORD-000418;PRD-0023;t;Office Chair Ergonomic;Apparel;Fastship Colombia;4900;143234;7018466;MXN;3/06/2022;23/06/2022;Brasil;Calle 992;;Delivered;Cash;WH-LIM-04;3000;320;luis.p@company.co;390
+ORD-000419;PRD-0025;t;Office Chair Ergonomic;Personal Care;Pacific Trade Sas;7143300;186650;13332969450;USD;28/06/2023;;Colombia;BogotÃ¡;;Pending;Bank Transfer;WH-MED-02;3100;840;john.d@gmail.com;200
+ORD-000420;PRD-0030;t;Running Shoes M;Apparel;Pacific Trade Sas;33400;5912;1974608;USD;14/05/2022;2/07/2022;Brasil;SÃ£o Paulo;;Delivered;Bank Transfer;Unknown;2100;1070;carlos.r@company.co;130
+ORD-000421;PRD-0002;t;Laptop Pro 15;Apparel;Andean Freight Co.;23100;103835;23985885;USD;26/03/2024;26/04/2024;Colombia;MedellÃ­n;;Cancelled;Cash;WH-SCL-05;1900;2560;carlos.r@yahoo.com;450
+ORD-000422;PRD-0033;t;Wireless Headset;Electronics;Fastship Colombia;26100;202488;52849368;MXN;23/04/2024;22/05/2024;Chile;ConcepciÃ³n;;In Transit;PayPal;WH-CAL-03;500;2020;;430
+ORD-000423;PRD-0014;t;Wireless Headset;Industrial;Pacific Trade Sas;33900;140815;47736285;USD;30/05/2022;17/07/2022;Mexico;Monterrey;;Pending;Cash;WH-MED-02;3300;2050;maria.g@yahoo.com;120
+ORD-000424;PRD-0019;t;Office Chair Ergonomic;Electronics;Andean Freight Co.;20600;134352;27676512;USD;27/10/2023;6/12/2023;Peru;Cusco;;Returned;PayPal;WH-BOG-01;3700;1540;john.d@outlook.com;260
+ORD-000425;PRD-0034;t;Running Shoes M;Industrial;Fastship Colombia;1685400;202419;3411569826;MXN;28/04/2022;21/05/2022;Colombia;MedellÃ­n;;Returned;PayPal;Unknown;1300;3990;;120
+ORD-000426;PRD-0018;t;Wireless Headset;Apparel;Logistics Pro S.A.;11500;186804;21482460;USD;6/06/2024;7/07/2024;Chile;Santiago;;In Transit;Credit Card;WH-CAL-03;300;3080;luis.p@gmail.com;190
+ORD-000427;PROD-001;f;Bluetooth Speaker;Industrial;Pacific Trade Sas;2300;132846;3055458;MXN;5/02/2022;15/02/2022;Colombia;MedellÃ­n;;Returned;Cash;WH-BOG-01;2800;2750;luis.p@yahoo.com;450
+ORD-000428;PRD-0018;t;Office Chair Ergonomic;Apparel;Logistics Pro S.A.;38800;73488;28513344;BRL;30/01/2023;11/02/2023;Colombia;Cali;;Delivered;Bank Transfer;WH-LIM-04;3700;2370;;280
+ORD-000429;PRD-0010;t;Wireless Headset;Electronics;Andean Freight Co.;32700;202575;66242025;MXN;25/05/2022;26/06/2022;Mexico;Ciudad de MÃ©xico;;Returned;Credit Card;WH-LIM-04;500;2230;luis.p@company.co;210
+ORD-000430;PRD-0034;t;Laptop Pro 15;Industrial;Andean Freight Co.;48000;212506;102002880;USD;13/11/2022;18/12/2022;Peru;Lima;;Delivered;PayPal;WH-510;3900;1820;maria.g@yahoo.com;210
+ORD-000431;PRD-0028;t;LED Strip 5m;Apparel;Andean Freight Co.;37400;88901;33248974;BRL;29/04/2023;22/06/2023;Colombia;MedellÃ­n;;Pending;Credit Card;WH-SCL-05;1500;1120;;360
+ORD-000432;PRD-0015;t;LED Strip 5m;Personal Care;Andean Freight Co.;29900;111879;33451821;COP;12/09/2023;5/10/2023;Brasil;Rio de Janeiro;;In Transit;PayPal;WH-CAL-03;1400;1920;maria.g@gmail.com;380
+ORD-000433;PRD-0043;t;Wireless Headset;Personal Care;Logistics Pro S.A.;36200;57079;20662598;MXN;22/05/2022;8/06/2022;Chile;ValparaÃ­so;;Cancelled;Cash;WH-LIM-04;800;1430;sofia.v@company.co;150
+ORD-000434;PRD-9999;t;Wireless Headset;Electronics;Andean Freight Co.;5100;167078;8520978;MXN;21/02/2023;3/12/2023;Mexico;Monterrey;;Pending;Bank Transfer;WH-BOG-01;4100;120;sofia.v@yahoo.com;280
+ORD-000435;PRD-0027;t;Running Shoes M;Apparel;Fastship Colombia;43500;55435;24114225;USD;4/03/2023;9/04/2023;Peru;Cusco;;Cancelled;Credit Card;WH-CAL-03;1900;2040;carlos.r@company.co;450
+ORD-000436;PRD-0004;t;Office Chair Ergonomic;Industrial;Global Cargo Ltda;18300;171485;31381755;USD;4/09/2023;;Brasil;Calle 761;;In Transit;Cash;WH-CAL-03;1000;910;;380
+ORD-000437;PRD-0038;t;Safety Gloves L;Personal Care;Pacific Trade Sas;14900;132305;19713445;BRL;20/05/2024;4/07/2024;Chile;Chile;;Pending;Credit Card;WH-CAL-03;2700;3200;luis.p@company.co;310
+ORD-000438;PRD-0049;t;Protein Powder 2kg;Electronics;Pacific Trade Sas;48300;101359;48956397;COP;25/10/2024;6/12/2024;Colombia;BogotÃ¡;;Delivered;Bank Transfer;WH-517;500;2270;;110
+ORD-000439;PRD-0038;t;Wireless Headset;Apparel;Pacific Trade Sas;27400;57342;15711708;BRL;28/08/2022;14/10/2022;Brasil;Rio de Janeiro;;In Transit;PayPal;WH-SCL-05;1200;1720;sofia.v@outlook.com;290
+ORD-000440;PRD-0018;t;LED Strip 5m;Personal Care;Andean Freight Co.;49200;17051;8389092;COP;28/01/2024;1/03/2024;Peru;Lima;;Pending;PayPal;WH-MED-02;1800;2880;luis.p@company.co;320
+ORD-000441;PRD-0019;t;Safety Gloves L;Industrial;Logistics Pro S.A.;35800;136990;49042420;MXN;21/04/2024;19/05/2024;Chile;Chile;;Returned;Credit Card;WH-MED-02;700;2620;maria.g@gmail.com;120
+ORD-000442;PRD-0050;t;Laptop Pro 15;Industrial;Logistics Pro S.A.;6100;196047;11958867;BRL;23/03/2024;16/05/2024;Chile;ConcepciÃ³n;;Pending;PayPal;WH-SCL-05;3800;3600;;390
+ORD-000443;PRD-0027;t;Protein Powder 2kg;Electronics;Global Cargo Ltda;8700;100637;8755419;MXN;11/03/2022;26/03/2022;Brasil;BrasÃ­lia;;In Transit;Cash;WH-BOG-01;4500;3820;maria.g@gmail.com;140
+ORD-000444;PRD-0016;t;Protein Powder 2kg;Personal Care;Fastship Colombia;30700;153345;47076915;MXN;31/07/2022;21/09/2022;Peru;Lima;;In Transit;Bank Transfer;WH-CAL-03;2500;1710;maria.g@outlook.com;210
+ORD-000445;PRD-0006;t;Industrial Drill;Personal Care;Fastship Colombia;8600;185029;15912494;USD;8/03/2023;2/10/2023;Chile;ConcepciÃ³n;;Pending;Cash;WH-SCL-05;2400;2800;sofia.v@company.co;450
+ORD-000446;PRD-0041;t;Mechanical Keyboard;Food & Beverage;Unknown;1295500;163650;2120085750;USD;14/02/2024;12/03/2024;Colombia;Cali;;Delivered;Unknown;WH-LIM-04;1800;400;ana.m@company.co;240
+ORD-000447;PRD-0015;t;Wireless Headset;Food & Beverage;Pacific Trade Sas;18400;822;151248;MXN;15/07/2024;8/08/2024;Colombia;MedellÃ­n;;Pending;PayPal;WH-SCL-05;100;470;ana.m@gmail.com;150
+ORD-000448;PRD-0002;t;Coffee Maker 12cup;Food & Beverage;Global Cargo Ltda;4900;102793;5036857;COP;16/03/2022;29/04/2022;Mexico;Calle 775;;Delivered;Bank Transfer;WH-BOG-01;4300;1780;sofia.v@company.co;300
+ORD-000449;PRD-0032;t;Industrial Drill;Personal Care;Logistics Pro S.A.;35400;200350;70923900;USD;6/03/2024;21/03/2024;Brasil;SÃ£o Paulo;;Cancelled;Bank Transfer;WH-CAL-03;900;2050;luis.p@yahoo.com;220
+ORD-000450;PRD-0012;t;Industrial Drill;Apparel;Global Cargo Ltda;1418100;28097;398443557;BRL;10/08/2022;9/09/2022;Colombia;MedellÃ­n;;In Transit;Cash;WH-MED-02;2200;730;sofia.v@yahoo.com;460
+ORD-000451;PRD-0012;t;Mechanical Keyboard;Industrial;Fastship Colombia;25900;226341;58622319;COP;27/12/2022;10/01/2023;Peru;Lima;;In Transit;Bank Transfer;WH-CAL-03;2300;2040;carlos.r@gmail.com;350
+ORD-000452;PRD-0039;t;Laptop Pro 15;Personal Care;Andean Freight Co.;14400;88797;12786768;USD;20/10/2022;;Mexico;Ciudad de MÃ©xico;;Returned;Cash;WH-CAL-03;800;1410;carlos.r@gmail.com;270
+ORD-000453;PRD-0000;t;LED Strip 5m;Apparel;Global Cargo Ltda;24500;180480;44217600;USD;22/08/2022;5/10/2022;Peru;Arequipa;;In Transit;Bank Transfer;WH-CAL-03;900;2880;maria.g@company.co;220
+ORD-000454;PRD-0016;t;Protein Powder 2kg;Industrial;Global Cargo Ltda;14300;207700;29701100;USD;26/04/2024;23/05/2024;Chile;Santiago;;Cancelled;PayPal;WH-MED-02;2100;2340;john.d@yahoo.com;450
+ORD-000455;PRD-0012;t;Wireless Headset;Personal Care;Logistics Pro S.A.;44000;73181;32199640;COP;17/04/2023;23/04/2023;Chile;Santiago;;In Transit;Cash;WH-LIM-04;2900;2040;luis.p@company.co;450
+ORD-000456;PRD-9999;t;Mechanical Keyboard;Apparel;Pacific Trade Sas;34600;42013;14536498;BRL;18/10/2024;2/12/2024;Colombia;Cali;;Pending;Bank Transfer;WH-478;400;1050;luis.p@yahoo.com;450
+ORD-000457;PRD-0019;t;Running Shoes M;Electronics;Pacific Trade Sas;14700;68349;10047303;MXN;5/06/2022;18/06/2022;Colombia;Cali;;Pending;Credit Card;WH-BOG-01;2100;1950;carlos.r@gmail.com;290
+ORD-000458;PRD-0039;t;Solar Panel 250W;Electronics;Pacific Trade Sas;5800;96652;5605816;COP;12/02/2023;4/09/2023;Brasil;Rio de Janeiro;;Pending;Cash;WH-CAL-03;1000;3810;luis.p@yahoo.com;140
+ORD-000459;PRD-0022;t;Solar Panel 250W;Food & Beverage;Andean Freight Co.;400;225287;901148;BRL;30/05/2024;14/06/2024;Colombia;Cali;;In Transit;Cash;WH-MED-02;-200;3660;ana.m@yahoo.com;410
+ORD-000460;PRD-0011;t;Protein Powder 2kg;Electronics;Global Cargo Ltda;47200;64228461;30315833592;USD;17/10/2022;30/10/2022;Brasil;BrasÃ­lia;;Cancelled;PayPal;WH-SCL-05;2800;2330;sofia.v@company.co;260
+ORD-000461;PRD-0044;t;Running Shoes M;Food & Beverage;Logistics Pro S.A.;48400;91450;44261800;COP;18/09/2022;6/11/2022;Chile;ValparaÃ­so;;Delivered;Bank Transfer;WH-CAL-03;800;150;ana.m@yahoo.com;260
+ORD-000462;PRD-0043;t;Coffee Maker 12cup;Personal Care;Global Cargo Ltda;4600;118262;5440052;COP;31/10/2024;25/11/2024;Mexico;Ciudad de MÃ©xico;;Cancelled;PayPal;WH-SCL-05;2200;3610;maria.g@outlook.com;300
+ORD-000463;PRD-0043;t;Wireless Headset;Food & Beverage;Logistics Pro S.A.;10700;238612;25531484;COP;26/04/2023;7/06/2023;Chile;Santiago;;Delivered;Credit Card;WH-SCL-05;2900;3240;carlos.r@yahoo.com;380
+ORD-000464;PRD-0039;t;Wireless Headset;Electronics;Fastship Colombia;20200;197323;39859246;BRL;30/11/2024;25/01/2025;Peru;Arequipa;;Pending;Bank Transfer;WH-BOG-01;3600;2970;;140
+ORD-000465;PRD-0020;t;Wireless Headset;Industrial;Logistics Pro S.A.;35400;217498;76994292;COP;17/04/2024;21/05/2024;Brasil;BrasÃ­lia;;In Transit;PayPal;WH-LIM-04;4500;2750;ana.m@outlook.com;370
+ORD-000466;PRD-0001;t;Protein Powder 2kg;Personal Care;Global Cargo Ltda;30900;209732;64807188;USD;10/12/2023;;Colombia;BogotÃ¡;;Pending;Bank Transfer;WH-MED-02;2300;370;carlos.r@outlook.com;240
+ORD-000467;PRD-0012;t;Coffee Maker 12cup;Industrial;Global Cargo Ltda;39700;182906;72613682;USD;4/11/2024;6/12/2024;Chile;Santiago;;Pending;Bank Transfer;WH-LIM-04;4100;3550;;270
+ORD-000468;PRD-0029;t;Industrial Drill;Food & Beverage;Global Cargo Ltda;14200;92186;13090412;BRL;8/06/2023;5/08/2023;Brasil;Rio de Janeiro;;Pending;Cash;WH-SCL-05;2700;790;maria.g@outlook.com;470
+ORD-000469;PRD-0041;t;Wireless Headset;Industrial;Fastship Colombia;26900;73037;19646953;BRL;24/03/2023;13/04/2023;Peru;Cusco;;Pending;Unknown;WH-BOG-01;3900;1850;;400
+ORD-000470;PRD-0045;t;Protein Powder 2kg;Apparel;Global Cargo Ltda;300;34858;104574;MXN;20/03/2022;30/04/2022;Brasil;Brasil;;In Transit;Bank Transfer;WH-MED-02;4000;750;carlos.r@gmail.com;210
+ORD-000471;PRD-0012;t;Protein Powder 2kg;Industrial;Global Cargo Ltda;9900;85884;8502516;BRL;25/03/2022;5/05/2022;Mexico;Ciudad de MÃ©xico;;Pending;Cash;WH-LIM-04;2700;3380;ana.m@outlook.com;130
+ORD-000472;PRD-0028;t;Mechanical Keyboard;Industrial;Andean Freight Co.;33600;233261;78375696;BRL;8/05/2023;;Chile;Santiago;;Delivered;Credit Card;WH-SCL-05;900;1680;maria.g@yahoo.com;470
+ORD-000473;prd-0012;f;Industrial Drill;Apparel;Logistics Pro S.A.;2400;180727;4337448;BRL;11/01/2024;10/02/2024;Chile;Calle 340;;Pending;Credit Card;WH-CAL-03;2400;3550;sofia.v@company.co;110
+ORD-000474;PRD-0044;t;Protein Powder 2kg;Food & Beverage;Fastship Colombia;31500;57533;18122895;COP;24/03/2024;14/04/2024;Peru;Arequipa;;In Transit;PayPal;WH-CAL-03;4000;3450;carlos.r@gmail.com;360
+ORD-000475;PRD-0036;t;Protein Powder 2kg;Apparel;Global Cargo Ltda;39000;68414;26681460;COP;14/07/2023;27/08/2023;Colombia;Cali;;Returned;Credit Card;WH-SCL-05;500;400;carlos.r@outlook.com;300
+ORD-000476;PRD-0016;t;Wireless Headset;Electronics;Pacific Trade Sas;500;21945;109725;COP;19/02/2024;23/03/2024;Brasil;Rio de Janeiro;;Delivered;Credit Card;WH-BOG-01;3000;2240;sofia.v@outlook.com;300
+ORD-000477;PRD-0050;t;Bluetooth Speaker;Food & Beverage;Andean Freight Co.;42200;20023;8449706;USD;23/10/2024;17/12/2024;Chile;Santiago;;Cancelled;PayPal;WH-CAL-03;700;2100;carlos.r@yahoo.com;390
+ORD-000478;PRD-0005;t;Coffee Maker 12cup;Industrial;Logistics Pro S.A.;39900;26015;10379985;USD;23/03/2024;6/04/2024;Peru;Calle 398;;Cancelled;PayPal;WH-SCL-05;100;2040;sofia.v@yahoo.com;410
+ORD-000479;PRD-0010;t;Mechanical Keyboard;Apparel;Global Cargo Ltda;19400;20948;4063912;COP;30/07/2023;1/08/2023;Colombia;Cali;;Delivered;PayPal;WH-SCL-05;3400;1910;luis.p@gmail.com;300
+ORD-000480;PRD-0027;t;Industrial Drill;Personal Care;Logistics Pro S.A.;49100;24131;11848321;COP;2/08/2024;25/08/2024;Peru;Peru;;Returned;Credit Card;WH-SCL-05;4200;1570;carlos.r@gmail.com;300
+ORD-000481;PRD-0023;t;Safety Gloves L;Apparel;Andean Freight Co.;44100;212047;93512727;USD;5/12/2023;;Brasil;Rio de Janeiro;;Cancelled;Bank Transfer;WH-SCL-05;3100;870;john.d@outlook.com;340
+ORD-000482;PRD-0005;t;LED Strip 5m;Food & Beverage;Fastship Colombia;9700;99094;9612118;MXN;20/07/2022;25/08/2022;Mexico;Guadalajara;;Unknown;PayPal;WH-CAL-03;4200;1220;ana.m@yahoo.com;490
+ORD-000483;PRD-0045;t;Office Chair Ergonomic;Food & Beverage;Logistics Pro S.A.;49400;7681;3794414;COP;25/08/2023;6/09/2023;Mexico;Monterrey;;Returned;Bank Transfer;WH-MED-02;2100;2040;john.d@outlook.com;450
+ORD-000484;PRD-0043;t;Laptop Pro 15;Food & Beverage;Pacific Trade Sas;4700;16749;787203;USD;7/08/2023;20/08/2023;Chile;Santiago;;In Transit;Cash;WH-SCL-05;1200;3610;maria.g@outlook.com;330
+ORD-000485;PRD-0000;t;Safety Gloves L;Industrial;Pacific Trade Sas;4800;188746;9059808;USD;18/09/2023;12/11/2023;Colombia;Cali;;Pending;Bank Transfer;WH-SCL-05;1700;3760;luis.p@outlook.com;240
+ORD-000486;PRD-0047;t;Solar Panel 250W;Personal Care;Unknown;29600;140081;41463976;MXN;7/12/2023;;Mexico;Monterrey;;Pending;Credit Card;WH-CAL-03;3600;2040;john.d@outlook.com;470
+ORD-000487;PRD-0040;t;LED Strip 5m;Industrial;Pacific Trade Sas;25900;6051;1567209;BRL;16/04/2022;15/05/2022;Colombia;BogotÃ¡;;Cancelled;PayPal;WH-LIM-04;2300;2020;ana.m@company.co;370
+ORD-000488;PRD-0024;t;Bluetooth Speaker;Food & Beverage;Pacific Trade Sas;40100;237124;95086724;COP;26/06/2023;24/07/2023;Chile;ValparaÃ­so;;Delivered;Cash;WH-MED-02;3200;1510;carlos.r@company.co;330
+ORD-000489;PRD-0036;t;Laptop Pro 15;Apparel;Fastship Colombia;25900;94654;24515386;COP;4/01/2022;6/02/2022;Peru;Cusco;;In Transit;PayPal;WH-LIM-04;1900;1610;sofia.v@yahoo.com;160
+ORD-000490;PRD-0027;t;Office Chair Ergonomic;Industrial;Andean Freight Co.;8900;235829;20988781;USD;9/11/2024;7/01/2025;Peru;Arequipa;;Returned;Cash;WH-SCL-05;2300;1840;carlos.r@yahoo.com;210
+ORD-000491;PRD-0031;t;Running Shoes M;Food & Beverage;Global Cargo Ltda;31900;12105;3861495;BRL;3/02/2024;13/02/2024;Brasil;Rio de Janeiro;;Pending;PayPal;WH-MED-02;900;130;carlos.r@gmail.com;390
+ORD-000492;PRD-0020;t;Bluetooth Speaker;Electronics;Andean Freight Co.;4200;125844;5285448;MXN;2/04/2024;22/04/2024;Peru;Cusco;;Returned;Credit Card;WH-SCL-05;2500;2460;john.d@company.co;310
+ORD-000493;PRD-0011;t;Mechanical Keyboard;Personal Care;Global Cargo Ltda;32000;63718;20389760;USD;25/12/2024;26/01/2025;Mexico;Monterrey;;Returned;Cash;WH-MED-02;-500;70;maria.g@yahoo.com;240
+ORD-000494;PRD-0044;t;Mechanical Keyboard;Industrial;Logistics Pro S.A.;500;225225;1126125;USD;17/12/2023;20/01/2024;Mexico;Guadalajara;;Returned;Credit Card;WH-BOG-01;3600;3230;carlos.r@company.co;320
+ORD-000495;PRD-0015;t;Coffee Maker 12cup;Electronics;Pacific Trade Sas;36100;39668;14320148;BRL;11/05/2023;;Colombia;Cali;;In Transit;Credit Card;WH-MED-02;4200;220;maria.g@gmail.com;310
+ORD-000496;PRD-0004;t;Bluetooth Speaker;Personal Care;Global Cargo Ltda;41000;195880;80310800;USD;17/10/2022;14/12/2022;Brasil;Rio de Janeiro;;Returned;Credit Card;WH-206;4200;70;sofia.v@yahoo.com;150
+ORD-000497;PRD-0033;t;Wireless Headset;Food & Beverage;Andean Freight Co.;27100;233133;63179043;USD;17/04/2023;28/05/2023;Peru;Lima;;In Transit;Credit Card;WH-LIM-04;2200;1020;carlos.r@yahoo.com;460
+ORD-000498;PRD-0033;t;LED Strip 5m;Personal Care;Logistics Pro S.A.;25900;75459;19543881;BRL;28/03/2024;19/04/2024;Chile;Chile;;Pending;Cash;WH-LIM-04;2800;2240;ana.m@company.co;350
+ORD-000499;PRD-0025;t;LED Strip 5m;Apparel;Unknown;10000;35149770;3514977000;BRL;13/06/2022;27/06/2022;Mexico;Monterrey;;Returned;Cash;WH-SCL-05;800;2920;ana.m@yahoo.com;480
+ORD-000500;PRD-0004;t;Bluetooth Speaker;Industrial;Global Cargo Ltda;38400;172347;66181248;MXN;31/12/2024;11/01/2025;Chile;Santiago;;Pending;PayPal;WH-LIM-04;2800;1980;;430
+ORD-000501;PRD-0015;t;Industrial Drill;Food & Beverage;Pacific Trade Sas;27600;171615;47365740;BRL;17/11/2022;25/11/2022;Colombia;Cali;;In Transit;PayPal;WH-CAL-03;800;2400;carlos.r@yahoo.com;430
+ORD-000502;PRD-0003;t;Office Chair Ergonomic;Apparel;Fastship Colombia;39600;138548;54865008;MXN;6/11/2024;;Colombia;BogotÃ¡;;Delivered;Cash;WH-MED-02;2600;420;ana.m@gmail.com;120
+ORD-000503;PRD-0018;t;Mechanical Keyboard;Industrial;Fastship Colombia;3300;205342;6776286;COP;23/10/2024;29/10/2024;Mexico;Ciudad de MÃ©xico;;Pending;Credit Card;WH-LIM-04;2400;1070;;300
+ORD-000504;PRD-0043;t;Bluetooth Speaker;Electronics;Logistics Pro S.A.;15800;25527;4033266;COP;30/11/2024;3/01/2025;Chile;ValparaÃ­so;;Pending;Credit Card;WH-CAL-03;1400;3940;ana.m@gmail.com;480
+ORD-000505;PRD-0018;t;Bluetooth Speaker;Industrial;Global Cargo Ltda;6400;237462;15197568;COP;13/08/2023;25/09/2023;Brasil;Rio de Janeiro;;Pending;Cash;WH-CAL-03;4100;2140;maria.g@outlook.com;490
+ORD-000506;PRD_0045;f;Mechanical Keyboard;Personal Care;Pacific Trade Sas;46600;29831;13901246;COP;11/09/2023;11/10/2023;Peru;Arequipa;;Cancelled;PayPal;WH-MED-02;2300;3980;john.d@outlook.com;110
+ORD-000507;PRD-0002;t;Office Chair Ergonomic;Electronics;Logistics Pro S.A.;1800;236068;4249224;BRL;16/11/2022;24/12/2022;Chile;ConcepciÃ³n;;In Transit;Bank Transfer;WH-MED-02;2300;180;luis.p@yahoo.com;420
+ORD-000508;PRD-0040;t;Laptop Pro 15;Food & Beverage;Pacific Trade Sas;24600;192272;47298912;MXN;12/01/2024;20/01/2025;Colombia;Cali;;Cancelled;Bank Transfer;WH-MED-02;4300;1880;carlos.r@yahoo.com;270
+ORD-000509;PRD-0009;t;LED Strip 5m;Electronics;Global Cargo Ltda;25100;37113;9315363;MXN;18/03/2024;16/04/2024;Brasil;Rio de Janeiro;;Pending;Credit Card;WH-SCL-05;4500;3690;sofia.v@outlook.com;360
+ORD-000510;PRD-0029;t;Mechanical Keyboard;Food & Beverage;Global Cargo Ltda;33900;243707;82616673;BRL;13/12/2022;14/12/2022;Chile;ValparaÃ­so;;Cancelled;Credit Card;WH-LIM-04;1600;2960;sofia.v@company.co;480
+ORD-000511;prd-0012;f;Solar Panel 250W;Food & Beverage;Pacific Trade Sas;43300;153882;66630906;USD;4/01/2024;9/03/2024;Chile;ValparaÃ­so;;Returned;PayPal;WH-MED-02;800;2730;john.d@gmail.com;260
+ORD-000512;PRD-0012;t;Office Chair Ergonomic;Apparel;Fastship Colombia;7200;189304;13629888;MXN;20/07/2023;12/09/2023;Mexico;Guadalajara;;Pending;Credit Card;WH-469;2100;1350;sofia.v@outlook.com;220
+ORD-000513;PRD-0017;t;Coffee Maker 12cup;Personal Care;Fastship Colombia;26700;240790;64290930;USD;26/10/2023;14/12/2023;Brasil;SÃ£o Paulo;;Cancelled;PayPal;WH-MED-02;900;300;carlos.r@outlook.com;480
+ORD-000514;PROD-001;f;Safety Gloves L;Personal Care;Fastship Colombia;11700;187230;21905910;BRL;25/06/2023;14/08/2023;Chile;ConcepciÃ³n;;Cancelled;Bank Transfer;WH-CAL-03;1900;2380;john.d@outlook.com;140
+ORD-000515;PRD-0031;t;Running Shoes M;Food & Beverage;Pacific Trade Sas;10800;170235;18385380;MXN;18/02/2024;16/03/2024;Peru;Cusco;;Cancelled;Bank Transfer;WH-LIM-04;2900;1760;sofia.v@yahoo.com;250
+ORD-000516;PRD-0048;t;Protein Powder 2kg;Industrial;Logistics Pro S.A.;1700;42397;720749;COP;17/04/2022;25/05/2022;Brasil;Rio de Janeiro;;Cancelled;Cash;WH-BOG-01;900;3520;john.d@gmail.com;430
+ORD-000517;PRD-0035;t;Protein Powder 2kg;Personal Care;Logistics Pro S.A.;21000;166800;35028000;BRL;18/01/2022;22/02/2022;Colombia;BogotÃ¡;;In Transit;Cash;WH-BOG-01;4200;3550;john.d@gmail.com;360
+ORD-000518;PROD-001;f;Running Shoes M;Electronics;Andean Freight Co.;2700;133871;3614517;COP;18/02/2023;;Mexico;Monterrey;;Delivered;Credit Card;WH-SCL-05;3200;2130;sofia.v@company.co;300
+ORD-000519;PRD-0032;t;Bluetooth Speaker;Electronics;Pacific Trade Sas;37000;242398;89687260;USD;9/02/2023;14/03/2023;Colombia;Cali;;Delivered;Bank Transfer;WH-BOG-01;200;3320;carlos.r@outlook.com;430
+ORD-000520;PRD-0009;t;Industrial Drill;Electronics;Andean Freight Co.;40500;74618;30220290;MXN;16/09/2023;18/10/2023;Peru;Lima;;Pending;Credit Card;WH-SCL-05;1800;2560;ana.m@gmail.com;100
+ORD-000521;PRD-0031;t;Safety Gloves L;Industrial;Fastship Colombia;21200;21590;4577080;USD;25/07/2022;8/10/2022;Colombia;BogotÃ¡;;Delivered;Cash;WH-BOG-01;3400;3190;luis.p@outlook.com;320
+ORD-000522;PRD-0049;t;LED Strip 5m;Industrial;Logistics Pro S.A.;8600;116511;10019946;USD;29/03/2022;5/05/2022;Colombia;Cali;;Pending;PayPal;WH-CAL-03;3200;1300;sofia.v@outlook.com;300
+ORD-000523;PRD-0004;t;Mechanical Keyboard;Food & Beverage;Fastship Colombia;14200;147696;20972832;MXN;24/12/2022;8/01/2023;Mexico;Monterrey;;Delivered;Bank Transfer;WH-MED-02;2800;610;carlos.r@outlook.com;200
+ORD-000524;PRD-0005;t;Running Shoes M;Electronics;Logistics Pro S.A.;41200;174717;71983404;MXN;30/11/2023;7/01/2024;Brasil;SÃ£o Paulo;;Delivered;Credit Card;WH-CAL-03;1500;3840;luis.p@company.co;230
+ORD-000525;PRD-0026;t;Running Shoes M;Apparel;Logistics Pro S.A.;43700;91489;39980693;MXN;27/09/2022;;Peru;Arequipa;;In Transit;PayPal;WH-LIM-04;500;2770;luis.p@gmail.com;130
+ORD-000526;PRD-0047;t;Office Chair Ergonomic;Industrial;Pacific Trade Sas;45900;138938;63772542;BRL;23/12/2023;15/01/2024;Colombia;Cali;;Returned;PayPal;WH-MED-02;300;2040;carlos.r@gmail.com;160
+ORD-000527;PRD-0027;t;Coffee Maker 12cup;Electronics;Andean Freight Co.;32200;86997;28013034;BRL;3/08/2024;3/09/2024;Colombia;MedellÃ­n;;Cancelled;Cash;WH-BOG-01;300;1460;maria.g@gmail.com;180
+ORD-000528;PRD-9999;t;Wireless Headset;Food & Beverage;Andean Freight Co.;5100;148180;7557180;MXN;3/08/2023;4/08/2023;Brasil;SÃ£o Paulo;;Pending;Credit Card;WH-CAL-03;300;2200;ana.m@company.co;250
+ORD-000529;PROD-001;f;Safety Gloves L;Electronics;Global Cargo Ltda;25200;247902;62471304;MXN;10/07/2023;12/08/2023;Mexico;Monterrey;;In Transit;PayPal;WH-BOG-01;-800;3590;sofia.v@company.co;170
+ORD-000530;PRD-0037;t;Mechanical Keyboard;Apparel;Logistics Pro S.A.;41100;122205;50226255;BRL;10/03/2022;23/03/2022;Brasil;Calle 627;;Pending;Bank Transfer;WH-262;3600;3350;ana.m@yahoo.com;480
+ORD-000531;PRD-0035;t;Laptop Pro 15;Personal Care;Logistics Pro S.A.;25900;197095;51047605;USD;28/07/2022;;Brasil;Rio de Janeiro;;In Transit;PayPal;WH-MED-02;1500;790;luis.p@gmail.com;130
+ORD-000532;PRD-0041;t;Office Chair Ergonomic;Unknown;Global Cargo Ltda;46300;126080;58375040;COP;3/08/2022;21/09/2022;Brasil;SÃ£o Paulo;;Cancelled;Credit Card;WH-MED-02;2900;2320;carlos.r@yahoo.com;400
+ORD-000533;PRD-0012;t;LED Strip 5m;Unknown;Andean Freight Co.;33100;99446;32916626;USD;24/02/2022;7/04/2022;Peru;Lima;;Cancelled;Credit Card;WH-SCL-05;3600;2340;john.d@gmail.com;420
+ORD-000534;PRD-0047;t;Safety Gloves L;Electronics;Pacific Trade Sas;36900;119667;44157123;BRL;20/03/2023;5/08/2023;Mexico;Guadalajara;;In Transit;Cash;WH-CAL-03;4000;3250;john.d@gmail.com;180
+ORD-000535;PRD-0039;t;Running Shoes M;Electronics;Logistics Pro S.A.;6100;6612;403332;COP;30/01/2024;25/02/2024;Chile;ValparaÃ­so;;Pending;Cash;Unknown;1600;2780;ana.m@company.co;230
+ORD-000536;PRD-0004;t;Industrial Drill;Electronics;Fastship Colombia;39500;18913;7470635;COP;13/06/2023;31/07/2023;Chile;Santiago;;Delivered;Bank Transfer;WH-CAL-03;3700;2750;luis.p@company.co;130
+ORD-000537;PRD-0008;t;Protein Powder 2kg;Apparel;Global Cargo Ltda;3700;35357;1308209;BRL;8/12/2023;;Mexico;Ciudad de MÃ©xico;;Delivered;PayPal;WH-MED-02;3800;1740;;160
+ORD-000538;PRD-0041;t;Running Shoes M;Personal Care;Pacific Trade Sas;9600;64687;6209952;COP;29/05/2024;26/06/2024;Colombia;BogotÃ¡;;Returned;Unknown;WH-CAL-03;4400;3080;maria.g@company.co;470
+ORD-000539;PRD-0002;t;Mechanical Keyboard;Industrial;Andean Freight Co.;25900;199178;51587102;MXN;7/12/2023;8/01/2024;Peru;Cusco;;Cancelled;Cash;WH-MED-02;4400;2700;ana.m@gmail.com;240
+ORD-000540;PRD-0028;t;Office Chair Ergonomic;Apparel;Logistics Pro S.A.;48600;157256;76426416;BRL;3/04/2023;14/04/2023;Peru;Cusco;;Cancelled;PayPal;WH-CAL-03;100;2040;luis.p@outlook.com;130
+ORD-000541;PRD-0040;t;Mechanical Keyboard;Food & Beverage;Logistics Pro S.A.;1000;29148;291480;MXN;21/09/2022;5/10/2022;Colombia;BogotÃ¡;;In Transit;Bank Transfer;WH-BOG-01;1800;2560;maria.g@gmail.com;480
+ORD-000542;PRD-0045;t;Safety Gloves L;Personal Care;Pacific Trade Sas;18000;212783;38300940;COP;28/11/2023;6/01/2024;Colombia;MedellÃ­n;;Cancelled;PayPal;WH-SCL-05;600;2350;;460
+ORD-000543;PRD-0038;t;Protein Powder 2kg;Food & Beverage;Pacific Trade Sas;35500;219881;78057755;BRL;26/06/2024;4/08/2024;Mexico;Monterrey;;Pending;PayPal;WH-CAL-03;700;2200;luis.p@company.co;450
+ORD-000544;PRD-0012;t;Office Chair Ergonomic;Personal Care;Pacific Trade Sas;34400;154548;53164512;BRL;30/07/2023;7/08/2023;Chile;ConcepciÃ³n;;Returned;Credit Card;WH-LIM-04;1500;2990;maria.g@outlook.com;350
+ORD-000545;PRD-0031;t;Office Chair Ergonomic;Electronics;Fastship Colombia;23300;81376;18960608;BRL;8/12/2022;12/12/2022;Mexico;Monterrey;;Delivered;Bank Transfer;WH-BOG-01;2700;550;carlos.r@company.co;450
+ORD-000546;PRD-0030;t;Bluetooth Speaker;Personal Care;Fastship Colombia;28300;206041;58309603;BRL;8/03/2023;20/04/2023;Peru;Arequipa;;In Transit;Credit Card;Unknown;3800;2860;maria.g@yahoo.com;480
+ORD-000547;PRD-0047;t;Wireless Headset;Industrial;Fastship Colombia;32000;47499;15199680;BRL;24/09/2024;3/11/2024;Chile;ValparaÃ­so;;Cancelled;Credit Card;WH-BOG-01;500;1060;john.d@company.co;320
+ORD-000548;PRD-0006;t;LED Strip 5m;Electronics;Andean Freight Co.;46500;158264;73592760;BRL;24/12/2023;;Brasil;Rio de Janeiro;;Cancelled;Cash;WH-LIM-04;4400;930;maria.g@gmail.com;310
+ORD-000549;PRD-0026;t;Bluetooth Speaker;Apparel;Pacific Trade Sas;22800;26494;6040632;BRL;18/02/2022;12/03/2022;Mexico;Ciudad de MÃ©xico;;Cancelled;PayPal;WH-LIM-04;4200;2750;carlos.r@yahoo.com;160
+ORD-000550;PRD-0045;t;LED Strip 5m;Food & Beverage;Andean Freight Co.;800;68510;548080;USD;7/06/2024;10/07/2024;Peru;Lima;;Returned;Bank Transfer;WH-LIM-04;4200;1750;;310
+ORD-000551;PRD-0042;t;Running Shoes M;Personal Care;Fastship Colombia;39000;90560;35318400;MXN;20/06/2022;26/06/2022;Colombia;Cali;;Returned;Credit Card;WH-LIM-04;2400;2600;john.d@gmail.com;330
+ORD-000552;PRD-0029;t;Mechanical Keyboard;Electronics;Logistics Pro S.A.;9864100;184359;18185356119;COP;14/12/2023;25/12/2023;Mexico;Monterrey;;In Transit;PayPal;WH-SCL-05;4400;3750;ana.m@outlook.com;220
+ORD-000553;PRD-0010;t;Running Shoes M;Food & Beverage;Global Cargo Ltda;22600;212771;48086246;COP;4/05/2023;13/06/2023;Peru;Arequipa;;Returned;Credit Card;WH-BOG-01;3200;1830;john.d@outlook.com;210
+ORD-000554;PRD-9999;t;Safety Gloves L;Apparel;Global Cargo Ltda;28600;61250;17517500;USD;19/07/2022;23/07/2022;Brasil;SÃ£o Paulo;;Cancelled;Cash;WH-BOG-01;2700;210;maria.g@outlook.com;300
+ORD-000555;PRD-0010;t;LED Strip 5m;Industrial;Global Cargo Ltda;26500;137241;36368865;USD;8/01/2023;9/09/2023;Brasil;Rio de Janeiro;;In Transit;PayPal;WH-SCL-05;1200;1830;john.d@outlook.com;270
+ORD-000556;PRD-0040;t;Solar Panel 250W;Personal Care;Global Cargo Ltda;15100;132305;19978055;COP;13/03/2023;14/03/2023;Chile;ConcepciÃ³n;;Delivered;Bank Transfer;WH-SCL-05;1800;3150;sofia.v@outlook.com;240
+ORD-000557;PRD-0046;t;Wireless Headset;Industrial;Fastship Colombia;16200;176785;28639170;COP;24/05/2023;7/07/2023;Peru;Arequipa;;Pending;Credit Card;WH-BOG-01;3200;3620;ana.m@company.co;350
+ORD-000558;PRD-0025;t;Safety Gloves L;Electronics;Unknown;17400;131066;22805484;USD;10/10/2023;;Chile;ValparaÃ­so;;In Transit;Cash;WH-MED-02;1500;2470;carlos.r@yahoo.com;300
+ORD-000559;PRD-0034;t;Running Shoes M;Industrial;Pacific Trade Sas;23700;37811;8961207;BRL;4/09/2023;;Peru;Cusco;;Pending;Cash;WH-LIM-04;900;1810;carlos.r@outlook.com;330
+ORD-000560;PRD-0050;t;Protein Powder 2kg;Apparel;Andean Freight Co.;25900;242754;62873286;MXN;18/08/2023;;Mexico;Guadalajara;;Delivered;Credit Card;WH-SCL-05;3800;1140;luis.p@company.co;340
+ORD-000561;PRD-0033;t;LED Strip 5m;Industrial;Fastship Colombia;30900;109707;33899463;COP;21/06/2023;29/07/2023;Mexico;Ciudad de MÃ©xico;;Returned;Bank Transfer;WH-BOG-01;3700;970;ana.m@yahoo.com;350
+ORD-000562;PRD-0050;t;Office Chair Ergonomic;Food & Beverage;Global Cargo Ltda;32600;115471;37643546;MXN;2/06/2024;17/07/2024;Brasil;Rio de Janeiro;;Returned;Cash;WH-449;4500;2840;luis.p@outlook.com;130
+ORD-000563;PRD-0011;t;Mechanical Keyboard;Food & Beverage;Andean Freight Co.;39700;218480;86736560;USD;9/06/2023;25/09/2023;Brasil;SÃ£o Paulo;;Returned;PayPal;WH-SCL-05;1300;3430;maria.g@outlook.com;170
+ORD-000564;PRD-0015;t;Coffee Maker 12cup;Unknown;Logistics Pro S.A.;8500;15752;1338920;MXN;1/07/2022;17/07/2022;Brasil;SÃ£o Paulo;;Delivered;Cash;WH-MED-02;2400;2400;maria.g@company.co;200
+ORD-000565;PRD-0008;t;Wireless Headset;Apparel;Logistics Pro S.A.;31700;161359;51150803;BRL;11/09/2023;19/09/2023;Chile;Santiago;;In Transit;PayPal;WH-MED-02;1500;2500;sofia.v@gmail.com;190
+ORD-000566;PRD-0040;t;Office Chair Ergonomic;Electronics;Logistics Pro S.A.;12800;107749;13791872;BRL;11/03/2024;12/04/2024;Mexico;Monterrey;;Cancelled;Bank Transfer;WH-MED-02;3300;3890;carlos.r@outlook.com;440
+ORD-000567;PRD-0032;t;Wireless Headset;Personal Care;Global Cargo Ltda;44600;144239;64330594;USD;29/09/2023;17/11/2023;Peru;Lima;;Cancelled;Bank Transfer;WH-BOG-01;2700;1240;luis.p@company.co;260
+ORD-000568;PRD-0003;t;Running Shoes M;Apparel;Logistics Pro S.A.;5700;92783;5288631;MXN;15/03/2023;20/03/2023;Peru;Arequipa;;Delivered;Bank Transfer;WH-CAL-03;1800;1030;maria.g@company.co;410
+ORD-000569;PRD-0029;t;Office Chair Ergonomic;Food & Beverage;Global Cargo Ltda;500;17760963;88804815;COP;8/11/2022;23/11/2022;Chile;ValparaÃ­so;;Cancelled;Bank Transfer;WH-SCL-05;400;2720;luis.p@yahoo.com;130
+ORD-000570;PRD-0003;t;Solar Panel 250W;Food & Beverage;Logistics Pro S.A.;9700;8965;869605;BRL;11/09/2023;5/01/2024;Brasil;BrasÃ­lia;;Returned;PayPal;WH-BOG-01;3100;1410;maria.g@gmail.com;400
+ORD-000571;PRD-0005;t;LED Strip 5m;Personal Care;Global Cargo Ltda;36500;69985;25544525;USD;5/04/2022;5/05/2022;Mexico;Monterrey;;Cancelled;Credit Card;WH-CAL-03;3700;2800;sofia.v@yahoo.com;500
+ORD-000572;PRD-0041;t;Safety Gloves L;Food & Beverage;Pacific Trade Sas;21300;237671;50623923;MXN;26/11/2024;12/01/2025;Peru;Cusco;;Pending;Credit Card;WH-BOG-01;2000;1530;luis.p@yahoo.com;220
+ORD-000573;PRD-0032;t;Safety Gloves L;Personal Care;Fastship Colombia;28700;1681;482447;USD;29/10/2022;28/12/2022;Colombia;Cali;;Returned;Bank Transfer;WH-SCL-05;2600;2040;sofia.v@yahoo.com;500
+ORD-000574;PRD-0026;t;LED Strip 5m;Electronics;Andean Freight Co.;22900;15662;3586598;BRL;9/06/2024;24/06/2024;Peru;Cusco;;Returned;Cash;WH-LIM-04;2900;700;ana.m@outlook.com;230
+ORD-000575;PRD-0024;t;LED Strip 5m;Personal Care;Global Cargo Ltda;1528800;37717;576617496;BRL;8/04/2023;26/05/2023;Brasil;Rio de Janeiro;;Delivered;Credit Card;WH-CAL-03;2500;2060;ana.m@company.co;380
+ORD-000576;PRD-0037;t;Bluetooth Speaker;Apparel;Fastship Colombia;10000;64839;6483900;BRL;23/11/2022;8/12/2022;Mexico;Ciudad de MÃ©xico;;In Transit;Bank Transfer;WH-BOG-01;-100;1000;ana.m@gmail.com;180
+ORD-000577;PRD-0033;t;Safety Gloves L;Electronics;Pacific Trade Sas;25900;177861;46065999;USD;4/09/2024;29/09/2024;Peru;Cusco;;In Transit;PayPal;WH-MED-02;2800;2850;sofia.v@company.co;390
+ORD-000578;PRD-0014;t;LED Strip 5m;Personal Care;Andean Freight Co.;10900;24103;2627227;BRL;12/09/2023;22/01/2024;Colombia;BogotÃ¡;;Returned;Credit Card;WH-CAL-03;2000;2130;john.d@gmail.com;300
+ORD-000579;PRD-0031;t;Running Shoes M;Industrial;Global Cargo Ltda;13200;50665;6687780;MXN;29/04/2024;10/06/2024;Colombia;Cali;;In Transit;Credit Card;WH-248;1400;2730;ana.m@company.co;480
+ORD-000580;PRD-0029;t;Coffee Maker 12cup;Industrial;Fastship Colombia;25900;181951;47125309;COP;12/11/2022;31/12/2022;Chile;Santiago;;Returned;Cash;WH-BOG-01;200;3670;sofia.v@outlook.com;300
+ORD-000581;PRD-0016;t;Mechanical Keyboard;Food & Beverage;Fastship Colombia;45200;178029;80469108;USD;11/11/2023;17/11/2023;Peru;Arequipa;;Returned;Bank Transfer;WH-CAL-03;2600;2010;carlos.r@yahoo.com;340
+ORD-000582;PRD-0039;t;LED Strip 5m;Apparel;Pacific Trade Sas;18300;16343;2990769;MXN;28/09/2023;26/10/2023;Chile;Santiago;;Pending;Credit Card;WH-LIM-04;2200;2910;john.d@outlook.com;470
+ORD-000583;PRD-0041;t;Laptop Pro 15;Personal Care;Global Cargo Ltda;100;187427;187427;USD;13/09/2024;20/09/2024;Mexico;Guadalajara;;Returned;Cash;WH-BOG-01;3800;2500;john.d@outlook.com;420
+ORD-000584;PRD-0027;t;Solar Panel 250W;Industrial;Logistics Pro S.A.;7600;208977;15882252;MXN;5/02/2022;12/02/2022;Colombia;Cali;;Delivered;Cash;WH-MED-02;1700;3970;carlos.r@company.co;160
+ORD-000585;PRD-0025;t;Running Shoes M;Apparel;Fastship Colombia;30400;79841;24271664;USD;2/06/2024;7/07/2024;Mexico;Monterrey;;Returned;Bank Transfer;WH-CAL-03;3200;240;john.d@outlook.com;380
+ORD-000586;PRD-0002;t;Bluetooth Speaker;Industrial;Global Cargo Ltda;2600;132305;3439930;MXN;31/07/2022;19/09/2022;Brasil;Rio de Janeiro;;Delivered;PayPal;WH-SCL-05;3700;3500;;280
+ORD-000587;PRD-0036;t;Safety Gloves L;Food & Beverage;Global Cargo Ltda;31700;232513;73706621;BRL;1/02/2023;20/02/2023;Brasil;Rio de Janeiro;;Pending;Credit Card;WH-CAL-03;4100;1170;john.d@gmail.com;150
+ORD-000588;PRD-0006;t;Office Chair Ergonomic;Personal Care;Unknown;41400;158016;65418624;USD;13/09/2022;;Peru;Arequipa;;Delivered;PayPal;WH-MED-02;1300;2970;;220
+ORD-000589;PRD-0012;t;Office Chair Ergonomic;Apparel;Logistics Pro S.A.;39300;93181;36620133;COP;14/08/2023;23/08/2023;Colombia;BogotÃ¡;;Pending;Bank Transfer;WH-CAL-03;500;3610;maria.g@outlook.com;440
+ORD-000590;PRD-0038;t;Solar Panel 250W;Apparel;Fastship Colombia;11200;225350;25239200;USD;29/03/2022;8/04/2022;Peru;Arequipa;;Cancelled;Cash;WH-CAL-03;900;1200;maria.g@company.co;400
+ORD-000591;PRD-0021;t;Office Chair Ergonomic;Personal Care;Global Cargo Ltda;37700;2275;857675;BRL;17/02/2024;23/03/2024;Chile;ValparaÃ­so;;Returned;Bank Transfer;WH-MED-02;1400;1440;sofia.v@yahoo.com;290
+ORD-000592;PRD-0006;t;Coffee Maker 12cup;Unknown;Unknown;7300;76820;5607860;COP;14/03/2023;8/05/2023;Colombia;MedellÃ­n;;Pending;PayPal;WH-SCL-05;300;1210;ana.m@outlook.com;320
+ORD-000593;PRD-0034;t;Solar Panel 250W;Industrial;Global Cargo Ltda;31100;55288;17194568;USD;8/03/2023;20/03/2023;Brasil;SÃ£o Paulo;;Pending;Credit Card;WH-SCL-05;3000;3430;maria.g@company.co;240
+ORD-000594;PRD-0025;t;Mechanical Keyboard;Apparel;Pacific Trade Sas;25800;139121;35893218;BRL;20/06/2023;4/07/2023;Brasil;Rio de Janeiro;;Cancelled;Credit Card;WH-LIM-04;2300;810;john.d@outlook.com;490
+ORD-000595;PRD-0046;t;Coffee Maker 12cup;Apparel;Pacific Trade Sas;47400;173068;82034232;BRL;3/06/2024;28/07/2024;Mexico;Monterrey;;Pending;Credit Card;WH-CAL-03;600;2040;luis.p@gmail.com;220
+ORD-000596;PRD-0043;t;Bluetooth Speaker;Industrial;Logistics Pro S.A.;11900;169058;20117902;COP;27/07/2024;9/09/2024;Brasil;Rio de Janeiro;;In Transit;Cash;WH-CAL-03;4000;1960;;390
+ORD-000597;prd-0012;f;Running Shoes M;Personal Care;Andean Freight Co.;31000;246584;76441040;MXN;12/03/2023;6/05/2023;Brasil;SÃ£o Paulo;;Cancelled;PayPal;WH-CAL-03;1700;2620;luis.p@outlook.com;440
+ORD-000598;PRD-0029;t;Coffee Maker 12cup;Apparel;Fastship Colombia;14000;79048;11066720;MXN;25/02/2022;20/03/2022;Colombia;MedellÃ­n;;Returned;Cash;WH-MED-02;2700;2960;;130
+ORD-000599;PRD-0030;t;Protein Powder 2kg;Apparel;Unknown;22900;118528;27142912;USD;6/12/2023;19/01/2024;Colombia;MedellÃ­n;;Cancelled;PayPal;WH-BOG-01;4500;3770;sofia.v@company.co;150
+ORD-000600;PRD-0039;t;LED Strip 5m;Electronics;Fastship Colombia;35600;17001;6052356;MXN;1/09/2022;19/09/2022;Colombia;Cali;;Pending;Cash;WH-BOG-01;2300;3460;carlos.r@outlook.com;310
+ORD-000601;PRD-0029;t;Solar Panel 250W;Industrial;Logistics Pro S.A.;42500;10891;4628675;MXN;18/03/2023;;Peru;Arequipa;;Pending;Credit Card;WH-MED-02;900;2490;luis.p@yahoo.com;240
+ORD-000602;PRD-0002;t;Protein Powder 2kg;Food & Beverage;Fastship Colombia;44400;139827;62083188;USD;20/09/2022;25/10/2022;Colombia;Cali;;In Transit;Credit Card;WH-BOG-01;400;2120;luis.p@outlook.com;450
+ORD-000603;PRD-0048;t;Wireless Headset;Food & Beverage;Global Cargo Ltda;9700;68985;6691545;USD;30/10/2024;23/11/2024;Peru;Cusco;;Pending;Bank Transfer;WH-SCL-05;4000;2970;john.d@gmail.com;210
+ORD-000604;PRD-0021;t;Mechanical Keyboard;Food & Beverage;Fastship Colombia;25900;150533;38988047;COP;25/01/2024;30/01/2024;Mexico;Guadalajara;;Cancelled;PayPal;WH-CAL-03;2400;500;john.d@yahoo.com;300
+ORD-000605;PRD-0024;t;Bluetooth Speaker;Industrial;Logistics Pro S.A.;21600;91321;19725336;COP;11/07/2024;27/08/2024;Brasil;SÃ£o Paulo;;Cancelled;Credit Card;WH-BOG-01;700;3280;john.d@outlook.com;350
+ORD-000606;PRD-0028;t;Wireless Headset;Apparel;Andean Freight Co.;28700;75730;21734510;USD;26/10/2024;14/11/2024;Peru;Arequipa;;Delivered;PayPal;WH-SCL-05;4000;270;luis.p@outlook.com;250
+ORD-000607;PRD-0039;t;Office Chair Ergonomic;Electronics;Logistics Pro S.A.;11200;11120;1245440;COP;5/07/2024;10/07/2024;Chile;ValparaÃ­so;;Returned;PayPal;WH-MED-02;900;1200;maria.g@company.co;430
+ORD-000608;PRD-0017;t;Protein Powder 2kg;Apparel;Andean Freight Co.;4800;213757;10260336;MXN;5/03/2024;25/03/2024;Chile;ConcepciÃ³n;;Delivered;Cash;WH-MED-02;1000;2330;;480
+ORD-000609;PRD-0012;t;Wireless Headset;Apparel;Fastship Colombia;36200;169035;61190670;BRL;9/09/2023;30/09/2023;Mexico;Calle 807;;Pending;PayPal;WH-CAL-03;2500;2040;sofia.v@yahoo.com;270
+ORD-000610;PRD-0017;t;Safety Gloves L;Electronics;Andean Freight Co.;3200;108108;3459456;MXN;9/10/2022;19/11/2022;Chile;ValparaÃ­so;;Pending;Credit Card;WH-SCL-05;4100;740;ana.m@company.co;300
+ORD-000611;PRD-0050;t;Coffee Maker 12cup;Industrial;Andean Freight Co.;2300;132422;3045706;MXN;12/04/2024;4/05/2024;Colombia;MedellÃ­n;;Delivered;Bank Transfer;WH-MED-02;100;3590;carlos.r@company.co;460
+ORD-000612;PRD-0038;t;Protein Powder 2kg;Industrial;Fastship Colombia;6500;103735;6742775;USD;26/12/2022;22/02/2023;Brasil;Rio de Janeiro;;Pending;Bank Transfer;WH-BOG-01;3100;2900;;470
+ORD-000613;PRD-0003;t;Running Shoes M;Electronics;Pacific Trade Sas;41500;47312;19634480;COP;4/02/2022;3/10/2022;Chile;Santiago;;Cancelled;PayPal;WH-BOG-01;1000;1060;sofia.v@outlook.com;110
+ORD-000614;PRD-0005;t;Industrial Drill;Food & Beverage;Andean Freight Co.;12700;2125;269875;MXN;1/02/2023;2/02/2023;Brasil;Rio de Janeiro;;In Transit;PayPal;WH-863;1200;2490;maria.g@yahoo.com;290
+ORD-000615;PRD-0035;t;Industrial Drill;Industrial;Logistics Pro S.A.;12300;171565;21102495;USD;15/02/2024;;Colombia;BogotÃ¡;;Cancelled;Unknown;WH-CAL-03;4100;1420;luis.p@yahoo.com;300
+ORD-000616;PRD-0025;t;Industrial Drill;Electronics;Global Cargo Ltda;29800;32603;9715694;BRL;13/05/2022;7/08/2022;Colombia;Cali;;Unknown;Cash;Unknown;400;540;luis.p@gmail.com;380
+ORD-000617;PRD-0032;t;Laptop Pro 15;Industrial;Logistics Pro S.A.;30800;122969;37874452;MXN;10/03/2024;18/03/2024;Mexico;Ciudad de MÃ©xico;;Returned;PayPal;WH-SCL-05;3200;2990;ana.m@company.co;390
+ORD-000618;PRD-0033;t;Protein Powder 2kg;Apparel;Pacific Trade Sas;27500;117684;32363100;USD;14/06/2022;9/07/2022;Chile;ValparaÃ­so;;Cancelled;Bank Transfer;WH-BOG-01;3600;1280;sofia.v@company.co;170
+ORD-000619;prd-0012;f;LED Strip 5m;Industrial;Pacific Trade Sas;38200;41718;15936276;USD;21/06/2024;13/07/2024;Chile;ConcepciÃ³n;;Pending;Credit Card;WH-LIM-04;3700;300;john.d@outlook.com;130
+ORD-000620;PRD-0003;t;Bluetooth Speaker;Personal Care;Fastship Colombia;21400;144366;30894324;BRL;10/01/2022;31/01/2022;Chile;Santiago;;Pending;Credit Card;WH-BOG-01;3800;1400;carlos.r@gmail.com;450
+ORD-000621;PRD-0040;t;LED Strip 5m;Personal Care;Global Cargo Ltda;5200;47569;2473588;USD;23/04/2024;6/06/2024;Mexico;Guadalajara;;In Transit;Unknown;WH-MED-02;2500;580;ana.m@gmail.com;210
+ORD-000622;PRD-0040;t;Industrial Drill;Electronics;Fastship Colombia;29600;84656;25058176;USD;30/12/2022;;Colombia;MedellÃ­n;;Returned;Cash;WH-BOG-01;2200;2700;carlos.r@yahoo.com;470
+ORD-000623;PRD-0049;t;Industrial Drill;Food & Beverage;Pacific Trade Sas;9200;160960;14808320;MXN;28/10/2024;29/10/2024;Chile;ConcepciÃ³n;;Returned;Credit Card;WH-CAL-03;1100;1800;luis.p@outlook.com;310
+ORD-000624;PRD-0040;t;Coffee Maker 12cup;Apparel;Fastship Colombia;48800;173615;84724120;MXN;27/01/2023;4/03/2023;Colombia;Calle 530;;Pending;Bank Transfer;WH-MED-02;100;2910;maria.g@company.co;410
+ORD-000625;PRD-0005;t;Running Shoes M;Apparel;Andean Freight Co.;28300;26298;7442334;COP;20/02/2024;1/04/2024;Chile;ConcepciÃ³n;;Delivered;Cash;WH-CAL-03;4200;2410;carlos.r@company.co;360
+ORD-000626;PRD-0030;t;Mechanical Keyboard;Industrial;Logistics Pro S.A.;39700;152551;60562747;MXN;23/07/2024;19/08/2024;Mexico;Ciudad de MÃ©xico;;Pending;Cash;WH-CAL-03;2400;780;carlos.r@outlook.com;270
+ORD-000627;PRD-0048;t;Mechanical Keyboard;Industrial;Fastship Colombia;18300;86815101;15887163483;BRL;2/05/2023;12/05/2023;Brasil;Brasil;;Delivered;Bank Transfer;WH-MED-02;800;250;luis.p@yahoo.com;400
+ORD-000628;PRD-0009;t;Office Chair Ergonomic;Personal Care;Andean Freight Co.;48900;4529;2214681;COP;21/04/2022;13/05/2022;Colombia;Colombia;;Cancelled;Cash;WH-BOG-01;2000;2180;john.d@company.co;280
+ORD-000629;PRD-0049;t;Office Chair Ergonomic;Electronics;Logistics Pro S.A.;37100;103134;38262714;USD;26/08/2023;;Brasil;Calle 241;;Cancelled;Bank Transfer;WH-MED-02;1500;3020;sofia.v@gmail.com;310
+ORD-000630;PRD-0036;t;Bluetooth Speaker;Industrial;Andean Freight Co.;33700;21464;7233368;BRL;26/11/2022;11/12/2022;Brasil;Calle 327;;Returned;Credit Card;WH-MED-02;4400;2310;sofia.v@gmail.com;450
+ORD-000631;PRD-0040;t;Safety Gloves L;Food & Beverage;Fastship Colombia;39300;141103;55453479;COP;23/11/2024;23/12/2024;Colombia;Cali;;Pending;Cash;WH-CAL-03;2200;1070;ana.m@company.co;310
+ORD-000632;PRD-0011;t;LED Strip 5m;Electronics;Logistics Pro S.A.;1200;242491;2909892;MXN;4/04/2024;17/05/2024;Colombia;MedellÃ­n;;Pending;PayPal;WH-CAL-03;2800;3290;john.d@company.co;300
+ORD-000633;PRD-0050;t;Laptop Pro 15;Electronics;Fastship Colombia;25900;193283;50060297;BRL;10/06/2023;14/06/2023;Colombia;BogotÃ¡;;Cancelled;Bank Transfer;WH-MED-02;3400;2720;john.d@yahoo.com;240
+ORD-000634;PRD-0033;t;Office Chair Ergonomic;Industrial;Andean Freight Co.;10200;201613;20564526;USD;3/07/2023;;Mexico;Ciudad de MÃ©xico;;Delivered;Credit Card;WH-BOG-01;2600;3140;carlos.r@outlook.com;470
+ORD-000635;PRD-0048;t;Industrial Drill;Food & Beverage;Andean Freight Co.;36700;198130;72713710;MXN;7/10/2023;3/12/2023;Mexico;Ciudad de MÃ©xico;;Delivered;Cash;WH-CAL-03;1300;1480;carlos.r@yahoo.com;450
+ORD-000636;PRD-0022;t;Laptop Pro 15;Industrial;Pacific Trade Sas;18500;33312;6162720;BRL;5/10/2024;24/11/2024;Peru;Cusco;;Pending;Credit Card;WH-SCL-05;2500;3840;john.d@yahoo.com;430
+ORD-000637;PRD-0019;t;LED Strip 5m;Electronics;Unknown;18500;150962;27927970;COP;17/10/2022;16/11/2022;Chile;Santiago;;Delivered;Credit Card;WH-MED-02;3800;2390;john.d@yahoo.com;470
+ORD-000638;PRD-0032;t;Bluetooth Speaker;Food & Beverage;Global Cargo Ltda;6000;123506;7410360;COP;18/06/2024;27/06/2024;Brasil;SÃ£o Paulo;;Cancelled;Bank Transfer;WH-LIM-04;200;160;sofia.v@outlook.com;300
+ORD-000639;PRD-0023;t;Laptop Pro 15;Personal Care;Andean Freight Co.;8700;236870;20607690;BRL;1/10/2024;15/10/2024;Brasil;SÃ£o Paulo;;Cancelled;Bank Transfer;WH-MED-02;3800;1380;;350
+ORD-000640;PRD-0034;t;Running Shoes M;Food & Beverage;Global Cargo Ltda;9300;132305;12304365;COP;4/03/2022;28/03/2022;Chile;Santiago;;In Transit;Bank Transfer;WH-CAL-03;3400;3070;john.d@gmail.com;100
+ORD-000641;PRD-0002;t;Solar Panel 250W;Electronics;Global Cargo Ltda;29200;19309;5638228;BRL;20/12/2023;9/02/2024;Mexico;Ciudad de MÃ©xico;;Returned;PayPal;WH-CAL-03;100;1120;carlos.r@company.co;240
+ORD-000642;PRD-0022;t;LED Strip 5m;Unknown;Global Cargo Ltda;46200;98640;45571680;MXN;8/02/2022;21/09/2022;Colombia;BogotÃ¡;;Pending;Cash;WH-LIM-04;1300;800;ana.m@company.co;460
+ORD-000643;PRD-0010;t;Wireless Headset;Personal Care;Pacific Trade Sas;47200;150595;71080840;MXN;23/03/2023;;Colombia;BogotÃ¡;;Returned;PayPal;WH-LIM-04;2400;660;sofia.v@gmail.com;190
+ORD-000644;PRD-0028;t;Mechanical Keyboard;Apparel;Fastship Colombia;7300;247257;18049761;USD;1/12/2023;7/01/2024;Colombia;BogotÃ¡;;Cancelled;Credit Card;WH-BOG-01;3200;2610;;260
+ORD-000645;PRD-0033;t;Industrial Drill;Personal Care;Andean Freight Co.;25900;68453;17729327;MXN;6/05/2023;5/10/2023;Chile;Calle 500;;Cancelled;Credit Card;WH-LIM-04;3000;3630;john.d@gmail.com;300
+ORD-000646;PRD-0019;t;Solar Panel 250W;Industrial;Logistics Pro S.A.;8900;43420;3864380;COP;9/12/2024;20/12/2024;Chile;Santiago;;In Transit;Bank Transfer;Unknown;1700;1810;sofia.v@outlook.com;250
+ORD-000647;PRD-0003;t;Running Shoes M;Industrial;Pacific Trade Sas;24600;50941;12531486;MXN;22/05/2023;6/07/2023;Mexico;Ciudad de MÃ©xico;;Delivered;Cash;WH-CAL-03;3400;2790;carlos.r@outlook.com;470
+ORD-000648;PRD-0034;t;Safety Gloves L;Personal Care;Logistics Pro S.A.;46800;246758;115482744;MXN;14/06/2024;26/07/2024;Brasil;Rio de Janeiro;;Returned;Credit Card;WH-LIM-04;3900;2810;sofia.v@outlook.com;150
+ORD-000649;PRD-0028;t;Protein Powder 2kg;Electronics;Logistics Pro S.A.;25400;196763;49977802;COP;19/01/2022;18/02/2022;Mexico;Guadalajara;;Pending;PayPal;WH-CAL-03;300;1630;maria.g@outlook.com;150
+ORD-000650;PRD-0035;t;Office Chair Ergonomic;Electronics;Pacific Trade Sas;8200;47812;3920584;MXN;26/01/2024;;Mexico;Monterrey;;Returned;PayPal;WH-370;1300;50;maria.g@yahoo.com;470
+ORD-000651;PRD-0041;t;LED Strip 5m;Industrial;Andean Freight Co.;47500;227330;107981750;COP;21/03/2023;16/05/2023;Brasil;BrasÃ­lia;;In Transit;Cash;WH-MED-02;1500;1750;luis.p@outlook.com;290
+ORD-000652;PRD-0037;t;Office Chair Ergonomic;Electronics;Pacific Trade Sas;35700;22340;7975380;USD;13/05/2024;25/05/2024;Peru;Cusco;;Delivered;Unknown;WH-LIM-04;1800;640;ana.m@gmail.com;470
+ORD-000653;PRD-0025;t;Industrial Drill;Personal Care;Logistics Pro S.A.;23900;189196;45217844;USD;20/10/2024;12/11/2024;Brasil;Rio de Janeiro;;Delivered;Bank Transfer;WH-CAL-03;2600;2550;maria.g@yahoo.com;290
+ORD-000654;PRD-0047;t;Safety Gloves L;Industrial;Fastship Colombia;3000;19831;594930;COP;7/09/2022;;Mexico;Monterrey;;Returned;Credit Card;WH-CAL-03;3600;1730;john.d@yahoo.com;470
+ORD-000655;PRD-0049;t;Protein Powder 2kg;Unknown;Fastship Colombia;15900;204985;32592615;MXN;3/07/2023;;Brasil;SÃ£o Paulo;;In Transit;PayPal;WH-MED-02;1000;570;ana.m@yahoo.com;270
+ORD-000656;PRD-0046;t;Wireless Headset;Electronics;Fastship Colombia;20400;74916;15282864;USD;15/02/2024;19/03/2024;Chile;ValparaÃ­so;;In Transit;Cash;WH-BOG-01;4200;330;john.d@company.co;120
+ORD-000657;PRD-0045;t;LED Strip 5m;Electronics;Fastship Colombia;42700;150816;64398432;USD;6/07/2022;17/07/2022;Peru;Cusco;;Delivered;Bank Transfer;WH-MED-02;2600;2720;;170
+ORD-000658;PRD-0028;t;Protein Powder 2kg;Food & Beverage;Fastship Colombia;46300;132305;61257215;USD;12/06/2022;4/07/2022;Brasil;BrasÃ­lia;;Returned;PayPal;WH-CAL-03;2800;3910;luis.p@company.co;300
+ORD-000659;PRD-0003;t;Coffee Maker 12cup;Personal Care;Andean Freight Co.;29100;28757;8368287;USD;16/03/2023;20/04/2023;Brasil;Rio de Janeiro;;Delivered;Credit Card;WH-LIM-04;1100;860;carlos.r@gmail.com;140
+ORD-000660;PRD-0030;t;Mechanical Keyboard;Electronics;Fastship Colombia;12000;143556;17226720;MXN;3/04/2023;;Colombia;BogotÃ¡;;Returned;Credit Card;WH-LIM-04;3400;2190;carlos.r@yahoo.com;340
+ORD-000661;PRD_0045;f;Mechanical Keyboard;Industrial;Logistics Pro S.A.;400;113913;455652;COP;19/01/2023;5/03/2023;Mexico;Ciudad de MÃ©xico;;In Transit;PayPal;WH-SCL-05;3900;1210;sofia.v@company.co;290
+ORD-000662;PRD-0004;t;LED Strip 5m;Industrial;Pacific Trade Sas;49000;184700;90503000;MXN;14/06/2022;27/07/2022;Chile;Calle 103;;Cancelled;PayPal;WH-BOG-01;1800;390;;480
+ORD-000663;PRD-0000;t;LED Strip 5m;Electronics;Global Cargo Ltda;16600;229393;38079238;COP;25/12/2024;25/01/2025;Chile;ValparaÃ­so;;In Transit;Cash;WH-BOG-01;200;2300;sofia.v@outlook.com;150
+ORD-000664;PRD-0015;t;Industrial Drill;Apparel;Pacific Trade Sas;49800;216697;107915106;USD;10/03/2024;17/03/2024;Mexico;Ciudad de MÃ©xico;;In Transit;PayPal;WH-CAL-03;1400;2110;maria.g@outlook.com;250
+ORD-000665;PRD-0042;t;Coffee Maker 12cup;Electronics;Global Cargo Ltda;29100;203331;59169321;MXN;3/01/2023;28/01/2023;Colombia;BogotÃ¡;;Cancelled;PayPal;WH-CAL-03;3800;1770;john.d@yahoo.com;300
+ORD-000666;PRD-0008;t;Industrial Drill;Industrial;Global Cargo Ltda;14300;224472;32099496;COP;17/06/2023;22/06/2023;Chile;Calle 415;;Cancelled;PayPal;WH-BOG-01;1800;2040;ana.m@gmail.com;350
+ORD-000667;PRD-0020;t;Bluetooth Speaker;Electronics;Logistics Pro S.A.;25900;145536;37693824;COP;15/10/2023;;Peru;Arequipa;;In Transit;PayPal;WH-SCL-05;800;1560;luis.p@outlook.com;260
+ORD-000668;PRD-0041;t;Protein Powder 2kg;Electronics;Global Cargo Ltda;11500;133548;15358020;MXN;25/01/2024;19/03/2024;Chile;ConcepciÃ³n;;Cancelled;Bank Transfer;WH-SCL-05;200;2300;luis.p@yahoo.com;390
+ORD-000669;PRD-0014;t;Bluetooth Speaker;Electronics;Fastship Colombia;38000;132305;50275900;BRL;24/02/2024;;Peru;Arequipa;;Cancelled;Unknown;WH-MED-02;1900;550;carlos.r@gmail.com;330
+ORD-000670;PRD-0039;t;LED Strip 5m;Apparel;Andean Freight Co.;42200;231671;97765162;COP;22/09/2024;13/11/2024;Brasil;BrasÃ­lia;;In Transit;Cash;WH-BOG-01;2100;3410;maria.g@outlook.com;230
+ORD-000671;PRD-0026;t;Protein Powder 2kg;Personal Care;Fastship Colombia;25900;178767;46300653;MXN;21/10/2022;21/11/2022;Chile;ConcepciÃ³n;;Returned;PayPal;WH-SCL-05;900;90;carlos.r@company.co;130
+ORD-000672;PRD-0032;t;Safety Gloves L;Food & Beverage;Fastship Colombia;48900;201447;98507583;COP;6/05/2022;25/05/2022;Brasil;BrasÃ­lia;;In Transit;Bank Transfer;WH-SCL-05;4400;960;sofia.v@company.co;200
+ORD-000673;PRD-0030;t;Running Shoes M;Electronics;Pacific Trade Sas;18400;13105;2411320;MXN;31/01/2024;3/06/2024;Mexico;Ciudad de MÃ©xico;;Delivered;Credit Card;WH-CAL-03;3000;2040;;150
+ORD-000674;PRD-0033;t;Protein Powder 2kg;Industrial;Fastship Colombia;42800;145992;62484576;BRL;12/12/2022;23/12/2022;Brasil;SÃ£o Paulo;;In Transit;Bank Transfer;WH-SCL-05;4300;3810;carlos.r@company.co;400
+ORD-000675;PRD-0026;t;LED Strip 5m;Food & Beverage;Logistics Pro S.A.;8000;94232;7538560;BRL;20/01/2022;20/02/2022;Brasil;SÃ£o Paulo;;Cancelled;Bank Transfer;WH-CAL-03;3300;2760;sofia.v@gmail.com;440
+ORD-000676;PRD-0027;t;Office Chair Ergonomic;Personal Care;Logistics Pro S.A.;25000;178052;44513000;COP;29/03/2024;20/04/2024;Colombia;MedellÃ­n;;Pending;PayPal;WH-LIM-04;2700;3570;ana.m@yahoo.com;300
+ORD-000677;PRD-0008;t;Mechanical Keyboard;Apparel;Fastship Colombia;7700;32600;2510200;BRL;7/12/2024;;Chile;ValparaÃ­so;;Returned;PayPal;WH-LIM-04;1100;2830;maria.g@yahoo.com;270
+ORD-000678;PRD-9999;t;Wireless Headset;Electronics;Logistics Pro S.A.;12500;132305;16538125;MXN;9/04/2023;;Mexico;Guadalajara;;In Transit;Cash;WH-SCL-05;3900;10;;160
+ORD-000679;PRD-0009;t;Coffee Maker 12cup;Industrial;Fastship Colombia;6000;241353;14481180;BRL;11/06/2023;15/11/2023;Chile;ConcepciÃ³n;;Delivered;Bank Transfer;WH-LIM-04;1400;1570;luis.p@outlook.com;160
+ORD-000680;PRD-0033;t;Coffee Maker 12cup;Industrial;Pacific Trade Sas;11200;27360;3064320;MXN;16/09/2022;31/10/2022;Peru;Cusco;;In Transit;PayPal;WH-LIM-04;2600;3420;carlos.r@outlook.com;200
+ORD-000681;PRD-0001;t;Mechanical Keyboard;Industrial;Logistics Pro S.A.;21200;42048;8914176;BRL;11/08/2022;23/09/2022;Chile;Santiago;;Returned;Cash;WH-CAL-03;3100;3450;luis.p@company.co;480
+ORD-000682;PRD-0038;t;Office Chair Ergonomic;Industrial;Fastship Colombia;49200;201863;99316596;MXN;28/06/2022;25/07/2022;Chile;ConcepciÃ³n;;Returned;Credit Card;WH-BOG-01;1500;2200;maria.g@gmail.com;440
+ORD-000683;PRD-0011;t;Laptop Pro 15;Food & Beverage;Andean Freight Co.;32300;81831;26431413;COP;15/04/2024;2/05/2024;Mexico;Ciudad de MÃ©xico;;Delivered;Cash;WH-SCL-05;1600;1420;carlos.r@gmail.com;150
+ORD-000684;PRD-0027;t;Wireless Headset;Electronics;Pacific Trade Sas;25900;152295;39444405;USD;25/03/2022;;Colombia;BogotÃ¡;;Pending;PayPal;WH-CAL-03;2600;2290;john.d@gmail.com;330
+ORD-000685;PRD-0010;t;Office Chair Ergonomic;Food & Beverage;Global Cargo Ltda;4500;189046;8507070;USD;25/08/2023;30/08/2023;Chile;ConcepciÃ³n;;In Transit;Bank Transfer;WH-LIM-04;2500;2530;luis.p@outlook.com;410
+ORD-000686;PRD-0000;t;Bluetooth Speaker;Personal Care;Fastship Colombia;35400;218213;77247402;COP;28/02/2024;10/03/2024;Colombia;MedellÃ­n;;Delivered;Credit Card;WH-LIM-04;2900;290;sofia.v@yahoo.com;160
+ORD-000687;PRD-0021;t;Protein Powder 2kg;Apparel;Fastship Colombia;30500;118301;36081805;MXN;11/08/2024;30/08/2024;Peru;Cusco;;Pending;PayPal;WH-LIM-04;2000;2070;maria.g@company.co;120
+ORD-000688;PRD-0007;t;Office Chair Ergonomic;Apparel;Global Cargo Ltda;1900;216482;4113158;USD;29/10/2024;24/12/2024;Brasil;BrasÃ­lia;;In Transit;PayPal;WH-CAL-03;2500;830;john.d@outlook.com;240
+ORD-000689;PRD-0022;t;Mechanical Keyboard;Apparel;Logistics Pro S.A.;34700;94695;32859165;BRL;26/11/2022;24/01/2023;Chile;ConcepciÃ³n;;In Transit;Bank Transfer;WH-SCL-05;3100;3480;luis.p@yahoo.com;390
+ORD-000690;PRD-0046;t;Wireless Headset;Electronics;Andean Freight Co.;4900;69912;3425688;MXN;21/12/2024;27/12/2024;Colombia;MedellÃ­n;;In Transit;PayPal;WH-CAL-03;2300;3020;carlos.r@company.co;360
+ORD-000691;PRD-0048;t;Industrial Drill;Industrial;Global Cargo Ltda;34900;53120;18538880;BRL;29/12/2022;8/02/2023;Peru;Cusco;;Cancelled;Credit Card;WH-BOG-01;2600;3080;ana.m@outlook.com;410
+ORD-000692;PRD-0006;t;LED Strip 5m;Apparel;Fastship Colombia;21100;188059;39680449;MXN;19/09/2023;24/10/2023;Peru;Arequipa;;Pending;Credit Card;WH-SCL-05;2700;3160;carlos.r@outlook.com;300
+ORD-000693;PRD-0013;t;Solar Panel 250W;Industrial;Global Cargo Ltda;28000;232511;65103080;USD;31/05/2024;29/07/2024;Mexico;Monterrey;;Pending;Credit Card;WH-BOG-01;4000;980;sofia.v@gmail.com;320
+ORD-000694;PRD-0013;t;Office Chair Ergonomic;Food & Beverage;Logistics Pro S.A.;15000;205262;30789300;USD;1/01/2024;2/03/2024;Brasil;Rio de Janeiro;;In Transit;PayPal;WH-CAL-03;1500;3000;luis.p@outlook.com;400
+ORD-000695;PRD-0011;t;Protein Powder 2kg;Apparel;Global Cargo Ltda;34800;64594;22478712;COP;31/12/2023;;Colombia;Cali;;Returned;Bank Transfer;WH-BOG-01;2200;1090;sofia.v@gmail.com;320
+ORD-000696;PRD-0011;t;Office Chair Ergonomic;Food & Beverage;Fastship Colombia;12900;28036817;3616749393;MXN;21/12/2024;22/01/2025;Brasil;BrasÃ­lia;;Delivered;Bank Transfer;WH-CAL-03;1700;2040;;160
+ORD-000697;PRD-0035;t;LED Strip 5m;Unknown;Global Cargo Ltda;25900;110569;28637371;BRL;7/05/2024;6/07/2024;Colombia;MedellÃ­n;;Pending;Credit Card;WH-LIM-04;3300;50;john.d@yahoo.com;440
+ORD-000698;PRD-0023;t;Safety Gloves L;Apparel;Logistics Pro S.A.;15600;50825;7928700;BRL;17/03/2022;26/04/2022;Peru;Lima;;Cancelled;Cash;WH-MED-02;300;1000;ana.m@gmail.com;220
+ORD-000699;PRD-0021;t;Running Shoes M;Industrial;Logistics Pro S.A.;23300;230838;53785254;BRL;6/01/2023;24/02/2023;Colombia;MedellÃ­n;;Cancelled;Credit Card;WH-LIM-04;500;3080;ana.m@outlook.com;370
+ORD-000700;PRD-0002;t;LED Strip 5m;Personal Care;Fastship Colombia;23400;92418;21625812;BRL;10/09/2022;27/09/2022;Colombia;MedellÃ­n;;Delivered;Cash;WH-LIM-04;800;3880;;360
+ORD-000701;PRD-0010;t;Protein Powder 2kg;Personal Care;Pacific Trade Sas;47100;102262;48165402;MXN;1/07/2024;28/08/2024;Mexico;Guadalajara;;Pending;Bank Transfer;WH-BOG-01;3200;780;carlos.r@company.co;300
+ORD-000702;PRD-0023;t;Running Shoes M;Food & Beverage;Andean Freight Co.;39800;220396;87717608;BRL;30/07/2022;20/08/2022;Brasil;BrasÃ­lia;;Returned;Cash;WH-BOG-01;3000;670;sofia.v@outlook.com;490
+ORD-000703;PRD-0033;t;Coffee Maker 12cup;Food & Beverage;Andean Freight Co.;2300;173579;3992317;MXN;9/03/2022;7/05/2022;Brasil;BrasÃ­lia;;In Transit;Credit Card;WH-LIM-04;2100;2040;john.d@yahoo.com;260
+ORD-000704;PRD-0015;t;Mechanical Keyboard;Electronics;Global Cargo Ltda;48900;94852;46382628;BRL;31/08/2023;9/09/2023;Brasil;Calle 12;;Delivered;Bank Transfer;WH-SCL-05;1800;760;sofia.v@company.co;260
+ORD-000705;PRD-0021;t;Running Shoes M;Food & Beverage;Fastship Colombia;38700;146465;56681955;MXN;23/03/2023;22/04/2023;Brasil;Rio de Janeiro;;Unknown;PayPal;WH-MED-02;600;310;ana.m@outlook.com;370
+ORD-000706;PRD-0029;t;Laptop Pro 15;Electronics;Logistics Pro S.A.;14000;241876;33862640;MXN;2/09/2022;5/10/2022;Chile;ConcepciÃ³n;;In Transit;Unknown;WH-SCL-05;4200;2190;john.d@gmail.com;140
+ORD-000707;P-123;f;Mechanical Keyboard;Industrial;Logistics Pro S.A.;5000;5999;299950;COP;19/08/2023;12/10/2023;Mexico;Ciudad de MÃ©xico;;Pending;Bank Transfer;WH-LIM-04;3300;1050;luis.p@gmail.com;160
+ORD-000708;PRD-0017;t;Mechanical Keyboard;Industrial;Andean Freight Co.;5000;86668;4333400;BRL;19/08/2023;11/09/2023;Peru;Peru;;In Transit;Bank Transfer;WH-250;3600;380;maria.g@outlook.com;200
+ORD-000709;PRD-0048;t;Laptop Pro 15;Apparel;Pacific Trade Sas;7300;141367;10319791;COP;1/02/2022;26/02/2022;Mexico;Monterrey;;Cancelled;Bank Transfer;WH-MED-02;2200;2130;john.d@outlook.com;400
+ORD-000710;PRD-0009;t;Solar Panel 250W;Electronics;Global Cargo Ltda;25900;113980;29520820;COP;23/07/2023;;Mexico;Ciudad de MÃ©xico;;In Transit;Credit Card;WH-LIM-04;4100;2560;ana.m@yahoo.com;360
+ORD-000711;PRD-0000;t;Solar Panel 250W;Apparel;Pacific Trade Sas;33000;70984;23424720;COP;23/09/2022;19/11/2022;Peru;Arequipa;;Pending;Credit Card;WH-CAL-03;1900;140;maria.g@company.co;300
+ORD-000712;PRD-0002;t;Mechanical Keyboard;Personal Care;Pacific Trade Sas;19700;170776;33642872;COP;22/04/2022;13/05/2022;Colombia;Cali;;Returned;PayPal;WH-LIM-04;3400;3150;carlos.r@yahoo.com;410
+ORD-000713;PRD-0009;t;Mechanical Keyboard;Industrial;Global Cargo Ltda;25400;49577;12592558;MXN;22/08/2023;;Peru;Cusco;;In Transit;Bank Transfer;WH-662;200;2020;carlos.r@company.co;330
+ORD-000714;PRD-0050;t;Laptop Pro 15;Electronics;Unknown;35600;44037;15677172;MXN;18/03/2024;27/03/2024;Chile;Santiago;;Cancelled;PayPal;WH-MED-02;1700;1310;sofia.v@company.co;460
+ORD-000715;PRD-0050;t;Industrial Drill;Electronics;Global Cargo Ltda;24500;216929;53147605;USD;9/12/2024;;Chile;ConcepciÃ³n;;Delivered;Bank Transfer;WH-LIM-04;1600;870;luis.p@outlook.com;280
+ORD-000716;PRD-0014;t;Industrial Drill;Electronics;Fastship Colombia;43100;169768;73170008;BRL;30/06/2022;20/08/2022;Peru;Lima;;In Transit;PayPal;WH-CAL-03;300;2420;ana.m@yahoo.com;260
+ORD-000717;PRD-0004;t;Industrial Drill;Personal Care;Logistics Pro S.A.;38000;49255;18716900;COP;5/01/2024;30/06/2024;Chile;ConcepciÃ³n;;Cancelled;Cash;WH-SCL-05;600;3680;carlos.r@outlook.com;480
+ORD-000718;PRD-0016;t;Safety Gloves L;Apparel;Andean Freight Co.;38900;125181;48695409;USD;13/12/2024;24/01/2025;Chile;ValparaÃ­so;;Pending;Bank Transfer;WH-CAL-03;2100;3480;sofia.v@yahoo.com;170
+ORD-000719;PRD-0032;t;Bluetooth Speaker;Industrial;Andean Freight Co.;48900;158683;77595987;COP;25/04/2023;13/05/2023;Peru;Lima;;In Transit;PayPal;WH-BOG-01;100;830;john.d@outlook.com;220
+ORD-000720;PRD-0017;t;Protein Powder 2kg;Personal Care;Global Cargo Ltda;21000;233983;49136430;USD;18/06/2024;4/08/2024;Peru;Cusco;;Pending;Cash;WH-CAL-03;2900;2530;john.d@company.co;230
+ORD-000721;PRD-0031;t;Protein Powder 2kg;Apparel;Andean Freight Co.;47000;208235;97870450;COP;17/09/2022;20/09/2022;Colombia;BogotÃ¡;;Delivered;PayPal;WH-BOG-01;3700;740;sofia.v@company.co;200
+ORD-000722;P-123;f;Industrial Drill;Food & Beverage;Pacific Trade Sas;25900;176130;45617670;USD;11/12/2024;21/01/2025;Peru;Cusco;;Cancelled;PayPal;WH-BOG-01;1500;2900;ana.m@gmail.com;300
+ORD-000723;PRD-0001;t;Laptop Pro 15;Electronics;Andean Freight Co.;39600;132305;52392780;COP;8/01/2023;31/01/2023;Chile;ValparaÃ­so;;Unknown;Credit Card;WH-BOG-01;1400;3830;john.d@outlook.com;440
+ORD-000724;PRD-0033;t;LED Strip 5m;Food & Beverage;Pacific Trade Sas;32100;154994;49753074;USD;17/12/2023;20/12/2023;Peru;Lima;;Pending;Bank Transfer;WH-MED-02;2200;3260;sofia.v@yahoo.com;200
+ORD-000725;PRD-0013;t;Bluetooth Speaker;Apparel;Andean Freight Co.;44100;31344;13822704;BRL;21/05/2024;20/07/2024;Peru;Arequipa;;In Transit;Cash;WH-CAL-03;4300;2640;;400
+ORD-000726;PRD-0003;t;LED Strip 5m;Apparel;Pacific Trade Sas;10900;217772;23737148;USD;19/09/2024;;Brasil;Rio de Janeiro;;Returned;PayPal;WH-SCL-05;300;3630;;450
+ORD-000727;PRD-0032;t;LED Strip 5m;Personal Care;Logistics Pro S.A.;42300;132305;55965015;BRL;28/12/2024;24/02/2025;Chile;ConcepciÃ³n;;Delivered;Credit Card;WH-LIM-04;2900;1400;ana.m@company.co;400
+ORD-000728;PRD-0032;t;Mechanical Keyboard;Food & Beverage;Logistics Pro S.A.;23200;22843;5299576;BRL;17/03/2022;9/05/2022;Brasil;Rio de Janeiro;;Pending;Cash;WH-CAL-03;4100;1660;john.d@outlook.com;450
+ORD-000729;PRD-0030;t;Solar Panel 250W;Industrial;Pacific Trade Sas;37700;167694;63220638;USD;29/09/2023;26/11/2023;Mexico;Ciudad de MÃ©xico;;In Transit;Cash;WH-MED-02;1000;1020;john.d@gmail.com;470
+ORD-000730;PRD-0050;t;Wireless Headset;Personal Care;Global Cargo Ltda;25900;51778;13410502;COP;10/03/2023;26/04/2023;Peru;Arequipa;;Cancelled;PayPal;WH-CAL-03;3300;2320;luis.p@company.co;370
+ORD-000731;PRD-0039;t;Bluetooth Speaker;Industrial;Andean Freight Co.;21000;219225;46037250;BRL;15/05/2024;29/05/2024;Mexico;Ciudad de MÃ©xico;;Returned;Unknown;WH-MED-02;1300;3180;carlos.r@gmail.com;100
+ORD-000732;PRD-0004;t;Office Chair Ergonomic;Personal Care;Fastship Colombia;12400;121429;15057196;MXN;22/06/2022;;Chile;Santiago;;Delivered;Credit Card;WH-MED-02;3200;580;sofia.v@yahoo.com;140
+ORD-000733;PRD-0003;t;Running Shoes M;Food & Beverage;Logistics Pro S.A.;25500;22235323;5670007365;USD;5/09/2024;3/10/2024;Peru;Lima;;Returned;PayPal;WH-MED-02;1500;2100;john.d@yahoo.com;300
+ORD-000734;PRD-0004;t;Industrial Drill;Industrial;Fastship Colombia;16800;133798;22478064;COP;11/12/2022;6/02/2023;Mexico;Ciudad de MÃ©xico;;In Transit;Cash;WH-SCL-05;3600;1180;maria.g@gmail.com;340
+ORD-000735;P-123;f;LED Strip 5m;Food & Beverage;Andean Freight Co.;18500;70396;13023260;BRL;1/10/2024;;Peru;Cusco;;Delivered;Bank Transfer;WH-MED-02;3300;2040;john.d@company.co;130
+ORD-000736;PRD-0040;t;LED Strip 5m;Apparel;Fastship Colombia;2800;185939;5206292;COP;19/04/2023;23/04/2023;Mexico;Ciudad de MÃ©xico;;Returned;PayPal;WH-CAL-03;4100;290;;410
+ORD-000737;PRD-0023;t;Wireless Headset;Food & Beverage;Fastship Colombia;33400;232150;77538100;BRL;20/07/2022;6/09/2022;Mexico;Ciudad de MÃ©xico;;Cancelled;Cash;WH-BOG-01;2200;1980;ana.m@outlook.com;290
+ORD-000738;PRD-0034;t;Bluetooth Speaker;Personal Care;Logistics Pro S.A.;37100;125437;46537127;BRL;19/06/2024;18/08/2024;Colombia;MedellÃ­n;;Pending;Credit Card;WH-CAL-03;4200;2960;;250
+ORD-000739;PRD-0008;t;Office Chair Ergonomic;Electronics;Logistics Pro S.A.;25900;238777;61843243;USD;3/04/2022;23/04/2022;Brasil;SÃ£o Paulo;;Cancelled;Bank Transfer;WH-LIM-04;4500;2830;john.d@company.co;270
+ORD-000740;PRD-0010;t;Wireless Headset;Food & Beverage;Logistics Pro S.A.;41400;157164;65065896;MXN;15/05/2024;9/07/2024;Peru;Lima;;Cancelled;Cash;WH-LIM-04;1900;850;carlos.r@yahoo.com;450
+ORD-000741;PRD-0044;t;Laptop Pro 15;Electronics;Pacific Trade Sas;5800;3916;227128;MXN;4/08/2023;20/08/2023;Mexico;Monterrey;;Cancelled;PayPal;WH-SCL-05;2400;3230;john.d@gmail.com;300
+ORD-000742;PRD-0048;t;Office Chair Ergonomic;Industrial;Unknown;37100;87850;32592350;USD;22/12/2024;16/01/2025;Colombia;BogotÃ¡;;In Transit;PayPal;WH-SCL-05;4500;2550;sofia.v@company.co;300
+ORD-000743;PRD-0042;t;Laptop Pro 15;Electronics;Logistics Pro S.A.;7700;238915;18396455;BRL;8/10/2022;23/11/2022;Brasil;Rio de Janeiro;;Cancelled;Cash;WH-MED-02;1300;1970;maria.g@gmail.com;340
+ORD-000744;PRD-0016;t;Protein Powder 2kg;Electronics;Fastship Colombia;7000;238105;16667350;USD;16/01/2024;29/02/2024;Peru;Cusco;;In Transit;PayPal;WH-MED-02;2800;290;john.d@gmail.com;360
+ORD-000745;PROD-001;f;Safety Gloves L;Food & Beverage;Pacific Trade Sas;8800;57423;5053224;BRL;26/05/2023;11/07/2023;Chile;ConcepciÃ³n;;Cancelled;Unknown;WH-LIM-04;4000;3950;luis.p@yahoo.com;350
+ORD-000746;PRD-0005;t;Industrial Drill;Personal Care;Pacific Trade Sas;25900;222030;57505770;USD;16/07/2022;20/07/2022;Chile;Santiago;;Pending;PayPal;Unknown;2300;2080;luis.p@gmail.com;300
+ORD-000747;PRD-0042;t;Mechanical Keyboard;Apparel;Andean Freight Co.;26400;248030;65479920;MXN;26/04/2023;15/06/2023;Peru;Arequipa;;Delivered;Bank Transfer;WH-BOG-01;2800;3960;maria.g@gmail.com;440
+ORD-000748;PRD-0048;t;Office Chair Ergonomic;Electronics;Fastship Colombia;29000;84880;24615200;USD;15/10/2024;28/11/2024;Peru;Cusco;;Delivered;Bank Transfer;WH-MED-02;3100;3850;john.d@outlook.com;480
+ORD-000749;PRD-0039;t;Laptop Pro 15;Food & Beverage;Andean Freight Co.;49600;233556;115843776;MXN;3/07/2024;19/08/2024;Peru;Lima;;Pending;Cash;WH-CAL-03;2700;40;sofia.v@company.co;340
+ORD-000750;PRD-0002;t;Office Chair Ergonomic;Food & Beverage;Pacific Trade Sas;1945700;108632;2113652824;USD;28/01/2022;30/01/2022;Peru;Arequipa;;Returned;Cash;WH-LIM-04;200;2320;ana.m@yahoo.com;180
+ORD-000751;PRD-0012;t;Coffee Maker 12cup;Apparel;Logistics Pro S.A.;32400;70122;22719528;COP;26/07/2024;;Brasil;Rio de Janeiro;;Returned;Credit Card;WH-CAL-03;3500;3530;sofia.v@outlook.com;320
+ORD-000752;PRD-0016;t;Protein Powder 2kg;Industrial;Andean Freight Co.;43900;134736;59149104;BRL;20/09/2023;18/10/2023;Peru;Cusco;;Returned;Cash;WH-MED-02;4000;3460;carlos.r@outlook.com;150
+ORD-000753;PRD-0028;t;Mechanical Keyboard;Industrial;Global Cargo Ltda;5700;211939;12080523;MXN;7/02/2022;26/02/2022;Brasil;Brasil;;Pending;PayPal;WH-CAL-03;3600;1350;sofia.v@company.co;490
+ORD-000754;PRD-0017;t;Wireless Headset;Personal Care;Andean Freight Co.;42900;44395;19045455;BRL;2/09/2024;5/10/2024;Colombia;BogotÃ¡;;Delivered;Cash;WH-MED-02;2000;1730;john.d@outlook.com;300
+ORD-000755;PRD-0040;t;Bluetooth Speaker;Food & Beverage;Fastship Colombia;30700;147736;45354952;COP;26/02/2022;4/04/2022;Brasil;Rio de Janeiro;;Returned;Bank Transfer;WH-MED-02;3100;2980;luis.p@outlook.com;220
+ORD-000756;PRD-0004;t;Mechanical Keyboard;Industrial;Logistics Pro S.A.;18400;39906;7342704;MXN;18/09/2023;4/10/2023;Mexico;Monterrey;;Cancelled;Bank Transfer;WH-SCL-05;3900;2110;ana.m@company.co;350
+ORD-000757;P-123;f;Mechanical Keyboard;Personal Care;Fastship Colombia;3900;132305;5159895;USD;17/01/2022;22/01/2022;Brasil;BrasÃ­lia;;In Transit;PayPal;WH-SCL-05;2100;2040;sofia.v@gmail.com;220
+ORD-000758;PRD-0006;t;Safety Gloves L;Electronics;Global Cargo Ltda;48800;132305;64564840;USD;30/06/2024;23/08/2024;Colombia;Calle 101;;Delivered;Bank Transfer;WH-CAL-03;-1000;1530;ana.m@company.co;130
+ORD-000759;PRD-0035;t;Mechanical Keyboard;Electronics;Logistics Pro S.A.;45800;28570;13085060;BRL;30/04/2022;26/05/2022;Brasil;Rio de Janeiro;;Cancelled;Cash;WH-CAL-03;2300;2040;john.d@gmail.com;380
+ORD-000760;PRD-0047;t;Protein Powder 2kg;Personal Care;Logistics Pro S.A.;19600;19372;3796912;MXN;27/12/2023;7/01/2024;Chile;ValparaÃ­so;;Pending;Cash;WH-MED-02;1000;2520;john.d@gmail.com;370
+ORD-000761;PRD-0012;t;Running Shoes M;Industrial;Global Cargo Ltda;25900;1892;490028;USD;18/06/2024;23/07/2024;Mexico;Monterrey;;In Transit;PayPal;WH-BOG-01;3000;120;;480
+ORD-000762;PRD-0001;t;Laptop Pro 15;Apparel;Global Cargo Ltda;24700;172171;42526237;COP;22/04/2023;9/05/2023;Chile;Santiago;;In Transit;PayPal;WH-LIM-04;4500;2300;john.d@outlook.com;410
+ORD-000763;PRD-0035;t;Laptop Pro 15;Industrial;Fastship Colombia;7700;17931;1380687;USD;26/03/2024;10/04/2024;Chile;ConcepciÃ³n;;Cancelled;Credit Card;WH-SCL-05;2300;3490;carlos.r@yahoo.com;310
+ORD-000764;PRD-0004;t;Bluetooth Speaker;Electronics;Logistics Pro S.A.;47700;162536;77529672;COP;8/12/2023;;Peru;Cusco;;In Transit;Bank Transfer;WH-CAL-03;2100;10;sofia.v@company.co;440
+ORD-000765;PRD-0001;t;Coffee Maker 12cup;Food & Beverage;Logistics Pro S.A.;25900;114134;29560706;USD;21/01/2023;;Colombia;BogotÃ¡;;Pending;Cash;WH-SCL-05;2300;100;john.d@gmail.com;110
+ORD-000766;PRD-0024;t;Office Chair Ergonomic;Apparel;Logistics Pro S.A.;39700;245855;97604435;MXN;29/06/2022;5/07/2022;Mexico;Monterrey;;Delivered;Cash;WH-SCL-05;1000;580;luis.p@outlook.com;180
+ORD-000767;PRD-0024;t;Wireless Headset;Electronics;Logistics Pro S.A.;10500;22094;2319870;USD;31/03/2023;19/04/2023;Brasil;Rio de Janeiro;;Delivered;Cash;WH-CAL-03;800;2330;ana.m@yahoo.com;280
+ORD-000768;PRD-0027;t;Safety Gloves L;Apparel;Global Cargo Ltda;35500;165523;58760665;MXN;25/02/2022;7/03/2022;Brasil;Brasil;;Cancelled;PayPal;WH-MED-02;3000;2420;luis.p@gmail.com;310
+ORD-000769;PRD-0010;t;Safety Gloves L;Electronics;Andean Freight Co.;35200;99345;34969440;BRL;21/01/2023;6/03/2023;Colombia;Cali;;Delivered;PayPal;WH-SCL-05;3200;3460;john.d@company.co;410
+ORD-000770;PRD-0011;t;LED Strip 5m;Industrial;Fastship Colombia;37200;132305;49217460;MXN;12/06/2023;18/07/2023;Brasil;BrasÃ­lia;;Pending;PayPal;WH-LIM-04;500;120;ana.m@outlook.com;330
+ORD-000771;PRD-0041;t;Laptop Pro 15;Unknown;Fastship Colombia;12400;218686;27117064;USD;15/11/2023;20/12/2023;Mexico;Guadalajara;;In Transit;Credit Card;WH-LIM-04;3900;1010;luis.p@yahoo.com;360
+ORD-000772;PRD-0009;t;Laptop Pro 15;Industrial;Andean Freight Co.;25900;96856;25085704;BRL;11/12/2024;;Brasil;BrasÃ­lia;;Pending;PayPal;WH-MED-02;3000;1680;sofia.v@gmail.com;190
+ORD-000773;PRD-0015;t;Solar Panel 250W;Apparel;Pacific Trade Sas;33200;105606;35061192;USD;4/05/2022;6/05/2022;Chile;ValparaÃ­so;;Pending;Bank Transfer;WH-CAL-03;-400;590;ana.m@gmail.com;410
+ORD-000774;PRD-0001;t;Laptop Pro 15;Personal Care;Global Cargo Ltda;26600;183931;48925646;COP;1/09/2022;;Brasil;BrasÃ­lia;;Cancelled;Bank Transfer;WH-MED-02;2600;1600;ana.m@gmail.com;460
+ORD-000775;PRD-0006;t;Safety Gloves L;Food & Beverage;Logistics Pro S.A.;21600;144039;31112424;MXN;15/10/2022;13/12/2022;Brasil;Rio de Janeiro;;Pending;PayPal;WH-619;2300;3610;john.d@outlook.com;230
+ORD-000776;PRD-0017;t;Mechanical Keyboard;Personal Care;Fastship Colombia;48300;61901;29898183;BRL;26/07/2024;14/09/2024;Mexico;Ciudad de MÃ©xico;;Cancelled;PayPal;WH-BOG-01;3100;2550;luis.p@company.co;300
+ORD-000777;PRD-0037;t;Laptop Pro 15;Electronics;Global Cargo Ltda;26100;159196;41550156;COP;17/05/2024;25/06/2024;Mexico;Monterrey;;Pending;PayPal;WH-CAL-03;1700;1400;sofia.v@yahoo.com;210
+ORD-000778;PRD-0045;t;Laptop Pro 15;Apparel;Fastship Colombia;23100;214292;49501452;COP;10/09/2022;21/10/2022;Mexico;Monterrey;;Returned;Cash;WH-SCL-05;3000;1950;carlos.r@outlook.com;470
+ORD-000779;PRD-0029;t;Running Shoes M;Apparel;Fastship Colombia;37900;197891;75000689;BRL;10/10/2024;21/11/2024;Chile;Santiago;;Returned;Cash;WH-SCL-05;3300;2870;ana.m@yahoo.com;300
+ORD-000780;PRD-0039;t;Mechanical Keyboard;Industrial;Andean Freight Co.;49300;235225;115965925;COP;4/09/2023;29/09/2023;Peru;Arequipa;;In Transit;Credit Card;WH-MED-02;4300;3550;ana.m@gmail.com;480
+ORD-000781;PRD-0004;t;LED Strip 5m;Electronics;Andean Freight Co.;28500;42357;12071745;MXN;28/02/2024;27/04/2024;Chile;Santiago;;Pending;Cash;WH-LIM-04;2900;2930;john.d@outlook.com;330
+ORD-000782;PRD-0044;t;Bluetooth Speaker;Apparel;Pacific Trade Sas;7300;211027;15404971;BRL;17/12/2024;21/12/2024;Colombia;BogotÃ¡;;Delivered;Bank Transfer;WH-LIM-04;2300;1110;carlos.r@company.co;420
+ORD-000783;PRD-0004;t;Mechanical Keyboard;Unknown;Global Cargo Ltda;35600;211575;75320700;BRL;30/01/2023;2/03/2023;Colombia;MedellÃ­n;;Returned;Credit Card;WH-MED-02;2000;2810;sofia.v@gmail.com;480
+ORD-000784;PRD-0030;t;Safety Gloves L;Food & Beverage;Andean Freight Co.;29700;94769;28146393;USD;14/04/2022;23/05/2022;Peru;Arequipa;;Returned;Credit Card;WH-SCL-05;2900;420;ana.m@gmail.com;320
+ORD-000785;PRD-0005;t;Wireless Headset;Electronics;Pacific Trade Sas;26100;114090;29777490;BRL;1/06/2024;18/06/2024;Mexico;Ciudad de MÃ©xico;;Pending;Cash;WH-BOG-01;1400;2910;ana.m@company.co;110
+ORD-000786;PRD-0019;t;Running Shoes M;Electronics;Andean Freight Co.;34000;226626;77052840;USD;2/04/2023;12/05/2023;Colombia;BogotÃ¡;;Returned;Credit Card;WH-BOG-01;1900;1390;carlos.r@yahoo.com;330
+ORD-000787;PRD-0041;t;Office Chair Ergonomic;Personal Care;Unknown;2600;223188;5802888;USD;28/05/2024;14/07/2024;Colombia;MedellÃ­n;;Pending;Credit Card;WH-BOG-01;3400;610;;340
+ORD-000788;PRD-0012;t;Coffee Maker 12cup;Electronics;Pacific Trade Sas;22300;76285;17011555;USD;8/07/2023;2/09/2023;Mexico;Ciudad de MÃ©xico;;Delivered;PayPal;WH-SCL-05;2900;3040;john.d@yahoo.com;400
+ORD-000789;PRD-0045;t;Coffee Maker 12cup;Personal Care;Global Cargo Ltda;5200;53075;2759900;MXN;24/05/2023;24/06/2023;Chile;ConcepciÃ³n;;Pending;Cash;WH-MED-02;4500;2280;luis.p@company.co;300
+ORD-000790;PRD-0001;t;Running Shoes M;Food & Beverage;Global Cargo Ltda;44000;91646;40324240;COP;23/01/2023;25/01/2023;Brasil;Rio de Janeiro;;Returned;Cash;WH-MED-02;4300;1840;john.d@yahoo.com;110
+ORD-000791;PRD-0050;t;Office Chair Ergonomic;Industrial;Andean Freight Co.;37700;147733;55695341;USD;13/11/2023;12/01/2024;Colombia;Cali;;In Transit;PayPal;WH-CAL-03;3200;3230;john.d@company.co;300
+ORD-000792;PRD-0018;t;Running Shoes M;Apparel;Andean Freight Co.;45200;142790;64541080;MXN;28/11/2023;10/01/2024;Chile;ConcepciÃ³n;;Returned;PayPal;WH-809;4500;3000;sofia.v@gmail.com;360
+ORD-000793;PRD-0041;t;Laptop Pro 15;Apparel;Pacific Trade Sas;25900;190970;49461230;USD;11/12/2024;12/12/2024;Brasil;SÃ£o Paulo;;Cancelled;Unknown;WH-BOG-01;3600;3130;ana.m@yahoo.com;440
+ORD-000794;PRD-0032;t;Running Shoes M;Electronics;Pacific Trade Sas;12400;242157;30027468;MXN;28/12/2022;15/02/2023;Chile;ValparaÃ­so;;Delivered;Bank Transfer;WH-LIM-04;2000;520;ana.m@gmail.com;380
+ORD-000795;PRD-0021;t;Solar Panel 250W;Food & Beverage;Andean Freight Co.;44400;222104;98614176;COP;18/07/2022;;Peru;Lima;;Cancelled;Bank Transfer;WH-BOG-01;300;2610;luis.p@outlook.com;300
+ORD-000796;PRD-0025;t;Office Chair Ergonomic;Industrial;Fastship Colombia;29300;76223826;22333581018;MXN;14/04/2023;16/04/2023;Mexico;Guadalajara;;Returned;Credit Card;WH-CAL-03;2200;500;carlos.r@yahoo.com;300
+ORD-000797;PRD-0037;t;LED Strip 5m;Personal Care;Fastship Colombia;18600;147217;27382362;USD;26/02/2022;24/03/2022;Peru;Lima;;Returned;Credit Card;WH-BOG-01;4100;3370;sofia.v@outlook.com;120
+ORD-000798;PRD-0039;t;Laptop Pro 15;Food & Beverage;Pacific Trade Sas;25000;30436;7609000;COP;9/03/2024;19/04/2024;Brasil;Rio de Janeiro;;Returned;Cash;WH-LIM-04;4100;2000;;320
+ORD-000799;PRD-0041;t;Office Chair Ergonomic;Unknown;Fastship Colombia;23700;19274;4567938;USD;21/01/2023;8/03/2023;Chile;Santiago;;Cancelled;Bank Transfer;WH-308;1500;1120;ana.m@outlook.com;360
+ORD-000800;PRD-0003;t;Wireless Headset;Electronics;Logistics Pro S.A.;10400;23780;2473120;USD;11/12/2023;1/04/2024;Colombia;Colombia;;In Transit;Bank Transfer;WH-SCL-05;4000;3620;;410
+ORD-000801;PRD-0018;t;Mechanical Keyboard;Food & Beverage;Andean Freight Co.;3000;221482;6644460;COP;31/12/2023;;Chile;ConcepciÃ³n;;Unknown;Cash;WH-MED-02;2100;980;sofia.v@company.co;490
+ORD-000802;PRD-0034;t;Laptop Pro 15;Personal Care;Global Cargo Ltda;37600;140722;52911472;USD;30/08/2024;9/09/2024;Colombia;Cali;;Unknown;Unknown;WH-LIM-04;3200;1230;ana.m@gmail.com;270
+ORD-000803;PRD-0016;t;Office Chair Ergonomic;Food & Beverage;Global Cargo Ltda;37800;42266;15976548;USD;26/01/2023;;Colombia;MedellÃ­n;;Delivered;Cash;WH-MED-02;-300;920;ana.m@company.co;400
+ORD-000804;PRD-0021;t;Bluetooth Speaker;Electronics;Andean Freight Co.;2400;127022;3048528;MXN;6/06/2024;;Brasil;BrasÃ­lia;;In Transit;PayPal;WH-SCL-05;3000;140;maria.g@company.co;380
+ORD-000805;PRD-0009;t;Wireless Headset;Electronics;Unknown;40400;20686;8357144;COP;4/09/2024;1/10/2024;Mexico;Monterrey;;In Transit;Credit Card;WH-MED-02;4500;3730;carlos.r@company.co;130
+ORD-000806;PRD-0030;t;Running Shoes M;Electronics;Global Cargo Ltda;30100;133006;40034806;COP;5/11/2023;24/12/2023;Mexico;Ciudad de MÃ©xico;;Returned;PayPal;WH-CAL-03;3800;3790;maria.g@outlook.com;130
+ORD-000807;PRD-0050;t;Wireless Headset;Electronics;Logistics Pro S.A.;14200;221900;31509800;COP;18/03/2022;14/04/2022;Chile;ConcepciÃ³n;;Cancelled;PayPal;WH-MED-02;2900;2810;sofia.v@outlook.com;330
+ORD-000808;PRD-0050;t;Protein Powder 2kg;Food & Beverage;Andean Freight Co.;42800;215228;92117584;BRL;16/07/2024;19/08/2024;Mexico;Guadalajara;;Cancelled;Bank Transfer;WH-SCL-05;4000;1130;maria.g@outlook.com;160
+ORD-000809;PRD-0012;t;Bluetooth Speaker;Electronics;Logistics Pro S.A.;30200;248213;74960326;COP;2/10/2024;30/10/2024;Colombia;MedellÃ­n;;Delivered;Credit Card;WH-BOG-01;3300;2710;carlos.r@yahoo.com;170
+ORD-000810;PRD-0026;t;Industrial Drill;Personal Care;Pacific Trade Sas;25900;132305;34266995;USD;22/11/2023;26/12/2023;Brasil;BrasÃ­lia;;Cancelled;PayPal;WH-BOG-01;600;3220;john.d@company.co;130
+ORD-000811;PRD-0025;t;Bluetooth Speaker;Food & Beverage;Andean Freight Co.;19100;203311;38832401;BRL;30/03/2024;15/05/2024;Colombia;MedellÃ­n;;Delivered;Credit Card;WH-CAL-03;700;480;ana.m@gmail.com;340
+ORD-000812;PRD-0045;t;Coffee Maker 12cup;Apparel;Andean Freight Co.;42600;10710;4562460;BRL;26/09/2022;7/11/2022;Brasil;BrasÃ­lia;;Delivered;Cash;WH-CAL-03;3000;1950;sofia.v@yahoo.com;450
+ORD-000813;PRD-0006;t;Bluetooth Speaker;Personal Care;Logistics Pro S.A.;8400;225588;18949392;COP;12/02/2024;20/03/2024;Mexico;Guadalajara;;Returned;PayPal;Unknown;1500;3820;john.d@gmail.com;120
+ORD-000814;PRD-0030;t;Coffee Maker 12cup;Apparel;Fastship Colombia;23600;226255;53396180;COP;11/09/2022;12/09/2022;Chile;ConcepciÃ³n;;Pending;Credit Card;Unknown;3200;2040;carlos.r@yahoo.com;420
+ORD-000815;PRD-0026;t;Protein Powder 2kg;Industrial;Andean Freight Co.;3500;110190;3856650;USD;6/04/2024;25/05/2024;Mexico;Ciudad de MÃ©xico;;In Transit;PayPal;WH-SCL-05;4000;3240;carlos.r@outlook.com;420
+ORD-000816;PRD-0042;t;Industrial Drill;Industrial;Logistics Pro S.A.;46000;229322;105488120;USD;29/12/2023;31/12/2023;Brasil;Rio de Janeiro;;Delivered;Bank Transfer;WH-CAL-03;1800;1250;john.d@yahoo.com;140
+ORD-000817;PRD-0047;t;Bluetooth Speaker;Apparel;Pacific Trade Sas;40800;103835;42364680;COP;16/01/2024;21/01/2024;Colombia;BogotÃ¡;;Cancelled;Bank Transfer;WH-MED-02;2800;1450;sofia.v@gmail.com;490
+ORD-000818;PRD-0017;t;Coffee Maker 12cup;Personal Care;Pacific Trade Sas;15400;85243;13127422;COP;4/12/2023;1/01/2024;Peru;Cusco;;Delivered;Credit Card;WH-SCL-05;2200;3060;john.d@gmail.com;300
+ORD-000819;PRD-0009;t;LED Strip 5m;Food & Beverage;Global Cargo Ltda;33100;180644;59793164;BRL;15/11/2022;30/11/2022;Chile;ValparaÃ­so;;Pending;Bank Transfer;WH-CAL-03;1100;840;carlos.r@company.co;240
+ORD-000820;PRD-9999;t;Safety Gloves L;Apparel;Fastship Colombia;39400;181344;71449536;MXN;16/10/2024;2/12/2024;Mexico;Ciudad de MÃ©xico;;Pending;Credit Card;WH-SCL-05;2900;750;carlos.r@outlook.com;200
+ORD-000821;PRD-0044;t;Office Chair Ergonomic;Personal Care;Global Cargo Ltda;25900;39763;10298617;BRL;15/08/2024;;Colombia;Cali;;Cancelled;Credit Card;WH-BOG-01;2200;510;luis.p@gmail.com;110
+ORD-000822;PRD-0035;t;Coffee Maker 12cup;Electronics;Global Cargo Ltda;7260700;227277;16501901139;USD;5/09/2022;18/09/2022;Mexico;Monterrey;;Cancelled;Cash;WH-BOG-01;2600;1930;luis.p@yahoo.com;150
+ORD-000823;PRD-0000;t;Office Chair Ergonomic;Apparel;Logistics Pro S.A.;26900;142401;38305869;USD;24/02/2024;13/03/2024;Chile;ValparaÃ­so;;In Transit;PayPal;WH-CAL-03;1800;190;sofia.v@yahoo.com;350
+ORD-000824;PRD-0008;t;Laptop Pro 15;Personal Care;Pacific Trade Sas;37700;217539;82012203;MXN;19/07/2024;21/07/2024;Mexico;Guadalajara;;Returned;Cash;WH-BOG-01;3800;2340;ana.m@outlook.com;190
+ORD-000825;PROD-001;f;Safety Gloves L;Unknown;Logistics Pro S.A.;3017200;65842;1986584824;BRL;19/08/2023;16/09/2023;Mexico;Ciudad de MÃ©xico;;In Transit;Cash;WH-MED-02;4400;3070;john.d@gmail.com;450
+ORD-000826;PRD-0024;t;Solar Panel 250W;Electronics;Andean Freight Co.;36000;225046;81016560;BRL;1/05/2024;29/06/2024;Colombia;MedellÃ­n;;Cancelled;Credit Card;Unknown;4200;2950;maria.g@outlook.com;330
+ORD-000827;PRD-0012;t;Industrial Drill;Personal Care;Andean Freight Co.;19200;56526;10852992;COP;9/10/2024;;Colombia;MedellÃ­n;;Cancelled;Credit Card;WH-BOG-01;4300;890;ana.m@yahoo.com;140
+ORD-000828;PRD-0046;t;Industrial Drill;Personal Care;Fastship Colombia;46600;26666549;12426611834;MXN;16/04/2024;6/06/2024;Chile;ValparaÃ­so;;In Transit;Bank Transfer;WH-LIM-04;400;2000;maria.g@outlook.com;140
+ORD-000829;PRD-0007;t;Solar Panel 250W;Unknown;Fastship Colombia;15500;159779;24765745;BRL;12/12/2022;17/01/2023;Brasil;SÃ£o Paulo;;In Transit;Bank Transfer;WH-SCL-05;2600;2040;sofia.v@outlook.com;390
+ORD-000830;PRD-0026;t;Bluetooth Speaker;Electronics;Andean Freight Co.;7400;113842;8424308;USD;17/02/2022;6/03/2022;Chile;ValparaÃ­so;;Cancelled;Credit Card;WH-BOG-01;3200;1400;maria.g@outlook.com;400
+ORD-000831;PRD-0001;t;LED Strip 5m;Electronics;Global Cargo Ltda;39300;73579;28916547;USD;13/12/2022;24/01/2023;Chile;ConcepciÃ³n;;Delivered;PayPal;WH-LIM-04;2500;780;;290
+ORD-000832;PRD-0034;t;Laptop Pro 15;Apparel;Pacific Trade Sas;13400;81785;10959190;COP;9/08/2024;;Brasil;SÃ£o Paulo;;In Transit;PayPal;WH-LIM-04;2300;2040;;300
+ORD-000833;PRD-0026;t;Solar Panel 250W;Apparel;Andean Freight Co.;25900;191017;49473403;COP;7/12/2022;1/06/2023;Peru;Arequipa;;Delivered;Credit Card;WH-MED-02;4300;2380;sofia.v@company.co;220
+ORD-000834;PRD-0013;t;Solar Panel 250W;Industrial;Global Cargo Ltda;38300;131356;50309348;COP;21/11/2024;1/02/2025;Chile;Santiago;;Returned;Unknown;WH-LIM-04;2300;350;carlos.r@outlook.com;360
+ORD-000835;PRD-0039;t;Solar Panel 250W;Food & Beverage;Logistics Pro S.A.;32100;75562;24255402;MXN;29/03/2022;10/04/2022;Chile;ConcepciÃ³n;;Returned;PayPal;WH-BOG-01;2300;2280;sofia.v@outlook.com;350
+ORD-000836;PRD-0045;t;Industrial Drill;Unknown;Pacific Trade Sas;25900;53160;13768440;MXN;19/01/2023;4/03/2023;Colombia;Colombia;;Cancelled;Cash;WH-BOG-01;3100;3350;ana.m@company.co;370
+ORD-000837;PRD-0043;t;Solar Panel 250W;Electronics;Fastship Colombia;39500;222400;87848000;COP;3/02/2023;;Brasil;SÃ£o Paulo;;Returned;Bank Transfer;WH-LIM-04;2300;1650;luis.p@outlook.com;300
+ORD-000838;PRD-0033;t;Protein Powder 2kg;Personal Care;Logistics Pro S.A.;17500;127674;22342950;MXN;13/08/2023;21/08/2023;Brasil;Rio de Janeiro;;In Transit;PayPal;WH-BOG-01;3800;2140;sofia.v@outlook.com;310
+ORD-000839;PRD-0042;t;Wireless Headset;Industrial;Logistics Pro S.A.;23600;207541;48979676;MXN;14/11/2022;29/11/2022;Chile;ValparaÃ­so;;Pending;PayPal;WH-SCL-05;600;2800;ana.m@company.co;120
+ORD-000840;PRD-0040;t;Running Shoes M;Industrial;Logistics Pro S.A.;1100;15998;175978;MXN;20/11/2023;19/12/2023;Brasil;SÃ£o Paulo;;Delivered;PayPal;WH-MED-02;4500;1230;sofia.v@outlook.com;420
+ORD-000841;PRD_0045;f;Wireless Headset;Electronics;Andean Freight Co.;30600;124206;38007036;BRL;10/06/2023;19/06/2023;Colombia;MedellÃ­n;;Pending;Cash;Unknown;2500;2900;ana.m@yahoo.com;120
+ORD-000842;PRD-0024;t;Mechanical Keyboard;Apparel;Logistics Pro S.A.;18800;78342;14728296;COP;19/05/2023;29/05/2023;Colombia;Cali;;In Transit;PayPal;WH-MED-02;2300;2420;maria.g@yahoo.com;250
+ORD-000843;PRD-0043;t;Safety Gloves L;Apparel;Logistics Pro S.A.;28900;145172;41954708;BRL;4/03/2023;2/05/2023;Peru;Cusco;;Cancelled;Unknown;Unknown;2400;2040;sofia.v@company.co;340
+ORD-000844;P-123;f;Industrial Drill;Apparel;Fastship Colombia;3300;213218;7036194;COP;21/02/2024;27/02/2024;Brasil;SÃ£o Paulo;;In Transit;Credit Card;WH-MED-02;800;530;maria.g@yahoo.com;200
+ORD-000845;PRD-0050;t;Mechanical Keyboard;Apparel;Pacific Trade Sas;17100;24423;4176333;COP;23/10/2023;24/11/2023;Chile;ConcepciÃ³n;;Cancelled;Cash;WH-SCL-05;2400;1100;;460
+ORD-000846;P-123;f;Safety Gloves L;Industrial;Logistics Pro S.A.;30100;136530;41095530;BRL;5/02/2023;22/03/2023;Chile;ValparaÃ­so;;In Transit;Bank Transfer;WH-MED-02;1300;710;carlos.r@company.co;440
+ORD-000847;PRD-0003;t;Mechanical Keyboard;Apparel;Fastship Colombia;34600;132305;45777530;COP;15/12/2023;;Chile;Santiago;;Delivered;Bank Transfer;WH-MED-02;3300;3150;luis.p@gmail.com;400
+ORD-000848;PRD-0037;t;Industrial Drill;Industrial;Fastship Colombia;3600;206538;7435368;BRL;18/12/2023;5/01/2024;Brasil;Rio de Janeiro;;Cancelled;Bank Transfer;WH-BOG-01;900;3210;sofia.v@gmail.com;400
+ORD-000849;PRD-0012;t;LED Strip 5m;Industrial;Pacific Trade Sas;2600;9333;242658;COP;15/08/2023;28/08/2023;Colombia;MedellÃ­n;;In Transit;Credit Card;WH-BOG-01;1400;3560;carlos.r@gmail.com;260
+ORD-000850;PRD-0040;t;Mechanical Keyboard;Apparel;Andean Freight Co.;22300;70812;15791076;COP;17/03/2022;19/03/2022;Colombia;Cali;;Delivered;Cash;WH-SCL-05;3900;420;sofia.v@gmail.com;300
+ORD-000851;PRD_0045;f;Laptop Pro 15;Food & Beverage;Logistics Pro S.A.;6429500;18809;1209324655;MXN;28/02/2023;24/03/2023;Colombia;Cali;;Delivered;Credit Card;WH-CAL-03;1700;290;carlos.r@outlook.com;370
+ORD-000852;PRD-0035;t;Running Shoes M;Electronics;Andean Freight Co.;13500;105754;14276790;BRL;18/01/2023;26/01/2023;Peru;Lima;;Unknown;Credit Card;WH-CAL-03;2000;1750;ana.m@yahoo.com;260
+ORD-000853;prd-0012;f;Mechanical Keyboard;Personal Care;Global Cargo Ltda;25900;179853;46581927;USD;5/10/2022;16/11/2022;Chile;ValparaÃ­so;;Returned;Cash;WH-CAL-03;2200;1710;luis.p@company.co;460
+ORD-000854;PRD-0003;t;Industrial Drill;Apparel;Global Cargo Ltda;26500;17129;4539185;COP;30/05/2023;20/07/2023;Brasil;BrasÃ­lia;;Pending;Bank Transfer;WH-MED-02;2500;2040;maria.g@outlook.com;440
+ORD-000855;PRD-0036;t;Running Shoes M;Electronics;Unknown;38100;249853;95193993;BRL;12/02/2022;10/04/2022;Chile;ValparaÃ­so;;Cancelled;PayPal;WH-CAL-03;200;3690;maria.g@gmail.com;380
+ORD-000856;PRD-0003;t;Industrial Drill;Food & Beverage;Pacific Trade Sas;21400;132305;28313270;USD;20/06/2024;8/08/2024;Colombia;MedellÃ­n;;Cancelled;Cash;WH-BOG-01;4500;1910;sofia.v@gmail.com;450
+ORD-000857;PRD-0029;t;Industrial Drill;Apparel;Pacific Trade Sas;29900;107622;32178978;BRL;23/01/2024;13/02/2024;Mexico;Monterrey;;In Transit;Bank Transfer;WH-MED-02;200;3420;maria.g@gmail.com;140
+ORD-000858;PRD_0045;f;Bluetooth Speaker;Personal Care;Logistics Pro S.A.;20300;70534;14318402;BRL;6/03/2022;12/06/2022;Peru;Arequipa;;Pending;Credit Card;WH-MED-02;2700;570;john.d@company.co;450
+ORD-000859;PRD-0013;t;LED Strip 5m;Personal Care;Fastship Colombia;32800;211883;69497624;COP;13/02/2024;24/03/2024;Brasil;SÃ£o Paulo;;Pending;Bank Transfer;WH-CAL-03;100;660;john.d@yahoo.com;360
+ORD-000860;PRD-0011;t;Office Chair Ergonomic;Electronics;Andean Freight Co.;25900;125758;32571322;MXN;23/09/2022;17/10/2022;Chile;ValparaÃ­so;;Delivered;Cash;WH-BOG-01;3600;3620;ana.m@gmail.com;310
+ORD-000861;PRD-0046;t;Running Shoes M;Personal Care;Logistics Pro S.A.;25900;11091;2872569;BRL;23/11/2024;;Colombia;Cali;;In Transit;Cash;WH-SCL-05;4200;3010;ana.m@gmail.com;220
+ORD-000862;PROD-001;f;Safety Gloves L;Personal Care;Logistics Pro S.A.;100;80012;80012;BRL;3/05/2022;1/06/2022;Peru;Calle 996;;Pending;Credit Card;WH-MED-02;500;3080;sofia.v@outlook.com;130
+ORD-000863;PRD-0044;t;Industrial Drill;Industrial;Fastship Colombia;25900;76990;19940410;USD;6/05/2022;27/05/2022;Chile;ConcepciÃ³n;;Cancelled;PayPal;WH-SCL-05;2200;1190;john.d@outlook.com;450
+ORD-000864;PRD-0011;t;Running Shoes M;Industrial;Fastship Colombia;19000;3962;752780;COP;8/07/2024;24/07/2024;Brasil;SÃ£o Paulo;;Returned;Credit Card;WH-LIM-04;4500;3070;;410
+ORD-000865;PRD-0029;t;Laptop Pro 15;Apparel;Logistics Pro S.A.;33400;33298;11121532;BRL;7/05/2023;2/07/2023;Colombia;MedellÃ­n;;Delivered;PayPal;WH-SCL-05;4000;1600;sofia.v@yahoo.com;140
+ORD-000866;PRD-0013;t;Protein Powder 2kg;Industrial;Fastship Colombia;4400;16233;714252;USD;29/08/2022;18/10/2022;Peru;Cusco;;Returned;PayPal;WH-MED-02;900;3890;ana.m@company.co;280
+ORD-000867;PRD-0026;t;Protein Powder 2kg;Food & Beverage;Andean Freight Co.;7800;196394;15318732;COP;23/06/2024;2/07/2024;Colombia;MedellÃ­n;;In Transit;Credit Card;WH-CAL-03;3900;100;sofia.v@yahoo.com;440
+ORD-000868;PRD-0016;t;Solar Panel 250W;Food & Beverage;Unknown;47100;183326;86346546;BRL;12/07/2024;17/07/2024;Chile;ValparaÃ­so;;Cancelled;Bank Transfer;WH-BOG-01;900;160;maria.g@outlook.com;180
+ORD-000869;PRD-0033;t;Solar Panel 250W;Personal Care;Global Cargo Ltda;44900;48900;21956100;BRL;31/01/2023;25/02/2023;Brasil;BrasÃ­lia;;Delivered;Bank Transfer;WH-MED-02;2200;1930;luis.p@yahoo.com;160
+ORD-000870;PRD-0007;t;Office Chair Ergonomic;Personal Care;Pacific Trade Sas;49600;221352;109790592;USD;27/04/2023;8/06/2023;Chile;Calle 588;;Cancelled;Unknown;WH-BOG-01;700;3930;ana.m@gmail.com;250
+ORD-000871;PRD-0018;t;Bluetooth Speaker;Unknown;Logistics Pro S.A.;40600;132305;53715830;BRL;20/12/2022;25/01/2023;Chile;ConcepciÃ³n;;Pending;PayPal;WH-SCL-05;2300;1620;john.d@gmail.com;280
+ORD-000872;PRD-0019;t;Office Chair Ergonomic;Apparel;Fastship Colombia;39400;216911;85462934;MXN;29/10/2024;25/12/2024;Brasil;SÃ£o Paulo;;Delivered;Bank Transfer;WH-SCL-05;3300;3280;carlos.r@yahoo.com;120
+ORD-000873;PRD-0027;t;Bluetooth Speaker;Electronics;Pacific Trade Sas;17900;80195;14354905;COP;2/03/2024;3/03/2024;Chile;ValparaÃ­so;;In Transit;Cash;WH-SCL-05;2100;2290;ana.m@gmail.com;480
+ORD-000874;PRD-0037;t;Solar Panel 250W;Apparel;Andean Freight Co.;13100;24511;3210941;COP;19/11/2022;28/12/2022;Brasil;SÃ£o Paulo;;Delivered;PayPal;WH-SCL-05;4500;310;sofia.v@gmail.com;230
+ORD-000875;PRD-0042;t;Protein Powder 2kg;Apparel;Global Cargo Ltda;25900;132305;34266995;MXN;14/02/2023;;Colombia;Cali;;Pending;Credit Card;WH-MED-02;1200;1960;carlos.r@gmail.com;480
+ORD-000876;PRD-0037;t;Solar Panel 250W;Food & Beverage;Pacific Trade Sas;13200;121236;16003152;MXN;10/12/2024;21/12/2024;Colombia;BogotÃ¡;;Cancelled;PayPal;WH-MED-02;2000;2060;carlos.r@outlook.com;390
+ORD-000877;PRD-0024;t;Running Shoes M;Electronics;Global Cargo Ltda;14400;23984942;3453831648;USD;27/06/2023;18/08/2023;Peru;Arequipa;;In Transit;PayPal;WH-SCL-05;1700;2970;sofia.v@yahoo.com;300
+ORD-000878;PRD-0003;t;Protein Powder 2kg;Industrial;Global Cargo Ltda;43200;2550;1101600;MXN;3/04/2023;12/04/2023;Colombia;BogotÃ¡;;Delivered;PayPal;WH-LIM-04;2700;460;sofia.v@outlook.com;300
+ORD-000879;PRD-0038;t;Laptop Pro 15;Food & Beverage;Logistics Pro S.A.;37100;180467;66953257;COP;2/07/2024;13/08/2024;Brasil;BrasÃ­lia;;Cancelled;Credit Card;WH-LIM-04;1800;1950;john.d@yahoo.com;430
+ORD-000880;PRD-0004;t;Coffee Maker 12cup;Industrial;Logistics Pro S.A.;33100;147236;48735116;MXN;2/07/2024;;Colombia;Cali;;Pending;Credit Card;WH-CAL-03;2300;1830;luis.p@gmail.com;220
+ORD-000881;PRD-0014;t;Laptop Pro 15;Apparel;Logistics Pro S.A.;32700;112226;36697902;MXN;2/12/2023;13/12/2023;Peru;Cusco;;In Transit;PayPal;WH-CAL-03;3300;90;carlos.r@company.co;160
+ORD-000882;PRD-0044;t;Office Chair Ergonomic;Personal Care;Andean Freight Co.;49900;209945;104762555;USD;6/02/2024;29/02/2024;Chile;ConcepciÃ³n;;Pending;Cash;WH-MED-02;1700;110;;420
+ORD-000883;PRD-0007;t;Industrial Drill;Electronics;Fastship Colombia;12000;67985;8158200;USD;11/08/2023;14/08/2023;Mexico;Monterrey;;Returned;Bank Transfer;WH-CAL-03;300;3940;luis.p@company.co;310
+ORD-000884;PRD-0014;t;Laptop Pro 15;Apparel;Global Cargo Ltda;2300;99684;2292732;MXN;28/03/2024;15/04/2024;Mexico;Guadalajara;;Pending;Bank Transfer;WH-LIM-04;2000;1540;john.d@company.co;340
+ORD-000885;PRD-0042;t;Industrial Drill;Food & Beverage;Logistics Pro S.A.;17000;132305;22491850;COP;12/07/2024;30/07/2024;Brasil;Rio de Janeiro;;Returned;Cash;WH-SCL-05;2600;740;carlos.r@gmail.com;240
+ORD-000886;PRD-0012;t;Bluetooth Speaker;Apparel;Fastship Colombia;17000;22116;3759720;COP;24/11/2022;23/01/2023;Chile;Santiago;;Unknown;Bank Transfer;WH-BOG-01;1300;3400;luis.p@yahoo.com;360
+ORD-000887;PRD-0044;t;Protein Powder 2kg;Personal Care;Logistics Pro S.A.;1400;150150;2102100;USD;2/03/2023;31/03/2023;Brasil;SÃ£o Paulo;;Pending;PayPal;WH-LIM-04;700;950;ana.m@yahoo.com;280
+ORD-000888;PRD-0043;t;Running Shoes M;Electronics;Fastship Colombia;5500;180527;9928985;BRL;25/10/2023;20/11/2023;Brasil;Rio de Janeiro;;Delivered;Credit Card;WH-BOG-01;3700;2150;john.d@gmail.com;380
+ORD-000889;PRD-0005;t;Running Shoes M;Food & Beverage;Pacific Trade Sas;30000;49729;14918700;MXN;2/08/2022;14/09/2022;Brasil;BrasÃ­lia;;Returned;PayPal;WH-LIM-04;1800;3430;sofia.v@gmail.com;180
+ORD-000890;PRD-0044;t;Bluetooth Speaker;Electronics;Fastship Colombia;800;25730;205840;MXN;29/06/2022;27/07/2022;Brasil;SÃ£o Paulo;;Returned;Credit Card;WH-MED-02;4100;1040;sofia.v@yahoo.com;320
+ORD-000891;PRD-0010;t;Laptop Pro 15;Personal Care;Pacific Trade Sas;23600;171829;40551644;USD;24/05/2024;12/06/2024;Mexico;Guadalajara;;In Transit;PayPal;WH-LIM-04;600;40;sofia.v@gmail.com;190
+ORD-000892;PRD-0045;t;Coffee Maker 12cup;Food & Beverage;Fastship Colombia;43900;132305;58081895;BRL;3/07/2024;21/07/2024;Peru;Lima;;In Transit;PayPal;WH-LIM-04;3600;3860;;230
+ORD-000893;PRD-0043;t;Bluetooth Speaker;Food & Beverage;Fastship Colombia;41600;53439;22230624;MXN;12/12/2023;10/02/2024;Peru;Cusco;;In Transit;PayPal;WH-SCL-05;1000;2510;sofia.v@outlook.com;380
+ORD-000894;PRD-0023;t;Coffee Maker 12cup;Personal Care;Fastship Colombia;13400;40142;5379028;BRL;10/02/2022;12/03/2022;Mexico;Guadalajara;;Pending;Credit Card;WH-CAL-03;700;1950;john.d@company.co;380
+ORD-000895;PRD-0000;t;Bluetooth Speaker;Apparel;Fastship Colombia;25900;23870;6182330;BRL;28/12/2022;20/01/2023;Mexico;Monterrey;;Pending;PayPal;WH-CAL-03;1900;930;sofia.v@outlook.com;330
+ORD-000896;PRD-0036;t;Safety Gloves L;Apparel;Fastship Colombia;13100;10735;1406285;COP;19/08/2023;20/09/2023;Mexico;Monterrey;;Delivered;PayPal;WH-MED-02;3500;2680;luis.p@yahoo.com;280
+ORD-000897;PRD-0044;t;Office Chair Ergonomic;Electronics;Pacific Trade Sas;46600;132305;61654130;MXN;10/07/2024;30/08/2024;Brasil;SÃ£o Paulo;;In Transit;PayPal;WH-MED-02;2600;2650;luis.p@yahoo.com;350
+ORD-000898;PRD-9999;t;Bluetooth Speaker;Food & Beverage;Andean Freight Co.;40100;212613;85257813;COP;29/06/2024;21/08/2024;Chile;Santiago;;Cancelled;Bank Transfer;WH-SCL-05;1200;2040;sofia.v@outlook.com;440
+ORD-000899;PRD-0029;t;Coffee Maker 12cup;Personal Care;Fastship Colombia;16900;63160;10674040;COP;2/06/2022;;Brasil;SÃ£o Paulo;;Delivered;PayPal;WH-LIM-04;800;220;ana.m@yahoo.com;240
+ORD-000900;PRD-0035;t;Bluetooth Speaker;Food & Beverage;Fastship Colombia;9100;234216;21313656;COP;30/10/2023;27/12/2023;Brasil;SÃ£o Paulo;;In Transit;PayPal;WH-SCL-05;1200;1170;john.d@company.co;230
+ORD-000901;PRD-0021;t;Office Chair Ergonomic;Electronics;Pacific Trade Sas;30000;249435;74830500;USD;28/09/2023;23/10/2023;Chile;ConcepciÃ³n;;Pending;PayPal;WH-LIM-04;1200;1180;john.d@gmail.com;360
+ORD-000902;PRD-0008;t;Wireless Headset;Apparel;Global Cargo Ltda;6900;179875;12411375;BRL;24/06/2023;30/06/2023;Colombia;Calle 971;;Returned;Cash;WH-MED-02;1900;2410;ana.m@outlook.com;360
+ORD-000903;PRD-0036;t;Mechanical Keyboard;Electronics;Pacific Trade Sas;39300;106106;41699658;USD;21/04/2022;;Brasil;Rio de Janeiro;;Cancelled;Cash;WH-CAL-03;3400;3970;maria.g@gmail.com;300
+ORD-000904;PRD-0009;t;Wireless Headset;Food & Beverage;Global Cargo Ltda;9200;132305;12172060;MXN;7/06/2022;;Brasil;BrasÃ­lia;;Delivered;PayPal;WH-CAL-03;4100;1910;sofia.v@outlook.com;390
+ORD-000905;PRD-0001;t;Office Chair Ergonomic;Electronics;Andean Freight Co.;4900;226357;11091493;USD;24/10/2022;2/12/2022;Mexico;Guadalajara;;Delivered;Credit Card;WH-MED-02;1000;1130;maria.g@outlook.com;410
+ORD-000906;PRD-0038;t;Industrial Drill;Food & Beverage;Global Cargo Ltda;9283600;191333;17762590388;COP;15/07/2022;2/08/2022;Colombia;BogotÃ¡;;Cancelled;Cash;WH-LIM-04;2300;2000;sofia.v@outlook.com;290
+ORD-000907;PRD-0019;t;Running Shoes M;Electronics;Logistics Pro S.A.;23500;179899;42276265;COP;3/07/2024;;Brasil;SÃ£o Paulo;;Cancelled;Cash;WH-234;3400;3720;sofia.v@outlook.com;290
+ORD-000908;PRD-0004;t;Coffee Maker 12cup;Apparel;Global Cargo Ltda;41700;65020;27113340;BRL;26/09/2023;13/11/2023;Brasil;Brasil;;Pending;Credit Card;WH-BOG-01;3100;310;ana.m@company.co;300
+ORD-000910;PRD-0012;t;Running Shoes M;Personal Care;Global Cargo Ltda;26000;177645;46187700;USD;7/08/2023;30/08/2023;Mexico;Monterrey;;Pending;Cash;WH-MED-02;3000;1780;luis.p@yahoo.com;430
+ORD-000911;PRD-0003;t;Laptop Pro 15;Industrial;Fastship Colombia;7760200;43091;3343947782;USD;22/09/2024;20/11/2024;Peru;Cusco;;Returned;Credit Card;WH-SCL-05;4300;3990;maria.g@gmail.com;130
+ORD-000912;PRD-0014;t;Office Chair Ergonomic;Personal Care;Andean Freight Co.;2500;187981;4699525;USD;16/09/2022;8/10/2022;Colombia;BogotÃ¡;;Returned;Cash;WH-LIM-04;1800;2560;luis.p@outlook.com;260
+ORD-000913;PRD-0007;t;Wireless Headset;Apparel;Andean Freight Co.;34000;238780;81185200;BRL;10/11/2022;;Peru;Cusco;;In Transit;Bank Transfer;WH-MED-02;2600;2820;carlos.r@company.co;340
+ORD-000914;PRD-0022;t;Safety Gloves L;Food & Beverage;Andean Freight Co.;19700;174641;34404277;BRL;25/01/2022;15/03/2022;Mexico;Ciudad de MÃ©xico;;Cancelled;Bank Transfer;WH-SCL-05;3100;3840;sofia.v@yahoo.com;290
+ORD-000915;PRD-0028;t;Laptop Pro 15;Personal Care;Logistics Pro S.A.;14400;6217;895248;BRL;5/05/2022;10/06/2022;Chile;ConcepciÃ³n;;Pending;Bank Transfer;WH-SCL-05;2900;2850;john.d@yahoo.com;410
+ORD-000916;PRD-0011;t;Protein Powder 2kg;Industrial;Logistics Pro S.A.;44800;190859;85504832;USD;15/11/2023;11/12/2023;Chile;Santiago;;Returned;Bank Transfer;WH-BOG-01;4000;680;carlos.r@yahoo.com;450
+ORD-000917;PRD-0005;t;Solar Panel 250W;Apparel;Fastship Colombia;16000;155634;24901440;MXN;26/05/2022;27/06/2022;Colombia;Cali;;Returned;Cash;WH-LIM-04;300;1940;john.d@company.co;290
+ORD-000918;PRD-0041;t;Office Chair Ergonomic;Industrial;Global Cargo Ltda;32700;73368;23991336;COP;28/09/2022;18/11/2022;Colombia;MedellÃ­n;;Pending;PayPal;WH-BOG-01;900;2810;luis.p@gmail.com;470
+ORD-000919;PRD-0035;t;Office Chair Ergonomic;Personal Care;Andean Freight Co.;43000;20850;8965500;BRL;15/04/2023;2/06/2023;Colombia;MedellÃ­n;;Returned;PayPal;WH-BOG-01;200;1310;luis.p@company.co;210
+ORD-000920;PRD-0006;t;Solar Panel 250W;Food & Beverage;Andean Freight Co.;25900;162887;42187733;COP;17/05/2023;25/05/2023;Brasil;Rio de Janeiro;;In Transit;Bank Transfer;WH-191;4100;3110;sofia.v@company.co;300
+ORD-000921;PRD-0000;t;Bluetooth Speaker;Personal Care;Pacific Trade Sas;22400;236857;53055968;MXN;24/05/2022;10/06/2022;Colombia;MedellÃ­n;;Pending;Cash;WH-CAL-03;3000;2750;john.d@yahoo.com;180
+ORD-000922;PRD-0030;t;Safety Gloves L;Industrial;Global Cargo Ltda;44100;245204;108134964;MXN;1/05/2022;17/06/2022;Colombia;BogotÃ¡;;Returned;Bank Transfer;WH-MED-02;2200;1550;maria.g@company.co;220
+ORD-000923;PRD-0001;t;Safety Gloves L;Unknown;Andean Freight Co.;34500;78021;26917245;MXN;18/12/2024;28/12/2024;Brasil;Rio de Janeiro;;Pending;PayPal;WH-BOG-01;2900;1480;maria.g@gmail.com;480
+ORD-000924;PRD-0002;t;LED Strip 5m;Electronics;Fastship Colombia;7500;2626;196950;COP;12/04/2022;31/12/2022;Colombia;BogotÃ¡;;Returned;PayPal;WH-CAL-03;2800;2370;;430
+ORD-000925;PRD-0005;t;Running Shoes M;Personal Care;Global Cargo Ltda;12700;84344;10711688;BRL;28/11/2022;6/01/2023;Chile;ConcepciÃ³n;;Pending;Cash;WH-765;200;2040;carlos.r@company.co;180
+ORD-000926;PRD-0047;t;Industrial Drill;Apparel;Fastship Colombia;47500;168083;79839425;MXN;2/05/2023;;Peru;Arequipa;;In Transit;Cash;WH-LIM-04;700;1780;maria.g@outlook.com;430
+ORD-000927;PRD-0006;t;Industrial Drill;Industrial;Andean Freight Co.;11100;146328;16242408;MXN;23/12/2022;20/02/2023;Chile;ValparaÃ­so;;Delivered;Bank Transfer;WH-712;2700;2810;sofia.v@company.co;360
+ORD-000928;prd-0012;f;Protein Powder 2kg;Industrial;Fastship Colombia;26600;105383;28031878;USD;21/06/2022;1/08/2022;Brasil;SÃ£o Paulo;;In Transit;Credit Card;WH-BOG-01;2700;1480;maria.g@yahoo.com;260
+ORD-000929;PRD-0029;t;Mechanical Keyboard;Industrial;Pacific Trade Sas;15800;132305;20904190;MXN;12/07/2024;31/07/2024;Brasil;BrasÃ­lia;;Delivered;Credit Card;WH-MED-02;1600;1330;luis.p@company.co;170
+ORD-000930;PRD-0030;t;Mechanical Keyboard;Industrial;Logistics Pro S.A.;2500;214949;5373725;MXN;13/10/2024;28/11/2024;Mexico;Ciudad de MÃ©xico;;In Transit;Cash;WH-SCL-05;100;2040;luis.p@company.co;320
+ORD-000931;PRD-0038;t;LED Strip 5m;Personal Care;Pacific Trade Sas;31000;132305;41014550;USD;11/08/2024;28/09/2024;Chile;ConcepciÃ³n;;In Transit;Bank Transfer;WH-CAL-03;1500;3180;john.d@gmail.com;130
+ORD-000932;PRD-0019;t;Bluetooth Speaker;Industrial;Fastship Colombia;21700;219598;47652766;BRL;23/11/2023;1/12/2023;Peru;Peru;;Returned;Bank Transfer;WH-CAL-03;-700;2040;ana.m@company.co;270
+ORD-000933;PRD-0035;t;Wireless Headset;Industrial;Fastship Colombia;27900;10476;2922804;USD;29/11/2023;11/01/2024;Colombia;Cali;;Returned;PayPal;WH-LIM-04;3200;660;luis.p@yahoo.com;300
+ORD-000934;PRD-0009;t;Bluetooth Speaker;Industrial;Andean Freight Co.;41900;151918;63653642;BRL;19/07/2024;22/07/2024;Chile;ConcepciÃ³n;;Delivered;Credit Card;WH-CAL-03;2200;1910;ana.m@yahoo.com;470
+ORD-000935;PRD-0028;t;Running Shoes M;Electronics;Global Cargo Ltda;31900;87739;27988741;BRL;30/12/2023;5/01/2024;Chile;Calle 863;;Returned;PayPal;WH-MED-02;3700;2160;sofia.v@yahoo.com;480
+ORD-000936;PRD-0035;t;LED Strip 5m;Electronics;Global Cargo Ltda;32900;35383;11641007;COP;22/03/2022;15/04/2022;Mexico;Monterrey;;Cancelled;PayPal;WH-BOG-01;4100;2870;john.d@yahoo.com;130
+ORD-000937;PRD-0027;t;Protein Powder 2kg;Apparel;Andean Freight Co.;6200;128271;7952802;MXN;17/05/2023;12/07/2023;Chile;ConcepciÃ³n;;Delivered;Cash;WH-BOG-01;1200;2890;sofia.v@yahoo.com;150
+ORD-000938;PRD-0026;t;Wireless Headset;Industrial;Global Cargo Ltda;1800;67258;1210644;MXN;27/06/2022;29/06/2022;Chile;Santiago;;Delivered;Cash;WH-SCL-05;4100;1570;ana.m@gmail.com;460
+ORD-000939;PRD-0011;t;Safety Gloves L;Industrial;Global Cargo Ltda;49600;197039;97731344;BRL;1/03/2022;;Colombia;Colombia;;Pending;Bank Transfer;WH-CAL-03;2300;2180;ana.m@outlook.com;220
+ORD-000940;PRD-0035;t;Running Shoes M;Personal Care;Global Cargo Ltda;29800;100964;30087272;COP;21/08/2024;8/10/2024;Brasil;Rio de Janeiro;;Cancelled;Bank Transfer;WH-245;1900;450;ana.m@outlook.com;300
+ORD-000941;PRD-0049;t;Safety Gloves L;Personal Care;Global Cargo Ltda;39500;44740;17672300;BRL;27/05/2024;5/09/2024;Chile;Santiago;;Returned;PayPal;WH-SCL-05;2500;2630;maria.g@yahoo.com;280
+ORD-000942;PRD-0036;t;Mechanical Keyboard;Apparel;Andean Freight Co.;46700;62744;29301448;COP;9/09/2024;26/10/2024;Mexico;Monterrey;;Returned;Bank Transfer;WH-MED-02;4000;1580;ana.m@company.co;260
